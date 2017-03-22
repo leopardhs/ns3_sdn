@@ -1,0 +1,4920 @@
+Waf: Entering directory `/host/chl/sdn/2s/build'
+Waf: Leaving directory `/host/chl/sdn/2s/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (2.449s)
+Mode: SDN
+SumoMobility::Install
+mobility.Install
+0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80,81,82,83,84,85,86,87,88,89,90,91,92,93,94,95,96,97,98,99,100,101,102,103,104,105,106,107,108,109,110,111,112,113,114,115,116,117,118,119,120,121,122,123,124,125,126,127,128,129,130,131,132,133,134,135,136,137,138,139,140,141,142,143,144,145,146,147,148,149,150,151,152,153,154,155,156,157,158,159,160,161,162,163,164,165,166,167,168,169,170,171,172,173,174,175,176,177,178,179,180,181,182,183,184,185,186,187,188,189,190,191,192,193,194,195,196,197,198,199,200,201,202,203,204,205,206,207,208,209,210,211,212,213,214,215,216,217,218,219,220,221,222,223,224,225,226,227,228,229,230,231,232,233,234,235,236,237,238,239,240,241,242,243,244,245,246,247,248,249,250,251,252,253,254,255,256,257,258,259,260,261,262,263,264,265,266,267,268,269,270,271,272,273,274,275,276,277,278,279,280,281,282,283,284,285,286,287,288,289,290,291,292,293,294,295,296,297,298,299,300,301,302,303,304,305,306,307,308,309,310,311,
+Max time in fcdoutput.xml is 419
+Now?0
+SetRoutingHelper Done
+internet.Install Done
+IPV4S Assigned
+IPV4C Assigned
+Starting simulation for 420 s ...
+Upper:0
+BS_count:1,LowerBound:0
+CR DONE
+Upper:0
+BS_count:1,LowerBound:0
+CR DONE
+Upper:0
+BS_count:1,LowerBound:0
+CR DONE
+Now:0
+Tx_Data_Pkts:   0,   0
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+NORMAL BUSTED!
+Upper:18.2704
+BS_count:7,LowerBound:12.2754
+CHAIN:
+10.1.0.97(135.636),
+10.1.0.83(460.999),
+10.1.0.72(821.763),
+CR DONE
+Upper:11.3315
+BS_count:6,LowerBound:10.9774
+CHAIN:
+10.1.0.61(176.801),
+10.1.0.50(494.138),
+10.1.0.37(820.64),
+CR DONE
+Upper:12.7101
+BS_count:6,LowerBound:11.1213
+CHAIN:
+10.1.0.27(158.233),
+10.1.0.16(485.709),
+10.1.0.4(833.248),
+CR DONE
+Now:1
+Tx_Data_Pkts:   122,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:2
+Tx_Data_Pkts:   244,   122
+Rx_Data_Pkts:   212,   212
+Unique_RX_Pkts: 106,   106
+Rx_Data_Pkts2:   208,   208
+Unique_RX_Pkts2: 106,   106
+Rx_Data_Pkts3:   99,   99
+Unique_RX_Pkts3: 99,   99
+NORMAL BUSTED!
+Now:3
+Tx_Data_Pkts:   366,   122
+Rx_Data_Pkts:   456,   244
+Unique_RX_Pkts: 228,   122
+Rx_Data_Pkts2:   452,   244
+Unique_RX_Pkts2: 228,   122
+Rx_Data_Pkts3:   221,   122
+Unique_RX_Pkts3: 221,   122
+NORMAL BUSTED!
+NORMAL BUSTED!
+Now:4
+Tx_Data_Pkts:   488,   122
+Rx_Data_Pkts:   700,   244
+Unique_RX_Pkts: 350,   122
+Rx_Data_Pkts2:   696,   244
+Unique_RX_Pkts2: 350,   122
+Rx_Data_Pkts3:   343,   122
+Unique_RX_Pkts3: 343,   122
+NORMAL BUSTED!
+Now:5
+Tx_Data_Pkts:   610,   122
+Rx_Data_Pkts:   944,   244
+Unique_RX_Pkts: 472,   122
+Rx_Data_Pkts2:   940,   244
+Unique_RX_Pkts2: 472,   122
+Rx_Data_Pkts3:   465,   122
+Unique_RX_Pkts3: 465,   122
+NORMAL BUSTED!
+Now:6
+Tx_Data_Pkts:   732,   122
+Rx_Data_Pkts:   1189,   245
+Unique_RX_Pkts: 595,   123
+Rx_Data_Pkts2:   1184,   244
+Unique_RX_Pkts2: 594,   122
+Rx_Data_Pkts3:   587,   122
+Unique_RX_Pkts3: 587,   122
+NORMAL BUSTED!
+Now:7
+Tx_Data_Pkts:   854,   122
+Rx_Data_Pkts:   1433,   244
+Unique_RX_Pkts: 717,   122
+Rx_Data_Pkts2:   1428,   244
+Unique_RX_Pkts2: 716,   122
+Rx_Data_Pkts3:   709,   122
+Unique_RX_Pkts3: 709,   122
+NORMAL BUSTED!
+NORMAL BUSTED!
+NORMAL BUSTED!
+Now:8
+Tx_Data_Pkts:   976,   122
+Rx_Data_Pkts:   1678,   245
+Unique_RX_Pkts: 839,   122
+Rx_Data_Pkts2:   1672,   244
+Unique_RX_Pkts2: 838,   122
+Rx_Data_Pkts3:   831,   122
+Unique_RX_Pkts3: 831,   122
+NORMAL BUSTED!
+Now:9
+Tx_Data_Pkts:   1098,   122
+Rx_Data_Pkts:   1922,   244
+Unique_RX_Pkts: 961,   122
+Rx_Data_Pkts2:   1996,   324
+Unique_RX_Pkts2: 960,   122
+Rx_Data_Pkts3:   1048,   217
+Unique_RX_Pkts3: 953,   122
+Now:10
+Tx_Data_Pkts:   1220,   122
+Rx_Data_Pkts:   2166,   244
+Unique_RX_Pkts: 1083,   122
+Rx_Data_Pkts2:   2363,   367
+Unique_RX_Pkts2: 1083,   123
+Rx_Data_Pkts3:   1292,   244
+Unique_RX_Pkts3: 1075,   122
+NORMAL BUSTED!
+Now:11
+Tx_Data_Pkts:   1342,   122
+Rx_Data_Pkts:   2454,   288
+Unique_RX_Pkts: 1205,   122
+Rx_Data_Pkts2:   2730,   367
+Unique_RX_Pkts2: 1205,   122
+Rx_Data_Pkts3:   1536,   244
+Unique_RX_Pkts3: 1197,   122
+!IsInMyArea192.168.0.4,Pos:1641.89,900.692,-82.8425 Start:1010,1000;End:2000,990
+Upper:11.5655
+BS_count:6,LowerBound:11.2041
+CHAIN:
+10.1.0.66(166.415),
+10.1.0.57(496.519),
+10.1.0.42(815.196),
+CR DONE
+NORMAL BUSTED!
+NORMAL BUSTED!
+NORMAL BUSTED!
+Now:12
+Tx_Data_Pkts:   1464,   122
+Rx_Data_Pkts:   2820,   366
+Unique_RX_Pkts: 1327,   122
+Rx_Data_Pkts2:   3096,   366
+Unique_RX_Pkts2: 1327,   122
+Rx_Data_Pkts3:   1658,   122
+Unique_RX_Pkts3: 1319,   122
+Upper:12.5036
+BS_count:6,LowerBound:12.1129
+CHAIN:
+10.1.0.34(96.6302),
+10.1.0.23(442.358),
+10.1.0.11(805.441),
+CR DONE
+Now:13
+Tx_Data_Pkts:   1586,   122
+Rx_Data_Pkts:   3209,   389
+Unique_RX_Pkts: 1449,   122
+Rx_Data_Pkts2:   3360,   264
+Unique_RX_Pkts2: 1449,   122
+Rx_Data_Pkts3:   1781,   123
+Unique_RX_Pkts3: 1441,   122
+Upper:155.238
+BS_count:10,LowerBound:11.8248
+CHAIN:
+10.1.0.104(165.365),
+10.1.0.90(488.837),
+10.1.0.77(826.278),
+CR DONE
+!IsInMyArea192.168.0.72,Pos:1000.02,-4.68365,0 Start:0,0;End:1000,-10
+NORMAL BUSTED!
+NORMAL BUSTED!
+Now:14
+Tx_Data_Pkts:   1708,   122
+Rx_Data_Pkts:   3471,   262
+Unique_RX_Pkts: 1571,   122
+Rx_Data_Pkts2:   3558,   198
+Unique_RX_Pkts2: 1548,   99
+Rx_Data_Pkts3:   1880,   99
+Unique_RX_Pkts3: 1540,   99
+NORMAL BUSTED!
+Now:15
+Tx_Data_Pkts:   1831,   123
+Rx_Data_Pkts:   3715,   244
+Unique_RX_Pkts: 1693,   122
+Rx_Data_Pkts2:   3802,   244
+Unique_RX_Pkts2: 1670,   122
+Rx_Data_Pkts3:   2002,   122
+Unique_RX_Pkts3: 1662,   122
+NORMAL BUSTED!
+Now:16
+Tx_Data_Pkts:   1953,   122
+Rx_Data_Pkts:   3959,   244
+Unique_RX_Pkts: 1815,   122
+Rx_Data_Pkts2:   4046,   244
+Unique_RX_Pkts2: 1792,   122
+Rx_Data_Pkts3:   2125,   123
+Unique_RX_Pkts3: 1785,   123
+NORMAL BUSTED!
+NORMAL BUSTED!
+Now:17
+Tx_Data_Pkts:   2075,   122
+Rx_Data_Pkts:   4203,   244
+Unique_RX_Pkts: 1937,   122
+Rx_Data_Pkts2:   4290,   244
+Unique_RX_Pkts2: 1914,   122
+Rx_Data_Pkts3:   2247,   122
+Unique_RX_Pkts3: 1907,   122
+NORMAL BUSTED!
+Now:18
+Tx_Data_Pkts:   2197,   122
+Rx_Data_Pkts:   4447,   244
+Unique_RX_Pkts: 2059,   122
+Rx_Data_Pkts2:   4534,   244
+Unique_RX_Pkts2: 2036,   122
+Rx_Data_Pkts3:   2369,   122
+Unique_RX_Pkts3: 2029,   122
+NORMAL BUSTED!
+Now:19
+Tx_Data_Pkts:   2319,   122
+Rx_Data_Pkts:   4691,   244
+Unique_RX_Pkts: 2181,   122
+Rx_Data_Pkts2:   4829,   295
+Unique_RX_Pkts2: 2158,   122
+Rx_Data_Pkts3:   2491,   122
+Unique_RX_Pkts3: 2151,   122
+NORMAL BUSTED!
+Now:20
+Tx_Data_Pkts:   2441,   122
+Rx_Data_Pkts:   4935,   244
+Unique_RX_Pkts: 2303,   122
+Rx_Data_Pkts2:   5195,   366
+Unique_RX_Pkts2: 2280,   122
+Rx_Data_Pkts3:   2613,   122
+Unique_RX_Pkts3: 2273,   122
+NORMAL BUSTED!
+Now:21
+Tx_Data_Pkts:   2563,   122
+Rx_Data_Pkts:   5180,   245
+Unique_RX_Pkts: 2426,   123
+Rx_Data_Pkts2:   5561,   366
+Unique_RX_Pkts2: 2402,   122
+Rx_Data_Pkts3:   2735,   122
+Unique_RX_Pkts3: 2395,   122
+NORMAL BUSTED!
+NORMAL BUSTED!
+NORMAL BUSTED!
+Now:22
+Tx_Data_Pkts:   2685,   122
+Rx_Data_Pkts:   5532,   352
+Unique_RX_Pkts: 2548,   122
+Rx_Data_Pkts2:   5927,   366
+Unique_RX_Pkts2: 2524,   122
+Rx_Data_Pkts3:   2857,   122
+Unique_RX_Pkts3: 2517,   122
+Now:23
+Tx_Data_Pkts:   2807,   122
+Rx_Data_Pkts:   5898,   366
+Unique_RX_Pkts: 2670,   122
+Rx_Data_Pkts2:   6293,   366
+Unique_RX_Pkts2: 2646,   122
+Rx_Data_Pkts3:   3034,   177
+Unique_RX_Pkts3: 2639,   122
+Upper:9.39242
+BS_count:6,LowerBound:9.09891
+CHAIN:
+10.1.0.71(164.979),
+10.1.0.61(501.532),
+10.1.0.50(809.31),
+CR DONE
+NORMAL BUSTED!
+NORMAL BUSTED!
+Now:24
+Tx_Data_Pkts:   2929,   122
+Rx_Data_Pkts:   6281,   383
+Unique_RX_Pkts: 2792,   122
+Rx_Data_Pkts2:   6569,   276
+Unique_RX_Pkts2: 2768,   122
+Rx_Data_Pkts3:   3278,   244
+Unique_RX_Pkts3: 2761,   122
+!IsInMyArea192.168.0.11,Pos:521.192,847.808,-130.954 Start:1010,1000;End:2000,990
+Upper:11.993
+BS_count:6,LowerBound:10.1191
+CHAIN:
+10.1.0.38(134.78),
+10.1.0.27(489.268),
+10.1.0.16(833.263),
+CR DONE
+NORMAL BUSTED!
+NORMAL BUSTED!
+Now:25
+Tx_Data_Pkts:   3051,   122
+Rx_Data_Pkts:   6647,   366
+Unique_RX_Pkts: 2914,   122
+Rx_Data_Pkts2:   6825,   256
+Unique_RX_Pkts2: 2891,   123
+Rx_Data_Pkts3:   3400,   122
+Unique_RX_Pkts3: 2883,   122
+Upper:48.1696
+BS_count:8,LowerBound:12.4187
+CHAIN:
+10.1.0.111(141.923),
+10.1.0.97(485.023),
+10.1.0.83(815.722),
+CR DONE
+NORMAL BUSTED!
+Now:26
+Tx_Data_Pkts:   3173,   122
+Rx_Data_Pkts:   6916,   269
+Unique_RX_Pkts: 3036,   122
+Rx_Data_Pkts2:   7069,   244
+Unique_RX_Pkts2: 3013,   122
+Rx_Data_Pkts3:   3522,   122
+Unique_RX_Pkts3: 3005,   122
+NORMAL BUSTED!
+Now:27
+Tx_Data_Pkts:   3295,   122
+Rx_Data_Pkts:   7160,   244
+Unique_RX_Pkts: 3158,   122
+Rx_Data_Pkts2:   7314,   245
+Unique_RX_Pkts2: 3135,   122
+Rx_Data_Pkts3:   3644,   122
+Unique_RX_Pkts3: 3127,   122
+NORMAL BUSTED!
+Now:28
+Tx_Data_Pkts:   3417,   122
+Rx_Data_Pkts:   7404,   244
+Unique_RX_Pkts: 3280,   122
+Rx_Data_Pkts2:   7558,   244
+Unique_RX_Pkts2: 3257,   122
+Rx_Data_Pkts3:   3766,   122
+Unique_RX_Pkts3: 3249,   122
+NORMAL BUSTED!
+NORMAL BUSTED!
+Now:29
+Tx_Data_Pkts:   3540,   123
+Rx_Data_Pkts:   7648,   244
+Unique_RX_Pkts: 3402,   122
+Rx_Data_Pkts2:   7802,   244
+Unique_RX_Pkts2: 3379,   122
+Rx_Data_Pkts3:   3888,   122
+Unique_RX_Pkts3: 3371,   122
+NORMAL BUSTED!
+NORMAL BUSTED!
+Now:30
+Tx_Data_Pkts:   3662,   122
+Rx_Data_Pkts:   7892,   244
+Unique_RX_Pkts: 3524,   122
+Rx_Data_Pkts2:   8046,   244
+Unique_RX_Pkts2: 3501,   122
+Rx_Data_Pkts3:   4011,   123
+Unique_RX_Pkts3: 3494,   123
+NORMAL BUSTED!
+NORMAL BUSTED!
+Now:31
+Tx_Data_Pkts:   3784,   122
+Rx_Data_Pkts:   8136,   244
+Unique_RX_Pkts: 3646,   122
+Rx_Data_Pkts2:   8349,   303
+Unique_RX_Pkts2: 3623,   122
+Rx_Data_Pkts3:   4150,   139
+Unique_RX_Pkts3: 3616,   122
+NORMAL BUSTED!
+NORMAL BUSTED!
+Now:32
+Tx_Data_Pkts:   3906,   122
+Rx_Data_Pkts:   8380,   244
+Unique_RX_Pkts: 3768,   122
+Rx_Data_Pkts2:   8715,   366
+Unique_RX_Pkts2: 3745,   122
+Rx_Data_Pkts3:   4394,   244
+Unique_RX_Pkts3: 3738,   122
+Upper:13.8538
+BS_count:6,LowerBound:13.4208
+CHAIN:
+10.1.0.76(121.129),
+10.1.0.66(463.113),
+10.1.0.56(803.619),
+CR DONE
+NORMAL BUSTED!
+Now:33
+Tx_Data_Pkts:   4028,   122
+Rx_Data_Pkts:   8635,   255
+Unique_RX_Pkts: 3890,   122
+Rx_Data_Pkts2:   9006,   291
+Unique_RX_Pkts2: 3867,   122
+Rx_Data_Pkts3:   4638,   244
+Unique_RX_Pkts3: 3860,   122
+NORMAL BUSTED!
+NORMAL BUSTED!
+NORMAL BUSTED!
+Now:34
+Tx_Data_Pkts:   4150,   122
+Rx_Data_Pkts:   8951,   316
+Unique_RX_Pkts: 4013,   123
+Rx_Data_Pkts2:   9250,   244
+Unique_RX_Pkts2: 3989,   122
+Rx_Data_Pkts3:   4882,   244
+Unique_RX_Pkts3: 3982,   122
+Upper:13.7283
+BS_count:6,LowerBound:13.2993
+CHAIN:
+10.1.0.43(113.397),
+10.1.0.33(445.267),
+10.1.0.22(794.777),
+CR DONE
+NORMAL BUSTED!
+Now:35
+Tx_Data_Pkts:   4272,   122
+Rx_Data_Pkts:   9318,   367
+Unique_RX_Pkts: 4135,   122
+Rx_Data_Pkts2:   9509,   259
+Unique_RX_Pkts2: 4111,   122
+Rx_Data_Pkts3:   5076,   194
+Unique_RX_Pkts3: 4104,   122
+NORMAL BUSTED!
+Now:36
+Tx_Data_Pkts:   4394,   122
+Rx_Data_Pkts:   9685,   367
+Unique_RX_Pkts: 4257,   122
+Rx_Data_Pkts2:   9753,   244
+Unique_RX_Pkts2: 4233,   122
+Rx_Data_Pkts3:   5198,   122
+Unique_RX_Pkts3: 4226,   122
+NORMAL BUSTED!
+NORMAL BUSTED!
+Now:37
+Tx_Data_Pkts:   4516,   122
+Rx_Data_Pkts:   10051,   366
+Unique_RX_Pkts: 4379,   122
+Rx_Data_Pkts2:   9997,   244
+Unique_RX_Pkts2: 4355,   122
+Rx_Data_Pkts3:   5320,   122
+Unique_RX_Pkts3: 4348,   122
+Upper:28.1134
+BS_count:7,LowerBound:13.1782
+CHAIN:
+10.1.0.116(144.003),
+10.1.0.105(467.992),
+10.1.0.92(801.276),
+CR DONE
+Now:38
+Tx_Data_Pkts:   4638,   122
+Rx_Data_Pkts:   10380,   329
+Unique_RX_Pkts: 4501,   122
+Rx_Data_Pkts2:   10241,   244
+Unique_RX_Pkts2: 4477,   122
+Rx_Data_Pkts3:   5442,   122
+Unique_RX_Pkts3: 4470,   122
+NORMAL BUSTED!
+NORMAL BUSTED!
+Now:39
+Tx_Data_Pkts:   4760,   122
+Rx_Data_Pkts:   10624,   244
+Unique_RX_Pkts: 4623,   122
+Rx_Data_Pkts2:   10486,   245
+Unique_RX_Pkts2: 4600,   123
+Rx_Data_Pkts3:   5564,   122
+Unique_RX_Pkts3: 4592,   122
+NORMAL BUSTED!
+Now:40
+Tx_Data_Pkts:   4882,   122
+Rx_Data_Pkts:   10868,   244
+Unique_RX_Pkts: 4745,   122
+Rx_Data_Pkts2:   10730,   244
+Unique_RX_Pkts2: 4722,   122
+Rx_Data_Pkts3:   5686,   122
+Unique_RX_Pkts3: 4714,   122
+NORMAL BUSTED!
+NORMAL BUSTED!
+NORMAL BUSTED!
+Now:41
+Tx_Data_Pkts:   5004,   122
+Rx_Data_Pkts:   11112,   244
+Unique_RX_Pkts: 4867,   122
+Rx_Data_Pkts2:   10975,   245
+Unique_RX_Pkts2: 4844,   122
+Rx_Data_Pkts3:   5808,   122
+Unique_RX_Pkts3: 4836,   122
+NORMAL BUSTED!
+Now:42
+Tx_Data_Pkts:   5126,   122
+Rx_Data_Pkts:   11356,   244
+Unique_RX_Pkts: 4989,   122
+Rx_Data_Pkts2:   11219,   244
+Unique_RX_Pkts2: 4966,   122
+Rx_Data_Pkts3:   5930,   122
+Unique_RX_Pkts3: 4958,   122
+NORMAL BUSTED!
+NORMAL BUSTED!
+NORMAL BUSTED!
+Now:43
+Tx_Data_Pkts:   5249,   123
+Rx_Data_Pkts:   11600,   244
+Unique_RX_Pkts: 5111,   122
+Rx_Data_Pkts2:   11561,   342
+Unique_RX_Pkts2: 5088,   122
+Rx_Data_Pkts3:   6052,   122
+Unique_RX_Pkts3: 5080,   122
+Now:44
+Tx_Data_Pkts:   5371,   122
+Rx_Data_Pkts:   11844,   244
+Unique_RX_Pkts: 5233,   122
+Rx_Data_Pkts2:   11927,   366
+Unique_RX_Pkts2: 5210,   122
+Rx_Data_Pkts3:   6175,   123
+Unique_RX_Pkts3: 5203,   123
+!IsInMyArea192.168.0.56,Pos:1010.01,990.133,0 Start:1000,0;End:1010,1000
+NORMAL BUSTED!
+NORMAL BUSTED!
+NORMAL BUSTED!
+NORMAL BUSTED!
+NORMAL BUSTED!
+Now:45
+Tx_Data_Pkts:   5493,   122
+Rx_Data_Pkts:   12088,   244
+Unique_RX_Pkts: 5355,   122
+Rx_Data_Pkts2:   12237,   310
+Unique_RX_Pkts2: 5332,   122
+Rx_Data_Pkts3:   6350,   175
+Unique_RX_Pkts3: 5297,   94
+Upper:11.7108
+BS_count:6,LowerBound:11.3448
+CHAIN:
+10.1.0.81(164.211),
+10.1.0.71(497.908),
+10.1.0.61(831.22),
+CR DONE
+NORMAL BUSTED!
+Now:46
+Tx_Data_Pkts:   5615,   122
+Rx_Data_Pkts:   12338,   250
+Unique_RX_Pkts: 5477,   122
+Rx_Data_Pkts2:   12387,   150
+Unique_RX_Pkts2: 5454,   122
+Rx_Data_Pkts3:   6406,   56
+Unique_RX_Pkts3: 5325,   28
+NORMAL BUSTED!
+NORMAL BUSTED!
+Now:47
+Tx_Data_Pkts:   5737,   122
+Rx_Data_Pkts:   12632,   294
+Unique_RX_Pkts: 5599,   122
+Rx_Data_Pkts2:   12631,   244
+Unique_RX_Pkts2: 5576,   122
+Rx_Data_Pkts3:   6650,   244
+Unique_RX_Pkts3: 5447,   122
+Upper:12.9588
+BS_count:6,LowerBound:11.7439
+CHAIN:
+10.1.0.51(127.858),
+10.1.0.38(469.657),
+10.1.0.28(814.12),
+CR DONE
+FORWARDER--------------BUSTED!
+Now:48
+Tx_Data_Pkts:   5859,   122
+Rx_Data_Pkts:   12999,   367
+Unique_RX_Pkts: 5722,   123
+Rx_Data_Pkts2:   12893,   262
+Unique_RX_Pkts2: 5698,   122
+Rx_Data_Pkts3:   6772,   122
+Unique_RX_Pkts3: 5569,   122
+NORMAL BUSTED!
+Now:49
+Tx_Data_Pkts:   5981,   122
+Rx_Data_Pkts:   13366,   367
+Unique_RX_Pkts: 5844,   122
+Rx_Data_Pkts2:   13137,   244
+Unique_RX_Pkts2: 5820,   122
+Rx_Data_Pkts3:   6894,   122
+Unique_RX_Pkts3: 5691,   122
+NORMAL BUSTED!
+Now:50
+Tx_Data_Pkts:   6103,   122
+Rx_Data_Pkts:   13732,   366
+Unique_RX_Pkts: 5966,   122
+Rx_Data_Pkts2:   13381,   244
+Unique_RX_Pkts2: 5942,   122
+Rx_Data_Pkts3:   7016,   122
+Unique_RX_Pkts3: 5813,   122
+Upper:221.346
+BS_count:10,LowerBound:12.1049
+CHAIN:
+10.1.0.121(197.076),
+10.1.0.112(477.42),
+10.1.0.99(820.675),
+CR DONE
+NORMAL BUSTED!
+NORMAL BUSTED!
+Now:51
+Tx_Data_Pkts:   6225,   122
+Rx_Data_Pkts:   14075,   343
+Unique_RX_Pkts: 6088,   122
+Rx_Data_Pkts2:   13625,   244
+Unique_RX_Pkts2: 6064,   122
+Rx_Data_Pkts3:   7138,   122
+Unique_RX_Pkts3: 5935,   122
+NORMAL BUSTED!
+NORMAL BUSTED!
+Now:52
+Tx_Data_Pkts:   6347,   122
+Rx_Data_Pkts:   14319,   244
+Unique_RX_Pkts: 6210,   122
+Rx_Data_Pkts2:   13869,   244
+Unique_RX_Pkts2: 6186,   122
+Rx_Data_Pkts3:   7260,   122
+Unique_RX_Pkts3: 6057,   122
+NORMAL BUSTED!
+NORMAL BUSTED!
+Now:53
+Tx_Data_Pkts:   6469,   122
+Rx_Data_Pkts:   14563,   244
+Unique_RX_Pkts: 6332,   122
+Rx_Data_Pkts2:   14113,   244
+Unique_RX_Pkts2: 6308,   122
+Rx_Data_Pkts3:   7382,   122
+Unique_RX_Pkts3: 6179,   122
+NORMAL BUSTED!
+Now:54
+Tx_Data_Pkts:   6591,   122
+Rx_Data_Pkts:   14807,   244
+Unique_RX_Pkts: 6454,   122
+Rx_Data_Pkts2:   14422,   309
+Unique_RX_Pkts2: 6431,   123
+Rx_Data_Pkts3:   7504,   122
+Unique_RX_Pkts3: 6301,   122
+NORMAL BUSTED!
+Now:55
+Tx_Data_Pkts:   6713,   122
+Rx_Data_Pkts:   15051,   244
+Unique_RX_Pkts: 6576,   122
+Rx_Data_Pkts2:   14789,   367
+Unique_RX_Pkts2: 6553,   122
+Rx_Data_Pkts3:   7626,   122
+Unique_RX_Pkts3: 6423,   122
+NORMAL BUSTED!
+Now:56
+Tx_Data_Pkts:   6835,   122
+Rx_Data_Pkts:   15295,   244
+Unique_RX_Pkts: 6698,   122
+Rx_Data_Pkts2:   15155,   366
+Unique_RX_Pkts2: 6675,   122
+Rx_Data_Pkts3:   7760,   134
+Unique_RX_Pkts3: 6545,   122
+NORMAL BUSTED!
+Now:57
+Tx_Data_Pkts:   6958,   123
+Rx_Data_Pkts:   15539,   244
+Unique_RX_Pkts: 6820,   122
+Rx_Data_Pkts2:   15521,   366
+Unique_RX_Pkts2: 6797,   122
+Rx_Data_Pkts3:   8005,   245
+Unique_RX_Pkts3: 6668,   123
+Upper:13.2514
+BS_count:6,LowerBound:11.595
+CHAIN:
+10.1.0.86(160.408),
+10.1.0.76(488.192),
+10.1.0.66(825.155),
+CR DONE
+NORMAL BUSTED!
+NORMAL BUSTED!
+Now:58
+Tx_Data_Pkts:   7080,   122
+Rx_Data_Pkts:   15783,   244
+Unique_RX_Pkts: 6942,   122
+Rx_Data_Pkts2:   15788,   267
+Unique_RX_Pkts2: 6919,   122
+Rx_Data_Pkts3:   8250,   245
+Unique_RX_Pkts3: 6790,   122
+miscalculation on FORWARDER Car:10.1.0.28
+Upper:12.6019
+BS_count:6,LowerBound:12.2081
+CHAIN:
+10.1.0.58(104.66),
+10.1.0.43(462.161),
+10.1.0.32(804.772),
+CR DONE
+NORMAL BUSTED!
+NORMAL BUSTED!
+Now:59
+Tx_Data_Pkts:   7202,   122
+Rx_Data_Pkts:   16045,   262
+Unique_RX_Pkts: 7064,   122
+Rx_Data_Pkts2:   16033,   245
+Unique_RX_Pkts2: 7041,   122
+Rx_Data_Pkts3:   8387,   137
+Unique_RX_Pkts3: 6912,   122
+NORMAL BUSTED!
+Now:60
+Tx_Data_Pkts:   7324,   122
+Rx_Data_Pkts:   16411,   366
+Unique_RX_Pkts: 7186,   122
+Rx_Data_Pkts2:   16277,   244
+Unique_RX_Pkts2: 7163,   122
+Rx_Data_Pkts3:   8509,   122
+Unique_RX_Pkts3: 7034,   122
+Now:61
+Tx_Data_Pkts:   7446,   122
+Rx_Data_Pkts:   16777,   366
+Unique_RX_Pkts: 7308,   122
+Rx_Data_Pkts2:   16521,   244
+Unique_RX_Pkts2: 7285,   122
+Rx_Data_Pkts3:   8631,   122
+Unique_RX_Pkts3: 7156,   122
+NORMAL BUSTED!
+NORMAL BUSTED!
+NORMAL BUSTED!
+Now:62
+Tx_Data_Pkts:   7568,   122
+Rx_Data_Pkts:   17144,   367
+Unique_RX_Pkts: 7431,   123
+Rx_Data_Pkts2:   16765,   244
+Unique_RX_Pkts2: 7407,   122
+Rx_Data_Pkts3:   8753,   122
+Unique_RX_Pkts3: 7278,   122
+Upper:177.92
+BS_count:10,LowerBound:10.7725
+CHAIN:
+10.1.0.126(169.499),
+10.1.0.116(507.259),
+10.1.0.105(838.104),
+CR DONE
+Now:63
+Tx_Data_Pkts:   7690,   122
+Rx_Data_Pkts:   17511,   367
+Unique_RX_Pkts: 7553,   122
+Rx_Data_Pkts2:   17009,   244
+Unique_RX_Pkts2: 7529,   122
+Rx_Data_Pkts3:   8875,   122
+Unique_RX_Pkts3: 7400,   122
+NORMAL BUSTED!
+NORMAL BUSTED!
+NORMAL BUSTED!
+Now:64
+Tx_Data_Pkts:   7812,   122
+Rx_Data_Pkts:   17758,   247
+Unique_RX_Pkts: 7675,   122
+Rx_Data_Pkts2:   17253,   244
+Unique_RX_Pkts2: 7651,   122
+Rx_Data_Pkts3:   8997,   122
+Unique_RX_Pkts3: 7522,   122
+Now:65
+Tx_Data_Pkts:   7934,   122
+Rx_Data_Pkts:   18003,   245
+Unique_RX_Pkts: 7797,   122
+Rx_Data_Pkts2:   17497,   244
+Unique_RX_Pkts2: 7773,   122
+Rx_Data_Pkts3:   9119,   122
+Unique_RX_Pkts3: 7644,   122
+NORMAL BUSTED!
+NORMAL BUSTED!
+Now:66
+Tx_Data_Pkts:   8056,   122
+Rx_Data_Pkts:   18247,   244
+Unique_RX_Pkts: 7919,   122
+Rx_Data_Pkts2:   17741,   244
+Unique_RX_Pkts2: 7895,   122
+Rx_Data_Pkts3:   9241,   122
+Unique_RX_Pkts3: 7766,   122
+NORMAL BUSTED!
+NORMAL BUSTED!
+Now:67
+Tx_Data_Pkts:   8178,   122
+Rx_Data_Pkts:   18491,   244
+Unique_RX_Pkts: 8041,   122
+Rx_Data_Pkts2:   18100,   359
+Unique_RX_Pkts2: 8018,   123
+Rx_Data_Pkts3:   9363,   122
+Unique_RX_Pkts3: 7888,   122
+NORMAL BUSTED!
+NORMAL BUSTED!
+Now:68
+Tx_Data_Pkts:   8300,   122
+Rx_Data_Pkts:   18735,   244
+Unique_RX_Pkts: 8163,   122
+Rx_Data_Pkts2:   18467,   367
+Unique_RX_Pkts2: 8140,   122
+Rx_Data_Pkts3:   9523,   160
+Unique_RX_Pkts3: 8010,   122
+miscalculation on FORWARDER Car:10.1.0.76
+Upper:12.9546
+BS_count:6,LowerBound:11.3353
+CHAIN:
+10.1.0.96(141.776),
+10.1.0.81(492.692),
+10.1.0.71(829.188),
+CR DONE
+NORMAL BUSTED!
+Now:69
+Tx_Data_Pkts:   8422,   122
+Rx_Data_Pkts:   18989,   254
+Unique_RX_Pkts: 8285,   122
+Rx_Data_Pkts2:   18738,   271
+Unique_RX_Pkts2: 8262,   122
+Rx_Data_Pkts3:   9769,   246
+Unique_RX_Pkts3: 8132,   122
+!IsInMyArea192.168.0.32,Pos:-722.172,899.316,-84.0942 Start:1010,1000;End:2000,990
+NORMAL BUSTED!
+NORMAL BUSTED!
+Now:70
+Tx_Data_Pkts:   8544,   122
+Rx_Data_Pkts:   19351,   362
+Unique_RX_Pkts: 8407,   122
+Rx_Data_Pkts2:   18982,   244
+Unique_RX_Pkts2: 8384,   122
+Rx_Data_Pkts3:   9891,   122
+Unique_RX_Pkts3: 8254,   122
+Upper:10.8073
+BS_count:6,LowerBound:10.4696
+CHAIN:
+10.1.0.62(118.022),
+10.1.0.51(460.842),
+10.1.0.38(793.546),
+CR DONE
+NORMAL BUSTED!
+Now:71
+Tx_Data_Pkts:   8666,   122
+Rx_Data_Pkts:   19717,   366
+Unique_RX_Pkts: 8529,   122
+Rx_Data_Pkts2:   19250,   268
+Unique_RX_Pkts2: 8506,   122
+Rx_Data_Pkts3:   10013,   122
+Unique_RX_Pkts3: 8376,   122
+NORMAL BUSTED!
+NORMAL BUSTED!
+Now:72
+Tx_Data_Pkts:   8789,   123
+Rx_Data_Pkts:   20083,   366
+Unique_RX_Pkts: 8651,   122
+Rx_Data_Pkts2:   19494,   244
+Unique_RX_Pkts2: 8628,   122
+Rx_Data_Pkts3:   10136,   123
+Unique_RX_Pkts3: 8499,   123
+NORMAL BUSTED!
+Now:73
+Tx_Data_Pkts:   8911,   122
+Rx_Data_Pkts:   20449,   366
+Unique_RX_Pkts: 8773,   122
+Rx_Data_Pkts2:   19738,   244
+Unique_RX_Pkts2: 8750,   122
+Rx_Data_Pkts3:   10258,   122
+Unique_RX_Pkts3: 8621,   122
+Upper:31.9169
+BS_count:7,LowerBound:13.9636
+CHAIN:
+10.1.0.133(111.99),
+10.1.0.123(445.251),
+10.1.0.112(800.896),
+CR DONE
+Now:74
+Tx_Data_Pkts:   9033,   122
+Rx_Data_Pkts:   20784,   335
+Unique_RX_Pkts: 8895,   122
+Rx_Data_Pkts2:   19982,   244
+Unique_RX_Pkts2: 8872,   122
+Rx_Data_Pkts3:   10380,   122
+Unique_RX_Pkts3: 8743,   122
+NORMAL BUSTED!
+NORMAL BUSTED!
+Now:75
+Tx_Data_Pkts:   9155,   122
+Rx_Data_Pkts:   21028,   244
+Unique_RX_Pkts: 9017,   122
+Rx_Data_Pkts2:   20226,   244
+Unique_RX_Pkts2: 8994,   122
+Rx_Data_Pkts3:   10502,   122
+Unique_RX_Pkts3: 8865,   122
+NORMAL BUSTED!
+Now:76
+Tx_Data_Pkts:   9277,   122
+Rx_Data_Pkts:   21272,   244
+Unique_RX_Pkts: 9139,   122
+Rx_Data_Pkts2:   20470,   244
+Unique_RX_Pkts2: 9116,   122
+Rx_Data_Pkts3:   10624,   122
+Unique_RX_Pkts3: 8987,   122
+NORMAL BUSTED!
+Now:77
+Tx_Data_Pkts:   9399,   122
+Rx_Data_Pkts:   21516,   244
+Unique_RX_Pkts: 9261,   122
+Rx_Data_Pkts2:   20814,   344
+Unique_RX_Pkts2: 9238,   122
+Rx_Data_Pkts3:   10746,   122
+Unique_RX_Pkts3: 9109,   122
+miscalculation on FORWARDER Car:10.1.0.133
+Upper:28.4672
+BS_count:7,LowerBound:12.0096
+CHAIN:
+10.1.0.133(173.067),
+10.1.0.123(493.508),
+10.1.0.113(822.303),
+CR DONE
+miscalculation on FORWARDER Car:10.1.0.71
+Upper:12.0054
+BS_count:6,LowerBound:9.37918
+CHAIN:
+10.1.0.99(177.449),
+10.1.0.84(518.924),
+10.1.0.74(857.53),
+CR DONE
+NORMAL BUSTED!
+NORMAL BUSTED!
+Now:78
+Tx_Data_Pkts:   9521,   122
+Rx_Data_Pkts:   21765,   249
+Unique_RX_Pkts: 9384,   123
+Rx_Data_Pkts2:   21098,   284
+Unique_RX_Pkts2: 9360,   122
+Rx_Data_Pkts3:   10868,   122
+Unique_RX_Pkts3: 9231,   122
+NORMAL BUSTED!
+Now:79
+Tx_Data_Pkts:   9643,   122
+Rx_Data_Pkts:   22010,   245
+Unique_RX_Pkts: 9506,   122
+Rx_Data_Pkts2:   21342,   244
+Unique_RX_Pkts2: 9482,   122
+Rx_Data_Pkts3:   10990,   122
+Unique_RX_Pkts3: 9353,   122
+NORMAL BUSTED!
+NORMAL BUSTED!
+Now:80
+Tx_Data_Pkts:   9765,   122
+Rx_Data_Pkts:   22254,   244
+Unique_RX_Pkts: 9628,   122
+Rx_Data_Pkts2:   21586,   244
+Unique_RX_Pkts2: 9604,   122
+Rx_Data_Pkts3:   11130,   140
+Unique_RX_Pkts3: 9475,   122
+Upper:12.483
+BS_count:6,LowerBound:12.0929
+CHAIN:
+10.1.0.68(80.2324),
+10.1.0.58(433.921),
+10.1.0.42(792.218),
+CR DONE
+Now:81
+Tx_Data_Pkts:   9887,   122
+Rx_Data_Pkts:   22498,   244
+Unique_RX_Pkts: 9750,   122
+Rx_Data_Pkts2:   21837,   251
+Unique_RX_Pkts2: 9726,   122
+Rx_Data_Pkts3:   11368,   238
+Unique_RX_Pkts3: 9597,   122
+NORMAL BUSTED!
+NORMAL BUSTED!
+Now:82
+Tx_Data_Pkts:   10009,   122
+Rx_Data_Pkts:   22742,   244
+Unique_RX_Pkts: 9872,   122
+Rx_Data_Pkts2:   22091,   254
+Unique_RX_Pkts2: 9849,   123
+Rx_Data_Pkts3:   11490,   122
+Unique_RX_Pkts3: 9719,   122
+miscalculation on FORWARDER Car:10.1.0.74
+Upper:12.5472
+BS_count:6,LowerBound:12.1551
+CHAIN:
+10.1.0.105(97.4135),
+10.1.0.91(441.593),
+10.1.0.77(800.483),
+CR DONE
+NORMAL BUSTED!
+NORMAL BUSTED!
+Now:83
+Tx_Data_Pkts:   10131,   122
+Rx_Data_Pkts:   22998,   256
+Unique_RX_Pkts: 9994,   122
+Rx_Data_Pkts2:   22337,   246
+Unique_RX_Pkts2: 9971,   122
+Rx_Data_Pkts3:   11613,   123
+Unique_RX_Pkts3: 9841,   122
+NORMAL BUSTED!
+NORMAL BUSTED!
+NORMAL BUSTED!
+Now:84
+Tx_Data_Pkts:   10253,   122
+Rx_Data_Pkts:   23253,   255
+Unique_RX_Pkts: 10116,   122
+Rx_Data_Pkts2:   22582,   245
+Unique_RX_Pkts2: 10093,   122
+Rx_Data_Pkts3:   11735,   122
+Unique_RX_Pkts3: 9963,   122
+NORMAL BUSTED!
+Now:85
+Tx_Data_Pkts:   10375,   122
+Rx_Data_Pkts:   23619,   366
+Unique_RX_Pkts: 10238,   122
+Rx_Data_Pkts2:   22826,   244
+Unique_RX_Pkts2: 10215,   122
+Rx_Data_Pkts3:   11857,   122
+Unique_RX_Pkts3: 10085,   122
+NORMAL BUSTED!
+Now:86
+Tx_Data_Pkts:   10498,   123
+Rx_Data_Pkts:   23985,   366
+Unique_RX_Pkts: 10360,   122
+Rx_Data_Pkts2:   23070,   244
+Unique_RX_Pkts2: 10337,   122
+Rx_Data_Pkts3:   11979,   122
+Unique_RX_Pkts3: 10207,   122
+NORMAL BUSTED!
+NORMAL BUSTED!
+Now:87
+Tx_Data_Pkts:   10620,   122
+Rx_Data_Pkts:   24351,   366
+Unique_RX_Pkts: 10482,   122
+Rx_Data_Pkts2:   23314,   244
+Unique_RX_Pkts2: 10459,   122
+Rx_Data_Pkts3:   12102,   123
+Unique_RX_Pkts3: 10330,   123
+Now:88
+Tx_Data_Pkts:   10742,   122
+Rx_Data_Pkts:   24717,   366
+Unique_RX_Pkts: 10604,   122
+Rx_Data_Pkts2:   23558,   244
+Unique_RX_Pkts2: 10581,   122
+Rx_Data_Pkts3:   12224,   122
+Unique_RX_Pkts3: 10452,   122
+NORMAL BUSTED!
+NORMAL BUSTED!
+Now:89
+Tx_Data_Pkts:   10864,   122
+Rx_Data_Pkts:   25083,   366
+Unique_RX_Pkts: 10726,   122
+Rx_Data_Pkts2:   23802,   244
+Unique_RX_Pkts2: 10703,   122
+Rx_Data_Pkts3:   12346,   122
+Unique_RX_Pkts3: 10574,   122
+Upper:34.5646
+BS_count:8,LowerBound:13.5018
+CHAIN:
+10.1.0.141(131.405),
+10.1.0.128(480.95),
+10.1.0.119(804.386),
+CR DONE
+Now:90
+Tx_Data_Pkts:   10986,   122
+Rx_Data_Pkts:   25349,   266
+Unique_RX_Pkts: 10848,   122
+Rx_Data_Pkts2:   24046,   244
+Unique_RX_Pkts2: 10825,   122
+Rx_Data_Pkts3:   12468,   122
+Unique_RX_Pkts3: 10696,   122
+NORMAL BUSTED!
+NORMAL BUSTED!
+Now:91
+Tx_Data_Pkts:   11108,   122
+Rx_Data_Pkts:   25593,   244
+Unique_RX_Pkts: 10970,   122
+Rx_Data_Pkts2:   24290,   244
+Unique_RX_Pkts2: 10947,   122
+Rx_Data_Pkts3:   12590,   122
+Unique_RX_Pkts3: 10818,   122
+NORMAL BUSTED!
+NORMAL BUSTED!
+Now:92
+Tx_Data_Pkts:   11230,   122
+Rx_Data_Pkts:   25838,   245
+Unique_RX_Pkts: 11093,   123
+Rx_Data_Pkts2:   24534,   244
+Unique_RX_Pkts2: 11069,   122
+Rx_Data_Pkts3:   12744,   154
+Unique_RX_Pkts3: 10940,   122
+Upper:12.569
+BS_count:6,LowerBound:12.1762
+CHAIN:
+10.1.0.71(162.592),
+10.1.0.61(510.338),
+10.1.0.51(792.706),
+CR DONE
+Now:93
+Tx_Data_Pkts:   11352,   122
+Rx_Data_Pkts:   26083,   245
+Unique_RX_Pkts: 11215,   122
+Rx_Data_Pkts2:   24778,   244
+Unique_RX_Pkts2: 11191,   122
+Rx_Data_Pkts3:   12988,   244
+Unique_RX_Pkts3: 11062,   122
+FORWARDER--------------BUSTED!
+NORMAL BUSTED!
+Now:94
+Tx_Data_Pkts:   11474,   122
+Rx_Data_Pkts:   26327,   244
+Unique_RX_Pkts: 11337,   122
+Rx_Data_Pkts2:   25065,   287
+Unique_RX_Pkts2: 11313,   122
+Rx_Data_Pkts3:   13110,   122
+Unique_RX_Pkts3: 11184,   122
+Upper:12.7553
+BS_count:6,LowerBound:12.3567
+CHAIN:
+10.1.0.112(97.928),
+10.1.0.97(456.635),
+10.1.0.82(810.888),
+CR DONE
+NORMAL BUSTED!
+Now:95
+Tx_Data_Pkts:   11596,   122
+Rx_Data_Pkts:   26586,   259
+Unique_RX_Pkts: 11459,   122
+Rx_Data_Pkts2:   25340,   275
+Unique_RX_Pkts2: 11435,   122
+Rx_Data_Pkts3:   13232,   122
+Unique_RX_Pkts3: 11306,   122
+NORMAL BUSTED!
+Now:96
+Tx_Data_Pkts:   11718,   122
+Rx_Data_Pkts:   26830,   244
+Unique_RX_Pkts: 11581,   122
+Rx_Data_Pkts2:   25585,   245
+Unique_RX_Pkts2: 11558,   123
+Rx_Data_Pkts3:   13354,   122
+Unique_RX_Pkts3: 11428,   122
+NORMAL BUSTED!
+Now:97
+Tx_Data_Pkts:   11840,   122
+Rx_Data_Pkts:   27074,   244
+Unique_RX_Pkts: 11703,   122
+Rx_Data_Pkts2:   25829,   244
+Unique_RX_Pkts2: 11680,   122
+Rx_Data_Pkts3:   13476,   122
+Unique_RX_Pkts3: 11550,   122
+NORMAL BUSTED!
+NORMAL BUSTED!
+Now:98
+Tx_Data_Pkts:   11962,   122
+Rx_Data_Pkts:   27370,   296
+Unique_RX_Pkts: 11825,   122
+Rx_Data_Pkts2:   26074,   245
+Unique_RX_Pkts2: 11802,   122
+Rx_Data_Pkts3:   13598,   122
+Unique_RX_Pkts3: 11672,   122
+NORMAL BUSTED!
+Now:99
+Tx_Data_Pkts:   12084,   122
+Rx_Data_Pkts:   27736,   366
+Unique_RX_Pkts: 11947,   122
+Rx_Data_Pkts2:   26318,   244
+Unique_RX_Pkts2: 11924,   122
+Rx_Data_Pkts3:   13720,   122
+Unique_RX_Pkts3: 11794,   122
+NORMAL BUSTED!
+NORMAL BUSTED!
+NORMAL BUSTED!
+Now:100
+Tx_Data_Pkts:   12207,   123
+Rx_Data_Pkts:   28102,   366
+Unique_RX_Pkts: 12069,   122
+Rx_Data_Pkts2:   26562,   244
+Unique_RX_Pkts2: 12046,   122
+Rx_Data_Pkts3:   13952,   232
+Unique_RX_Pkts3: 11917,   123
+NORMAL BUSTED!
+Now:101
+Tx_Data_Pkts:   12329,   122
+Rx_Data_Pkts:   28468,   366
+Unique_RX_Pkts: 12191,   122
+Rx_Data_Pkts2:   26806,   244
+Unique_RX_Pkts2: 12168,   122
+Rx_Data_Pkts3:   14197,   245
+Unique_RX_Pkts3: 12039,   122
+NORMAL BUSTED!
+NORMAL BUSTED!
+Now:102
+Tx_Data_Pkts:   12451,   122
+Rx_Data_Pkts:   28834,   366
+Unique_RX_Pkts: 12313,   122
+Rx_Data_Pkts2:   27050,   244
+Unique_RX_Pkts2: 12290,   122
+Rx_Data_Pkts3:   14441,   244
+Unique_RX_Pkts3: 12161,   122
+Upper:40.3295
+BS_count:8,LowerBound:12.2879
+CHAIN:
+10.1.0.146(168.541),
+10.1.0.134(495.669),
+10.1.0.124(818.483),
+CR DONE
+NORMAL BUSTED!
+Now:103
+Tx_Data_Pkts:   12573,   122
+Rx_Data_Pkts:   29157,   323
+Unique_RX_Pkts: 12435,   122
+Rx_Data_Pkts2:   27294,   244
+Unique_RX_Pkts2: 12412,   122
+Rx_Data_Pkts3:   14685,   244
+Unique_RX_Pkts3: 12283,   122
+NORMAL BUSTED!
+NORMAL BUSTED!
+NORMAL BUSTED!
+Now:104
+Tx_Data_Pkts:   12695,   122
+Rx_Data_Pkts:   29401,   244
+Unique_RX_Pkts: 12557,   122
+Rx_Data_Pkts2:   27538,   244
+Unique_RX_Pkts2: 12534,   122
+Rx_Data_Pkts3:   14929,   244
+Unique_RX_Pkts3: 12405,   122
+Now:105
+Tx_Data_Pkts:   12817,   122
+Rx_Data_Pkts:   29645,   244
+Unique_RX_Pkts: 12679,   122
+Rx_Data_Pkts2:   27901,   363
+Unique_RX_Pkts2: 12656,   122
+Rx_Data_Pkts3:   15173,   244
+Unique_RX_Pkts3: 12527,   122
+Upper:12.8027
+BS_count:6,LowerBound:10.8022
+CHAIN:
+10.1.0.77(128.392),
+10.1.0.67(478.775),
+10.1.0.57(831.27),
+CR DONE
+NORMAL BUSTED!
+NORMAL BUSTED!
+Now:106
+Tx_Data_Pkts:   12939,   122
+Rx_Data_Pkts:   29888,   243
+Unique_RX_Pkts: 12802,   123
+Rx_Data_Pkts2:   28313,   412
+Unique_RX_Pkts2: 12767,   111
+Rx_Data_Pkts3:   15338,   165
+Unique_RX_Pkts3: 12638,   111
+!IsInMyArea192.168.0.82,Pos:1010.01,990.6,0 Start:1000,0;End:1010,1000
+Upper:12.593
+BS_count:6,LowerBound:12.1995
+CHAIN:
+10.1.0.114(193.957),
+10.1.0.104(512.268),
+10.1.0.91(801.145),
+CR DONE
+NORMAL BUSTED!
+NORMAL BUSTED!
+Now:107
+Tx_Data_Pkts:   13061,   122
+Rx_Data_Pkts:   30151,   263
+Unique_RX_Pkts: 12924,   122
+Rx_Data_Pkts2:   28507,   194
+Unique_RX_Pkts2: 12889,   122
+Rx_Data_Pkts3:   15386,   48
+Unique_RX_Pkts3: 12685,   47
+NORMAL BUSTED!
+Now:108
+Tx_Data_Pkts:   13183,   122
+Rx_Data_Pkts:   30396,   245
+Unique_RX_Pkts: 13046,   122
+Rx_Data_Pkts2:   28751,   244
+Unique_RX_Pkts2: 13011,   122
+Rx_Data_Pkts3:   15508,   122
+Unique_RX_Pkts3: 12807,   122
+Now:109
+Tx_Data_Pkts:   13305,   122
+Rx_Data_Pkts:   30640,   244
+Unique_RX_Pkts: 13168,   122
+Rx_Data_Pkts2:   28995,   244
+Unique_RX_Pkts2: 13133,   122
+Rx_Data_Pkts3:   15630,   122
+Unique_RX_Pkts3: 12929,   122
+NORMAL BUSTED!
+NORMAL BUSTED!
+NORMAL BUSTED!
+NORMAL BUSTED!
+Now:110
+Tx_Data_Pkts:   13427,   122
+Rx_Data_Pkts:   30884,   244
+Unique_RX_Pkts: 13290,   122
+Rx_Data_Pkts2:   29239,   244
+Unique_RX_Pkts2: 13255,   122
+Rx_Data_Pkts3:   15752,   122
+Unique_RX_Pkts3: 13051,   122
+NORMAL BUSTED!
+Now:111
+Tx_Data_Pkts:   13549,   122
+Rx_Data_Pkts:   31247,   363
+Unique_RX_Pkts: 13412,   122
+Rx_Data_Pkts2:   29484,   245
+Unique_RX_Pkts2: 13378,   123
+Rx_Data_Pkts3:   15874,   122
+Unique_RX_Pkts3: 13173,   122
+NORMAL BUSTED!
+NORMAL BUSTED!
+Now:112
+Tx_Data_Pkts:   13671,   122
+Rx_Data_Pkts:   31613,   366
+Unique_RX_Pkts: 13534,   122
+Rx_Data_Pkts2:   29729,   245
+Unique_RX_Pkts2: 13500,   122
+Rx_Data_Pkts3:   15996,   122
+Unique_RX_Pkts3: 13295,   122
+miscalculation on FORWARDER Car:10.1.0.67
+Upper:12.8332
+BS_count:6,LowerBound:12.4322
+CHAIN:
+10.1.0.82(82.2146),
+10.1.0.71(436.549),
+10.1.0.60(793.132),
+CR DONE
+NORMAL BUSTED!
+Now:113
+Tx_Data_Pkts:   13793,   122
+Rx_Data_Pkts:   31979,   366
+Unique_RX_Pkts: 13656,   122
+Rx_Data_Pkts2:   29999,   270
+Unique_RX_Pkts2: 13622,   122
+Rx_Data_Pkts3:   16118,   122
+Unique_RX_Pkts3: 13417,   122
+NORMAL BUSTED!
+Now:114
+Tx_Data_Pkts:   13916,   123
+Rx_Data_Pkts:   32345,   366
+Unique_RX_Pkts: 13778,   122
+Rx_Data_Pkts2:   30260,   261
+Unique_RX_Pkts2: 13744,   122
+Rx_Data_Pkts3:   16240,   122
+Unique_RX_Pkts3: 13539,   122
+Upper:497.553
+BS_count:11,LowerBound:13.605
+CHAIN:
+10.1.0.155(127.202),
+10.1.0.142(458.305),
+10.1.0.129(808.553),
+CR DONE
+NORMAL BUSTED!
+NORMAL BUSTED!
+Now:115
+Tx_Data_Pkts:   14038,   122
+Rx_Data_Pkts:   32692,   347
+Unique_RX_Pkts: 13900,   122
+Rx_Data_Pkts2:   30626,   366
+Unique_RX_Pkts2: 13866,   122
+Rx_Data_Pkts3:   16363,   123
+Unique_RX_Pkts3: 13662,   123
+NORMAL BUSTED!
+NORMAL BUSTED!
+NORMAL BUSTED!
+Now:116
+Tx_Data_Pkts:   14160,   122
+Rx_Data_Pkts:   32936,   244
+Unique_RX_Pkts: 14022,   122
+Rx_Data_Pkts2:   30992,   366
+Unique_RX_Pkts2: 13988,   122
+Rx_Data_Pkts3:   16485,   122
+Unique_RX_Pkts3: 13784,   122
+Now:117
+Tx_Data_Pkts:   14282,   122
+Rx_Data_Pkts:   33180,   244
+Unique_RX_Pkts: 14144,   122
+Rx_Data_Pkts2:   31358,   366
+Unique_RX_Pkts2: 14110,   122
+Rx_Data_Pkts3:   16607,   122
+Unique_RX_Pkts3: 13906,   122
+NORMAL BUSTED!
+NORMAL BUSTED!
+Now:118
+Tx_Data_Pkts:   14404,   122
+Rx_Data_Pkts:   33424,   244
+Unique_RX_Pkts: 14266,   122
+Rx_Data_Pkts2:   31724,   366
+Unique_RX_Pkts2: 14232,   122
+Rx_Data_Pkts3:   16729,   122
+Unique_RX_Pkts3: 14028,   122
+miscalculation on FORWARDER Car:10.1.0.129
+Upper:97.7758
+BS_count:9,LowerBound:12.6039
+CHAIN:
+10.1.0.156(144.037),
+10.1.0.143(474.987),
+10.1.0.132(812.905),
+CR DONE
+Upper:11.1168
+BS_count:6,LowerBound:10.7694
+CHAIN:
+10.1.0.122(126.658),
+10.1.0.112(462.066),
+10.1.0.97(806.037),
+CR DONE
+NORMAL BUSTED!
+Now:119
+Tx_Data_Pkts:   14526,   122
+Rx_Data_Pkts:   33565,   141
+Unique_RX_Pkts: 14388,   122
+Rx_Data_Pkts2:   31769,   45
+Unique_RX_Pkts2: 14248,   16
+Rx_Data_Pkts3:   16745,   16
+Unique_RX_Pkts3: 14044,   16
+NORMAL BUSTED!
+NORMAL BUSTED!
+Now:120
+Tx_Data_Pkts:   14648,   122
+Rx_Data_Pkts:   33817,   252
+Unique_RX_Pkts: 14511,   123
+Rx_Data_Pkts2:   32013,   244
+Unique_RX_Pkts2: 14370,   122
+Rx_Data_Pkts3:   16867,   122
+Unique_RX_Pkts3: 14166,   122
+NORMAL BUSTED!
+Now:121
+Tx_Data_Pkts:   14770,   122
+Rx_Data_Pkts:   34061,   244
+Unique_RX_Pkts: 14633,   122
+Rx_Data_Pkts2:   32257,   244
+Unique_RX_Pkts2: 14492,   122
+Rx_Data_Pkts3:   16989,   122
+Unique_RX_Pkts3: 14288,   122
+NORMAL BUSTED!
+NORMAL BUSTED!
+NORMAL BUSTED!
+Now:122
+Tx_Data_Pkts:   14892,   122
+Rx_Data_Pkts:   34306,   245
+Unique_RX_Pkts: 14755,   122
+Rx_Data_Pkts2:   32501,   244
+Unique_RX_Pkts2: 14614,   122
+Rx_Data_Pkts3:   17111,   122
+Unique_RX_Pkts3: 14410,   122
+Now:123
+Tx_Data_Pkts:   15014,   122
+Rx_Data_Pkts:   34550,   244
+Unique_RX_Pkts: 14877,   122
+Rx_Data_Pkts2:   32745,   244
+Unique_RX_Pkts2: 14736,   122
+Rx_Data_Pkts3:   17301,   190
+Unique_RX_Pkts3: 14532,   122
+NORMAL BUSTED!
+NORMAL BUSTED!
+Now:124
+Tx_Data_Pkts:   15136,   122
+Rx_Data_Pkts:   34794,   244
+Unique_RX_Pkts: 14999,   122
+Rx_Data_Pkts2:   32989,   244
+Unique_RX_Pkts2: 14858,   122
+Rx_Data_Pkts3:   17545,   244
+Unique_RX_Pkts3: 14654,   122
+Upper:12.8242
+BS_count:6,LowerBound:10.8205
+CHAIN:
+10.1.0.86(124.513),
+10.1.0.75(474.572),
+10.1.0.65(831.995),
+CR DONE
+NORMAL BUSTED!
+Now:125
+Tx_Data_Pkts:   15258,   122
+Rx_Data_Pkts:   35038,   244
+Unique_RX_Pkts: 15121,   122
+Rx_Data_Pkts2:   33235,   246
+Unique_RX_Pkts2: 14981,   123
+Rx_Data_Pkts3:   17729,   184
+Unique_RX_Pkts3: 14776,   122
+NORMAL BUSTED!
+NORMAL BUSTED!
+Now:126
+Tx_Data_Pkts:   15380,   122
+Rx_Data_Pkts:   35282,   244
+Unique_RX_Pkts: 15243,   122
+Rx_Data_Pkts2:   33480,   245
+Unique_RX_Pkts2: 15103,   122
+Rx_Data_Pkts3:   17851,   122
+Unique_RX_Pkts3: 14898,   122
+NORMAL BUSTED!
+NORMAL BUSTED!
+Now:127
+Tx_Data_Pkts:   15502,   122
+Rx_Data_Pkts:   35599,   317
+Unique_RX_Pkts: 15365,   122
+Rx_Data_Pkts2:   33724,   244
+Unique_RX_Pkts2: 15225,   122
+Rx_Data_Pkts3:   17973,   122
+Unique_RX_Pkts3: 15020,   122
+NORMAL BUSTED!
+NORMAL BUSTED!
+Now:128
+Tx_Data_Pkts:   15625,   123
+Rx_Data_Pkts:   35965,   366
+Unique_RX_Pkts: 15487,   122
+Rx_Data_Pkts2:   33968,   244
+Unique_RX_Pkts2: 15347,   122
+Rx_Data_Pkts3:   18095,   122
+Unique_RX_Pkts3: 15142,   122
+Now:129
+Tx_Data_Pkts:   15747,   122
+Rx_Data_Pkts:   36331,   366
+Unique_RX_Pkts: 15609,   122
+Rx_Data_Pkts2:   34212,   244
+Unique_RX_Pkts2: 15469,   122
+Rx_Data_Pkts3:   18218,   123
+Unique_RX_Pkts3: 15265,   123
+Upper:12.8548
+BS_count:6,LowerBound:12.4531
+CHAIN:
+10.1.0.126(117.478),
+10.1.0.116(470.834),
+10.1.0.104(820.97),
+CR DONE
+NORMAL BUSTED!
+NORMAL BUSTED!
+Now:130
+Tx_Data_Pkts:   15869,   122
+Rx_Data_Pkts:   36815,   484
+Unique_RX_Pkts: 15710,   101
+Rx_Data_Pkts2:   34562,   350
+Unique_RX_Pkts2: 15569,   100
+Rx_Data_Pkts3:   18369,   151
+Unique_RX_Pkts3: 15365,   100
+Upper:38.9949
+BS_count:8,LowerBound:12.7952
+CHAIN:
+10.1.0.161(139.693),
+10.1.0.151(470.3),
+10.1.0.136(816.244),
+CR DONE
+NORMAL BUSTED!
+Now:131
+Tx_Data_Pkts:   15991,   122
+Rx_Data_Pkts:   37159,   344
+Unique_RX_Pkts: 15832,   122
+Rx_Data_Pkts2:   34806,   244
+Unique_RX_Pkts2: 15691,   122
+Rx_Data_Pkts3:   18491,   122
+Unique_RX_Pkts3: 15487,   122
+NORMAL BUSTED!
+NORMAL BUSTED!
+NORMAL BUSTED!
+Now:132
+Tx_Data_Pkts:   16113,   122
+Rx_Data_Pkts:   37403,   244
+Unique_RX_Pkts: 15954,   122
+Rx_Data_Pkts2:   35050,   244
+Unique_RX_Pkts2: 15813,   122
+Rx_Data_Pkts3:   18613,   122
+Unique_RX_Pkts3: 15609,   122
+NORMAL BUSTED!
+Now:133
+Tx_Data_Pkts:   16235,   122
+Rx_Data_Pkts:   37647,   244
+Unique_RX_Pkts: 16076,   122
+Rx_Data_Pkts2:   35294,   244
+Unique_RX_Pkts2: 15935,   122
+Rx_Data_Pkts3:   18744,   131
+Unique_RX_Pkts3: 15731,   122
+Now:134
+Tx_Data_Pkts:   16357,   122
+Rx_Data_Pkts:   37892,   245
+Unique_RX_Pkts: 16199,   123
+Rx_Data_Pkts2:   35538,   244
+Unique_RX_Pkts2: 16057,   122
+Rx_Data_Pkts3:   18988,   244
+Unique_RX_Pkts3: 15853,   122
+NORMAL BUSTED!
+NORMAL BUSTED!
+NORMAL BUSTED!
+Now:135
+Tx_Data_Pkts:   16479,   122
+Rx_Data_Pkts:   38136,   244
+Unique_RX_Pkts: 16321,   122
+Rx_Data_Pkts2:   35782,   244
+Unique_RX_Pkts2: 16179,   122
+Rx_Data_Pkts3:   19232,   244
+Unique_RX_Pkts3: 15975,   122
+Upper:12.5916
+BS_count:6,LowerBound:12.1982
+CHAIN:
+10.1.0.96(105.019),
+10.1.0.81(447.92),
+10.1.0.70(797.953),
+CR DONE
+Now:136
+Tx_Data_Pkts:   16601,   122
+Rx_Data_Pkts:   38381,   245
+Unique_RX_Pkts: 16443,   122
+Rx_Data_Pkts2:   36037,   255
+Unique_RX_Pkts2: 16301,   122
+Rx_Data_Pkts3:   19413,   181
+Unique_RX_Pkts3: 16097,   122
+NORMAL BUSTED!
+NORMAL BUSTED!
+Now:137
+Tx_Data_Pkts:   16723,   122
+Rx_Data_Pkts:   38625,   244
+Unique_RX_Pkts: 16565,   122
+Rx_Data_Pkts2:   36281,   244
+Unique_RX_Pkts2: 16423,   122
+Rx_Data_Pkts3:   19535,   122
+Unique_RX_Pkts3: 16219,   122
+NORMAL BUSTED!
+NORMAL BUSTED!
+NORMAL BUSTED!
+Now:138
+Tx_Data_Pkts:   16845,   122
+Rx_Data_Pkts:   38869,   244
+Unique_RX_Pkts: 16687,   122
+Rx_Data_Pkts2:   36525,   244
+Unique_RX_Pkts2: 16545,   122
+Rx_Data_Pkts3:   19657,   122
+Unique_RX_Pkts3: 16341,   122
+Now:139
+Tx_Data_Pkts:   16967,   122
+Rx_Data_Pkts:   39137,   268
+Unique_RX_Pkts: 16809,   122
+Rx_Data_Pkts2:   36770,   245
+Unique_RX_Pkts2: 16668,   123
+Rx_Data_Pkts3:   19779,   122
+Unique_RX_Pkts3: 16463,   122
+NORMAL BUSTED!
+NORMAL BUSTED!
+Now:140
+Tx_Data_Pkts:   17089,   122
+Rx_Data_Pkts:   39503,   366
+Unique_RX_Pkts: 16931,   122
+Rx_Data_Pkts2:   37108,   338
+Unique_RX_Pkts2: 16790,   122
+Rx_Data_Pkts3:   19901,   122
+Unique_RX_Pkts3: 16585,   122
+NORMAL BUSTED!
+Now:141
+Tx_Data_Pkts:   17211,   122
+Rx_Data_Pkts:   39869,   366
+Unique_RX_Pkts: 17053,   122
+Rx_Data_Pkts2:   37475,   367
+Unique_RX_Pkts2: 16912,   122
+Rx_Data_Pkts3:   20023,   122
+Unique_RX_Pkts3: 16707,   122
+!IsInMyArea192.168.0.104,Pos:1010,988.912,0 Start:1000,0;End:1010,1000
+Upper:10.1023
+BS_count:6,LowerBound:9.7866
+CHAIN:
+10.1.0.131(134.418),
+10.1.0.122(472.476),
+10.1.0.111(812.685),
+CR DONE
+NORMAL BUSTED!
+NORMAL BUSTED!
+Now:142
+Tx_Data_Pkts:   17333,   122
+Rx_Data_Pkts:   40235,   366
+Unique_RX_Pkts: 17175,   122
+Rx_Data_Pkts2:   37689,   214
+Unique_RX_Pkts2: 17034,   122
+Rx_Data_Pkts3:   20070,   47
+Unique_RX_Pkts3: 16754,   47
+!IsInMyArea192.168.0.136,Pos:1000.01,-1.28478,0 Start:0,0;End:1000,-10
+NORMAL BUSTED!
+Now:143
+Tx_Data_Pkts:   17456,   123
+Rx_Data_Pkts:   40644,   409
+Unique_RX_Pkts: 17282,   107
+Rx_Data_Pkts2:   37895,   206
+Unique_RX_Pkts2: 17120,   86
+Rx_Data_Pkts3:   20154,   84
+Unique_RX_Pkts3: 16814,   60
+miscalculation on FORWARDER Car:10.1.0.151
+Upper:79.4153
+BS_count:9,LowerBound:12.7189
+CHAIN:
+10.1.0.171(115.963),
+10.1.0.157(465.912),
+10.1.0.144(811.083),
+CR DONE
+Now:144
+Tx_Data_Pkts:   17578,   122
+Rx_Data_Pkts:   40860,   216
+Unique_RX_Pkts: 17404,   122
+Rx_Data_Pkts2:   38083,   188
+Unique_RX_Pkts2: 17214,   94
+Rx_Data_Pkts3:   20248,   94
+Unique_RX_Pkts3: 16908,   94
+NORMAL BUSTED!
+NORMAL BUSTED!
+NORMAL BUSTED!
+Now:145
+Tx_Data_Pkts:   17700,   122
+Rx_Data_Pkts:   41104,   244
+Unique_RX_Pkts: 17526,   122
+Rx_Data_Pkts2:   38327,   244
+Unique_RX_Pkts2: 17336,   122
+Rx_Data_Pkts3:   20434,   186
+Unique_RX_Pkts3: 17030,   122
+Now:146
+Tx_Data_Pkts:   17822,   122
+Rx_Data_Pkts:   41348,   244
+Unique_RX_Pkts: 17648,   122
+Rx_Data_Pkts2:   38571,   244
+Unique_RX_Pkts2: 17458,   122
+Rx_Data_Pkts3:   20678,   244
+Unique_RX_Pkts3: 17152,   122
+NORMAL BUSTED!
+NORMAL BUSTED!
+Now:147
+Tx_Data_Pkts:   17944,   122
+Rx_Data_Pkts:   41592,   244
+Unique_RX_Pkts: 17770,   122
+Rx_Data_Pkts2:   38815,   244
+Unique_RX_Pkts2: 17580,   122
+Rx_Data_Pkts3:   20922,   244
+Unique_RX_Pkts3: 17274,   122
+Upper:11.4491
+BS_count:6,LowerBound:11.0913
+CHAIN:
+10.1.0.103(113.773),
+10.1.0.86(459.435),
+10.1.0.75(808.312),
+CR DONE
+NORMAL BUSTED!
+NORMAL BUSTED!
+Now:148
+Tx_Data_Pkts:   18066,   122
+Rx_Data_Pkts:   41836,   244
+Unique_RX_Pkts: 17892,   122
+Rx_Data_Pkts2:   39087,   272
+Unique_RX_Pkts2: 17702,   122
+Rx_Data_Pkts3:   21135,   213
+Unique_RX_Pkts3: 17396,   122
+NORMAL BUSTED!
+Now:149
+Tx_Data_Pkts:   18188,   122
+Rx_Data_Pkts:   42081,   245
+Unique_RX_Pkts: 18015,   123
+Rx_Data_Pkts2:   39331,   244
+Unique_RX_Pkts2: 17824,   122
+Rx_Data_Pkts3:   21257,   122
+Unique_RX_Pkts3: 17518,   122
+NORMAL BUSTED!
+NORMAL BUSTED!
+NORMAL BUSTED!
+Now:150
+Tx_Data_Pkts:   18310,   122
+Rx_Data_Pkts:   42326,   245
+Unique_RX_Pkts: 18137,   122
+Rx_Data_Pkts2:   39575,   244
+Unique_RX_Pkts2: 17946,   122
+Rx_Data_Pkts3:   21379,   122
+Unique_RX_Pkts3: 17640,   122
+NORMAL BUSTED!
+Now:151
+Tx_Data_Pkts:   18432,   122
+Rx_Data_Pkts:   42570,   244
+Unique_RX_Pkts: 18259,   122
+Rx_Data_Pkts2:   39819,   244
+Unique_RX_Pkts2: 18068,   122
+Rx_Data_Pkts3:   21501,   122
+Unique_RX_Pkts3: 17762,   122
+Upper:12.539
+BS_count:6,LowerBound:11.7553
+CHAIN:
+10.1.0.136(124.887),
+10.1.0.125(480.995),
+10.1.0.115(825.313),
+CR DONE
+NORMAL BUSTED!
+Now:152
+Tx_Data_Pkts:   18554,   122
+Rx_Data_Pkts:   42816,   246
+Unique_RX_Pkts: 18381,   122
+Rx_Data_Pkts2:   40077,   258
+Unique_RX_Pkts2: 18190,   122
+Rx_Data_Pkts3:   21623,   122
+Unique_RX_Pkts3: 17884,   122
+NORMAL BUSTED!
+NORMAL BUSTED!
+Now:153
+Tx_Data_Pkts:   18676,   122
+Rx_Data_Pkts:   43179,   363
+Unique_RX_Pkts: 18503,   122
+Rx_Data_Pkts2:   40322,   245
+Unique_RX_Pkts2: 18313,   123
+Rx_Data_Pkts3:   21745,   122
+Unique_RX_Pkts3: 18006,   122
+NORMAL BUSTED!
+NORMAL BUSTED!
+Now:154
+Tx_Data_Pkts:   18798,   122
+Rx_Data_Pkts:   43545,   366
+Unique_RX_Pkts: 18625,   122
+Rx_Data_Pkts2:   40566,   244
+Unique_RX_Pkts2: 18435,   122
+Rx_Data_Pkts3:   21867,   122
+Unique_RX_Pkts3: 18128,   122
+NORMAL BUSTED!
+NORMAL BUSTED!
+Now:155
+Tx_Data_Pkts:   18920,   122
+Rx_Data_Pkts:   43911,   366
+Unique_RX_Pkts: 18747,   122
+Rx_Data_Pkts2:   40811,   245
+Unique_RX_Pkts2: 18557,   122
+Rx_Data_Pkts3:   21989,   122
+Unique_RX_Pkts3: 18250,   122
+Upper:28.8826
+BS_count:7,LowerBound:13.5387
+CHAIN:
+10.1.0.177(112.924),
+10.1.0.163(447.737),
+10.1.0.152(804.225),
+CR DONE
+NORMAL BUSTED!
+Now:156
+Tx_Data_Pkts:   19042,   122
+Rx_Data_Pkts:   44277,   366
+Unique_RX_Pkts: 18869,   122
+Rx_Data_Pkts2:   41055,   244
+Unique_RX_Pkts2: 18679,   122
+Rx_Data_Pkts3:   22111,   122
+Unique_RX_Pkts3: 18372,   122
+NORMAL BUSTED!
+Now:157
+Tx_Data_Pkts:   19165,   123
+Rx_Data_Pkts:   44530,   253
+Unique_RX_Pkts: 18991,   122
+Rx_Data_Pkts2:   41299,   244
+Unique_RX_Pkts2: 18801,   122
+Rx_Data_Pkts3:   22284,   173
+Unique_RX_Pkts3: 18495,   123
+NORMAL BUSTED!
+NORMAL BUSTED!
+Now:158
+Tx_Data_Pkts:   19287,   122
+Rx_Data_Pkts:   44774,   244
+Unique_RX_Pkts: 19113,   122
+Rx_Data_Pkts2:   41543,   244
+Unique_RX_Pkts2: 18923,   122
+Rx_Data_Pkts3:   22529,   245
+Unique_RX_Pkts3: 18617,   122
+Upper:12.3606
+BS_count:6,LowerBound:10.8155
+CHAIN:
+10.1.0.107(123.053),
+10.1.0.94(478.893),
+10.1.0.80(830.191),
+CR DONE
+NORMAL BUSTED!
+Now:159
+Tx_Data_Pkts:   19409,   122
+Rx_Data_Pkts:   45018,   244
+Unique_RX_Pkts: 19235,   122
+Rx_Data_Pkts2:   41816,   273
+Unique_RX_Pkts2: 19045,   122
+Rx_Data_Pkts3:   22734,   205
+Unique_RX_Pkts3: 18739,   122
+Now:160
+Tx_Data_Pkts:   19531,   122
+Rx_Data_Pkts:   45262,   244
+Unique_RX_Pkts: 19357,   122
+Rx_Data_Pkts2:   42060,   244
+Unique_RX_Pkts2: 19167,   122
+Rx_Data_Pkts3:   22856,   122
+Unique_RX_Pkts3: 18861,   122
+NORMAL BUSTED!
+NORMAL BUSTED!
+NORMAL BUSTED!
+Now:161
+Tx_Data_Pkts:   19653,   122
+Rx_Data_Pkts:   45506,   244
+Unique_RX_Pkts: 19479,   122
+Rx_Data_Pkts2:   42409,   349
+Unique_RX_Pkts2: 19289,   122
+Rx_Data_Pkts3:   22978,   122
+Unique_RX_Pkts3: 18983,   122
+Now:162
+Tx_Data_Pkts:   19775,   122
+Rx_Data_Pkts:   45750,   244
+Unique_RX_Pkts: 19601,   122
+Rx_Data_Pkts2:   42775,   366
+Unique_RX_Pkts2: 19411,   122
+Rx_Data_Pkts3:   23100,   122
+Unique_RX_Pkts3: 19105,   122
+NORMAL BUSTED!
+NORMAL BUSTED!
+Now:163
+Tx_Data_Pkts:   19897,   122
+Rx_Data_Pkts:   45995,   245
+Unique_RX_Pkts: 19724,   123
+Rx_Data_Pkts2:   43141,   366
+Unique_RX_Pkts2: 19533,   122
+Rx_Data_Pkts3:   23222,   122
+Unique_RX_Pkts3: 19227,   122
+Upper:11.6308
+BS_count:6,LowerBound:11.2674
+CHAIN:
+10.1.0.142(153.104),
+10.1.0.132(469.295),
+10.1.0.120(826.995),
+CR DONE
+NORMAL BUSTED!
+Now:164
+Tx_Data_Pkts:   20019,   122
+Rx_Data_Pkts:   46254,   259
+Unique_RX_Pkts: 19846,   122
+Rx_Data_Pkts2:   43459,   318
+Unique_RX_Pkts2: 19655,   122
+Rx_Data_Pkts3:   23344,   122
+Unique_RX_Pkts3: 19349,   122
+NORMAL BUSTED!
+NORMAL BUSTED!
+NORMAL BUSTED!
+NORMAL BUSTED!
+Now:165
+Tx_Data_Pkts:   20141,   122
+Rx_Data_Pkts:   46498,   244
+Unique_RX_Pkts: 19968,   122
+Rx_Data_Pkts2:   43703,   244
+Unique_RX_Pkts2: 19777,   122
+Rx_Data_Pkts3:   23466,   122
+Unique_RX_Pkts3: 19471,   122
+NORMAL BUSTED!
+Now:166
+Tx_Data_Pkts:   20263,   122
+Rx_Data_Pkts:   46742,   244
+Unique_RX_Pkts: 20090,   122
+Rx_Data_Pkts2:   43947,   244
+Unique_RX_Pkts2: 19899,   122
+Rx_Data_Pkts3:   23652,   186
+Unique_RX_Pkts3: 19593,   122
+NORMAL BUSTED!
+NORMAL BUSTED!
+Now:167
+Tx_Data_Pkts:   20385,   122
+Rx_Data_Pkts:   47060,   318
+Unique_RX_Pkts: 20212,   122
+Rx_Data_Pkts2:   44192,   245
+Unique_RX_Pkts2: 20022,   123
+Rx_Data_Pkts3:   23896,   244
+Unique_RX_Pkts3: 19715,   122
+NORMAL BUSTED!
+Now:168
+Tx_Data_Pkts:   20507,   122
+Rx_Data_Pkts:   47426,   366
+Unique_RX_Pkts: 20334,   122
+Rx_Data_Pkts2:   44436,   244
+Unique_RX_Pkts2: 20144,   122
+Rx_Data_Pkts3:   24140,   244
+Unique_RX_Pkts3: 19837,   122
+NORMAL BUSTED!
+Now:169
+Tx_Data_Pkts:   20629,   122
+Rx_Data_Pkts:   47792,   366
+Unique_RX_Pkts: 20456,   122
+Rx_Data_Pkts2:   44681,   245
+Unique_RX_Pkts2: 20266,   122
+Rx_Data_Pkts3:   24384,   244
+Unique_RX_Pkts3: 19959,   122
+Upper:59.8999
+BS_count:8,LowerBound:10.7633
+CHAIN:
+10.1.0.182(166.858),
+10.1.0.170(500.613),
+10.1.0.157(840.344),
+CR DONE
+!IsInMyArea192.168.0.152,Pos:1000.03,-4.74948,0 Start:0,0;End:1000,-10
+Upper:11.9194
+BS_count:6,LowerBound:11.5469
+CHAIN:
+10.1.0.114(101.641),
+10.1.0.102(454.659),
+10.1.0.85(806.782),
+CR DONE
+NORMAL BUSTED!
+NORMAL BUSTED!
+Now:170
+Tx_Data_Pkts:   20751,   122
+Rx_Data_Pkts:   48075,   283
+Unique_RX_Pkts: 20578,   122
+Rx_Data_Pkts2:   44903,   222
+Unique_RX_Pkts2: 20375,   109
+Rx_Data_Pkts3:   24546,   162
+Unique_RX_Pkts3: 20068,   109
+NORMAL BUSTED!
+Now:171
+Tx_Data_Pkts:   20874,   123
+Rx_Data_Pkts:   48319,   244
+Unique_RX_Pkts: 20700,   122
+Rx_Data_Pkts2:   45147,   244
+Unique_RX_Pkts2: 20497,   122
+Rx_Data_Pkts3:   24668,   122
+Unique_RX_Pkts3: 20190,   122
+NORMAL BUSTED!
+NORMAL BUSTED!
+Now:172
+Tx_Data_Pkts:   20996,   122
+Rx_Data_Pkts:   48563,   244
+Unique_RX_Pkts: 20822,   122
+Rx_Data_Pkts2:   45391,   244
+Unique_RX_Pkts2: 20619,   122
+Rx_Data_Pkts3:   24791,   123
+Unique_RX_Pkts3: 20313,   123
+NORMAL BUSTED!
+Now:173
+Tx_Data_Pkts:   21118,   122
+Rx_Data_Pkts:   48807,   244
+Unique_RX_Pkts: 20944,   122
+Rx_Data_Pkts2:   45635,   244
+Unique_RX_Pkts2: 20741,   122
+Rx_Data_Pkts3:   24913,   122
+Unique_RX_Pkts3: 20435,   122
+NORMAL BUSTED!
+NORMAL BUSTED!
+Now:174
+Tx_Data_Pkts:   21240,   122
+Rx_Data_Pkts:   49051,   244
+Unique_RX_Pkts: 21066,   122
+Rx_Data_Pkts2:   45931,   296
+Unique_RX_Pkts2: 20863,   122
+Rx_Data_Pkts3:   25035,   122
+Unique_RX_Pkts3: 20557,   122
+Upper:13.0991
+BS_count:6,LowerBound:12.6897
+CHAIN:
+10.1.0.151(106.809),
+10.1.0.136(460.55),
+10.1.0.125(814.795),
+CR DONE
+Now:175
+Tx_Data_Pkts:   21362,   122
+Rx_Data_Pkts:   49298,   247
+Unique_RX_Pkts: 21188,   122
+Rx_Data_Pkts2:   46294,   363
+Unique_RX_Pkts2: 20985,   122
+Rx_Data_Pkts3:   25157,   122
+Unique_RX_Pkts3: 20679,   122
+NORMAL BUSTED!
+NORMAL BUSTED!
+NORMAL BUSTED!
+Now:176
+Tx_Data_Pkts:   21484,   122
+Rx_Data_Pkts:   49556,   258
+Unique_RX_Pkts: 21310,   122
+Rx_Data_Pkts2:   46538,   244
+Unique_RX_Pkts2: 21107,   122
+Rx_Data_Pkts3:   25279,   122
+Unique_RX_Pkts3: 20801,   122
+NORMAL BUSTED!
+Now:177
+Tx_Data_Pkts:   21606,   122
+Rx_Data_Pkts:   49885,   329
+Unique_RX_Pkts: 21433,   123
+Rx_Data_Pkts2:   46782,   244
+Unique_RX_Pkts2: 21229,   122
+Rx_Data_Pkts3:   25401,   122
+Unique_RX_Pkts3: 20923,   122
+NORMAL BUSTED!
+Now:178
+Tx_Data_Pkts:   21728,   122
+Rx_Data_Pkts:   50251,   366
+Unique_RX_Pkts: 21555,   122
+Rx_Data_Pkts2:   47026,   244
+Unique_RX_Pkts2: 21351,   122
+Rx_Data_Pkts3:   25523,   122
+Unique_RX_Pkts3: 21045,   122
+NORMAL BUSTED!
+Now:179
+Tx_Data_Pkts:   21850,   122
+Rx_Data_Pkts:   50618,   367
+Unique_RX_Pkts: 21677,   122
+Rx_Data_Pkts2:   47270,   244
+Unique_RX_Pkts2: 21473,   122
+Rx_Data_Pkts3:   25702,   179
+Unique_RX_Pkts3: 21167,   122
+NORMAL BUSTED!
+NORMAL BUSTED!
+Now:180
+Tx_Data_Pkts:   21972,   122
+Rx_Data_Pkts:   50984,   366
+Unique_RX_Pkts: 21799,   122
+Rx_Data_Pkts2:   47514,   244
+Unique_RX_Pkts2: 21595,   122
+Rx_Data_Pkts3:   25946,   244
+Unique_RX_Pkts3: 21289,   122
+!IsInMyArea192.168.0.157,Pos:1000.01,-8.14579,0 Start:0,0;End:1000,-10
+Upper:64.9151
+BS_count:9,LowerBound:11.4109
+CHAIN:
+10.1.0.192(10.3875),
+10.1.0.186(215.698),
+10.1.0.176(481.779),
+10.1.0.162(831.161),
+CR DONE
+Upper:12.9133
+BS_count:6,LowerBound:12.5098
+CHAIN:
+10.1.0.119(104.908),
+10.1.0.107(445.542),
+10.1.0.95(794.084),
+CR DONE
+NORMAL BUSTED!
+Now:181
+Tx_Data_Pkts:   22094,   122
+Rx_Data_Pkts:   51186,   202
+Unique_RX_Pkts: 21921,   122
+Rx_Data_Pkts2:   47672,   158
+Unique_RX_Pkts2: 21674,   79
+Rx_Data_Pkts3:   26104,   158
+Unique_RX_Pkts3: 21368,   79
+FORWARDER--------------BUSTED!
+NORMAL BUSTED!
+Now:182
+Tx_Data_Pkts:   22216,   122
+Rx_Data_Pkts:   51430,   244
+Unique_RX_Pkts: 22043,   122
+Rx_Data_Pkts2:   47935,   263
+Unique_RX_Pkts2: 21797,   123
+Rx_Data_Pkts3:   26226,   122
+Unique_RX_Pkts3: 21490,   122
+Now:183
+Tx_Data_Pkts:   22338,   122
+Rx_Data_Pkts:   51674,   244
+Unique_RX_Pkts: 22165,   122
+Rx_Data_Pkts2:   48180,   245
+Unique_RX_Pkts2: 21919,   122
+Rx_Data_Pkts3:   26348,   122
+Unique_RX_Pkts3: 21612,   122
+NORMAL BUSTED!
+NORMAL BUSTED!
+Now:184
+Tx_Data_Pkts:   22460,   122
+Rx_Data_Pkts:   51918,   244
+Unique_RX_Pkts: 22287,   122
+Rx_Data_Pkts2:   48424,   244
+Unique_RX_Pkts2: 22041,   122
+Rx_Data_Pkts3:   26470,   122
+Unique_RX_Pkts3: 21734,   122
+NORMAL BUSTED!
+Now:185
+Tx_Data_Pkts:   22583,   123
+Rx_Data_Pkts:   52162,   244
+Unique_RX_Pkts: 22409,   122
+Rx_Data_Pkts2:   48703,   279
+Unique_RX_Pkts2: 22163,   122
+Rx_Data_Pkts3:   26592,   122
+Unique_RX_Pkts3: 21856,   122
+miscalculation on FORWARDER Car:10.1.0.192
+Upper:39.8476
+BS_count:8,LowerBound:14.3202
+CHAIN:
+10.1.0.191(97.8995),
+10.1.0.180(442.324),
+10.1.0.165(800.36),
+CR DONE
+NORMAL BUSTED!
+NORMAL BUSTED!
+NORMAL BUSTED!
+Now:186
+Tx_Data_Pkts:   22705,   122
+Rx_Data_Pkts:   52405,   243
+Unique_RX_Pkts: 22531,   122
+Rx_Data_Pkts2:   49069,   366
+Unique_RX_Pkts2: 22285,   122
+Rx_Data_Pkts3:   26715,   123
+Unique_RX_Pkts3: 21979,   123
+Now:187
+Tx_Data_Pkts:   22827,   122
+Rx_Data_Pkts:   52649,   244
+Unique_RX_Pkts: 22653,   122
+Rx_Data_Pkts2:   49435,   366
+Unique_RX_Pkts2: 22407,   122
+Rx_Data_Pkts3:   26837,   122
+Unique_RX_Pkts3: 22101,   122
+!IsInMyArea192.168.0.125,Pos:1010,988.642,0 Start:1000,0;End:1010,1000
+Upper:12.5169
+BS_count:6,LowerBound:12.1258
+CHAIN:
+10.1.0.156(125.169),
+10.1.0.143(468.903),
+10.1.0.132(800.265),
+CR DONE
+NORMAL BUSTED!
+NORMAL BUSTED!
+Now:188
+Tx_Data_Pkts:   22949,   122
+Rx_Data_Pkts:   52903,   254
+Unique_RX_Pkts: 22775,   122
+Rx_Data_Pkts2:   49677,   242
+Unique_RX_Pkts2: 22529,   122
+Rx_Data_Pkts3:   26917,   80
+Unique_RX_Pkts3: 22181,   80
+NORMAL BUSTED!
+NORMAL BUSTED!
+Now:189
+Tx_Data_Pkts:   23071,   122
+Rx_Data_Pkts:   53147,   244
+Unique_RX_Pkts: 22897,   122
+Rx_Data_Pkts2:   49921,   244
+Unique_RX_Pkts2: 22651,   122
+Rx_Data_Pkts3:   27039,   122
+Unique_RX_Pkts3: 22303,   122
+NORMAL BUSTED!
+Now:190
+Tx_Data_Pkts:   23193,   122
+Rx_Data_Pkts:   53391,   244
+Unique_RX_Pkts: 23019,   122
+Rx_Data_Pkts2:   50165,   244
+Unique_RX_Pkts2: 22773,   122
+Rx_Data_Pkts3:   27161,   122
+Unique_RX_Pkts3: 22425,   122
+NORMAL BUSTED!
+NORMAL BUSTED!
+NORMAL BUSTED!
+Now:191
+Tx_Data_Pkts:   23315,   122
+Rx_Data_Pkts:   53636,   245
+Unique_RX_Pkts: 23142,   123
+Rx_Data_Pkts2:   50409,   244
+Unique_RX_Pkts2: 22895,   122
+Rx_Data_Pkts3:   27297,   136
+Unique_RX_Pkts3: 22547,   122
+Now:192
+Tx_Data_Pkts:   23437,   122
+Rx_Data_Pkts:   53880,   244
+Unique_RX_Pkts: 23264,   122
+Rx_Data_Pkts2:   50653,   244
+Unique_RX_Pkts2: 23017,   122
+Rx_Data_Pkts3:   27541,   244
+Unique_RX_Pkts3: 22669,   122
+NORMAL BUSTED!
+NORMAL BUSTED!
+Now:193
+Tx_Data_Pkts:   23559,   122
+Rx_Data_Pkts:   54125,   245
+Unique_RX_Pkts: 23386,   122
+Rx_Data_Pkts2:   50897,   244
+Unique_RX_Pkts2: 23139,   122
+Rx_Data_Pkts3:   27785,   244
+Unique_RX_Pkts3: 22791,   122
+Upper:10.9498
+BS_count:6,LowerBound:10.6076
+CHAIN:
+10.1.0.124(103.185),
+10.1.0.114(447.317),
+10.1.0.101(795.886),
+CR DONE
+NORMAL BUSTED!
+NORMAL BUSTED!
+Now:194
+Tx_Data_Pkts:   23681,   122
+Rx_Data_Pkts:   54369,   244
+Unique_RX_Pkts: 23508,   122
+Rx_Data_Pkts2:   51141,   244
+Unique_RX_Pkts2: 23261,   122
+Rx_Data_Pkts3:   27980,   195
+Unique_RX_Pkts3: 22913,   122
+NORMAL BUSTED!
+NORMAL BUSTED!
+Now:195
+Tx_Data_Pkts:   23803,   122
+Rx_Data_Pkts:   54613,   244
+Unique_RX_Pkts: 23630,   122
+Rx_Data_Pkts2:   51385,   244
+Unique_RX_Pkts2: 23383,   122
+Rx_Data_Pkts3:   28102,   122
+Unique_RX_Pkts3: 23035,   122
+NORMAL BUSTED!
+Now:196
+Tx_Data_Pkts:   23925,   122
+Rx_Data_Pkts:   54884,   271
+Unique_RX_Pkts: 23752,   122
+Rx_Data_Pkts2:   51630,   245
+Unique_RX_Pkts2: 23506,   123
+Rx_Data_Pkts3:   28224,   122
+Unique_RX_Pkts3: 23157,   122
+miscalculation on FORWARDER Car:10.1.0.165
+Upper:32.6559
+BS_count:8,LowerBound:11.7357
+CHAIN:
+10.1.0.195(138.861),
+10.1.0.185(475.314),
+10.1.0.173(828.311),
+CR DONE
+NORMAL BUSTED!
+NORMAL BUSTED!
+Now:197
+Tx_Data_Pkts:   24047,   122
+Rx_Data_Pkts:   55183,   299
+Unique_RX_Pkts: 23874,   122
+Rx_Data_Pkts2:   51921,   291
+Unique_RX_Pkts2: 23628,   122
+Rx_Data_Pkts3:   28346,   122
+Unique_RX_Pkts3: 23279,   122
+NORMAL BUSTED!
+Now:198
+Tx_Data_Pkts:   24169,   122
+Rx_Data_Pkts:   55427,   244
+Unique_RX_Pkts: 23996,   122
+Rx_Data_Pkts2:   52287,   366
+Unique_RX_Pkts2: 23750,   122
+Rx_Data_Pkts3:   28468,   122
+Unique_RX_Pkts3: 23401,   122
+NORMAL BUSTED!
+NORMAL BUSTED!
+NORMAL BUSTED!
+Now:199
+Tx_Data_Pkts:   24291,   122
+Rx_Data_Pkts:   55671,   244
+Unique_RX_Pkts: 24118,   122
+Rx_Data_Pkts2:   52653,   366
+Unique_RX_Pkts2: 23872,   122
+Rx_Data_Pkts3:   28590,   122
+Unique_RX_Pkts3: 23523,   122
+Upper:13.6424
+BS_count:6,LowerBound:11.9371
+CHAIN:
+10.1.0.161(123.62),
+10.1.0.151(468.53),
+10.1.0.136(822.359),
+CR DONE
+NORMAL BUSTED!
+Now:200
+Tx_Data_Pkts:   24414,   123
+Rx_Data_Pkts:   55922,   251
+Unique_RX_Pkts: 24240,   122
+Rx_Data_Pkts2:   52998,   345
+Unique_RX_Pkts2: 23994,   122
+Rx_Data_Pkts3:   28713,   123
+Unique_RX_Pkts3: 23646,   123
+NORMAL BUSTED!
+NORMAL BUSTED!
+Now:201
+Tx_Data_Pkts:   24536,   122
+Rx_Data_Pkts:   56166,   244
+Unique_RX_Pkts: 24362,   122
+Rx_Data_Pkts2:   53242,   244
+Unique_RX_Pkts2: 24116,   122
+Rx_Data_Pkts3:   28835,   122
+Unique_RX_Pkts3: 23768,   122
+NORMAL BUSTED!
+NORMAL BUSTED!
+NORMAL BUSTED!
+Now:202
+Tx_Data_Pkts:   24658,   122
+Rx_Data_Pkts:   56410,   244
+Unique_RX_Pkts: 24484,   122
+Rx_Data_Pkts2:   53486,   244
+Unique_RX_Pkts2: 24238,   122
+Rx_Data_Pkts3:   28957,   122
+Unique_RX_Pkts3: 23890,   122
+NORMAL BUSTED!
+Now:203
+Tx_Data_Pkts:   24780,   122
+Rx_Data_Pkts:   56654,   244
+Unique_RX_Pkts: 24606,   122
+Rx_Data_Pkts2:   53730,   244
+Unique_RX_Pkts2: 24360,   122
+Rx_Data_Pkts3:   29079,   122
+Unique_RX_Pkts3: 24012,   122
+NORMAL BUSTED!
+Now:204
+Tx_Data_Pkts:   24902,   122
+Rx_Data_Pkts:   56898,   244
+Unique_RX_Pkts: 24728,   122
+Rx_Data_Pkts2:   53974,   244
+Unique_RX_Pkts2: 24482,   122
+Rx_Data_Pkts3:   29288,   209
+Unique_RX_Pkts3: 24134,   122
+Upper:12.3801
+BS_count:6,LowerBound:11.9933
+CHAIN:
+10.1.0.128(116.312),
+10.1.0.119(443.098),
+10.1.0.106(809.129),
+CR DONE
+NORMAL BUSTED!
+NORMAL BUSTED!
+NORMAL BUSTED!
+Now:205
+Tx_Data_Pkts:   25024,   122
+Rx_Data_Pkts:   57193,   295
+Unique_RX_Pkts: 24851,   123
+Rx_Data_Pkts2:   54243,   269
+Unique_RX_Pkts2: 24604,   122
+Rx_Data_Pkts3:   29449,   161
+Unique_RX_Pkts3: 24256,   122
+NORMAL BUSTED!
+Now:206
+Tx_Data_Pkts:   25146,   122
+Rx_Data_Pkts:   57560,   367
+Unique_RX_Pkts: 24973,   122
+Rx_Data_Pkts2:   54487,   244
+Unique_RX_Pkts2: 24726,   122
+Rx_Data_Pkts3:   29571,   122
+Unique_RX_Pkts3: 24378,   122
+NORMAL BUSTED!
+NORMAL BUSTED!
+Now:207
+Tx_Data_Pkts:   25268,   122
+Rx_Data_Pkts:   57927,   367
+Unique_RX_Pkts: 25095,   122
+Rx_Data_Pkts2:   54731,   244
+Unique_RX_Pkts2: 24848,   122
+Rx_Data_Pkts3:   29693,   122
+Unique_RX_Pkts3: 24500,   122
+Upper:47.2134
+BS_count:8,LowerBound:12.9099
+CHAIN:
+10.1.0.200(138.135),
+10.1.0.190(456.75),
+10.1.0.178(814.078),
+CR DONE
+NORMAL BUSTED!
+NORMAL BUSTED!
+Now:208
+Tx_Data_Pkts:   25390,   122
+Rx_Data_Pkts:   58293,   366
+Unique_RX_Pkts: 25217,   122
+Rx_Data_Pkts2:   54975,   244
+Unique_RX_Pkts2: 24970,   122
+Rx_Data_Pkts3:   29815,   122
+Unique_RX_Pkts3: 24622,   122
+NORMAL BUSTED!
+NORMAL BUSTED!
+Now:209
+Tx_Data_Pkts:   25512,   122
+Rx_Data_Pkts:   58554,   261
+Unique_RX_Pkts: 25339,   122
+Rx_Data_Pkts2:   55219,   244
+Unique_RX_Pkts2: 25092,   122
+Rx_Data_Pkts3:   29937,   122
+Unique_RX_Pkts3: 24744,   122
+Now:210
+Tx_Data_Pkts:   25634,   122
+Rx_Data_Pkts:   58798,   244
+Unique_RX_Pkts: 25461,   122
+Rx_Data_Pkts2:   55564,   345
+Unique_RX_Pkts2: 25215,   123
+Rx_Data_Pkts3:   30059,   122
+Unique_RX_Pkts3: 24866,   122
+NORMAL BUSTED!
+NORMAL BUSTED!
+Now:211
+Tx_Data_Pkts:   25756,   122
+Rx_Data_Pkts:   59042,   244
+Unique_RX_Pkts: 25583,   122
+Rx_Data_Pkts2:   55930,   366
+Unique_RX_Pkts2: 25337,   122
+Rx_Data_Pkts3:   30181,   122
+Unique_RX_Pkts3: 24988,   122
+Upper:11.8422
+BS_count:6,LowerBound:11.4721
+CHAIN:
+10.1.0.165(178.132),
+10.1.0.155(523.356),
+10.1.0.143(827.167),
+CR DONE
+Now:212
+Tx_Data_Pkts:   25878,   122
+Rx_Data_Pkts:   59306,   264
+Unique_RX_Pkts: 25705,   122
+Rx_Data_Pkts2:   56271,   341
+Unique_RX_Pkts2: 25459,   122
+Rx_Data_Pkts3:   30303,   122
+Unique_RX_Pkts3: 25110,   122
+NORMAL BUSTED!
+Now:213
+Tx_Data_Pkts:   26000,   122
+Rx_Data_Pkts:   59550,   244
+Unique_RX_Pkts: 25827,   122
+Rx_Data_Pkts2:   56515,   244
+Unique_RX_Pkts2: 25581,   122
+Rx_Data_Pkts3:   30425,   122
+Unique_RX_Pkts3: 25232,   122
+NORMAL BUSTED!
+NORMAL BUSTED!
+Now:214
+Tx_Data_Pkts:   26123,   123
+Rx_Data_Pkts:   59794,   244
+Unique_RX_Pkts: 25949,   122
+Rx_Data_Pkts2:   56759,   244
+Unique_RX_Pkts2: 25703,   122
+Rx_Data_Pkts3:   30547,   122
+Unique_RX_Pkts3: 25354,   122
+NORMAL BUSTED!
+Now:215
+Tx_Data_Pkts:   26245,   122
+Rx_Data_Pkts:   60038,   244
+Unique_RX_Pkts: 26071,   122
+Rx_Data_Pkts2:   57003,   244
+Unique_RX_Pkts2: 25825,   122
+Rx_Data_Pkts3:   30694,   147
+Unique_RX_Pkts3: 25477,   123
+NORMAL BUSTED!
+NORMAL BUSTED!
+Now:216
+Tx_Data_Pkts:   26367,   122
+Rx_Data_Pkts:   60282,   244
+Unique_RX_Pkts: 26193,   122
+Rx_Data_Pkts2:   57247,   244
+Unique_RX_Pkts2: 25947,   122
+Rx_Data_Pkts3:   30938,   244
+Unique_RX_Pkts3: 25599,   122
+Upper:12.4598
+BS_count:6,LowerBound:12.0705
+CHAIN:
+10.1.0.133(166.667),
+10.1.0.122(507.307),
+10.1.0.113(797.108),
+CR DONE
+FORWARDER--------------BUSTED!
+NORMAL BUSTED!
+Now:217
+Tx_Data_Pkts:   26489,   122
+Rx_Data_Pkts:   60526,   244
+Unique_RX_Pkts: 26315,   122
+Rx_Data_Pkts2:   57514,   267
+Unique_RX_Pkts2: 26069,   122
+Rx_Data_Pkts3:   31060,   122
+Unique_RX_Pkts3: 25721,   122
+miscalculation on FORWARDER Car:10.1.0.178
+Upper:50.4536
+BS_count:8,LowerBound:12.6134
+CHAIN:
+10.1.0.206(128.5),
+10.1.0.194(468.569),
+10.1.0.183(811.34),
+CR DONE
+NORMAL BUSTED!
+NORMAL BUSTED!
+Now:218
+Tx_Data_Pkts:   26611,   122
+Rx_Data_Pkts:   60770,   244
+Unique_RX_Pkts: 26437,   122
+Rx_Data_Pkts2:   57820,   306
+Unique_RX_Pkts2: 26191,   122
+Rx_Data_Pkts3:   31182,   122
+Unique_RX_Pkts3: 25843,   122
+NORMAL BUSTED!
+Now:219
+Tx_Data_Pkts:   26733,   122
+Rx_Data_Pkts:   61014,   244
+Unique_RX_Pkts: 26559,   122
+Rx_Data_Pkts2:   58186,   366
+Unique_RX_Pkts2: 26313,   122
+Rx_Data_Pkts3:   31304,   122
+Unique_RX_Pkts3: 25965,   122
+NORMAL BUSTED!
+NORMAL BUSTED!
+NORMAL BUSTED!
+Now:220
+Tx_Data_Pkts:   26855,   122
+Rx_Data_Pkts:   61259,   245
+Unique_RX_Pkts: 26682,   123
+Rx_Data_Pkts2:   58552,   366
+Unique_RX_Pkts2: 26435,   122
+Rx_Data_Pkts3:   31426,   122
+Unique_RX_Pkts3: 26087,   122
+NORMAL BUSTED!
+Now:221
+Tx_Data_Pkts:   26977,   122
+Rx_Data_Pkts:   61504,   245
+Unique_RX_Pkts: 26804,   122
+Rx_Data_Pkts2:   58918,   366
+Unique_RX_Pkts2: 26557,   122
+Rx_Data_Pkts3:   31566,   140
+Unique_RX_Pkts3: 26209,   122
+NORMAL BUSTED!
+NORMAL BUSTED!
+Now:222
+Tx_Data_Pkts:   27099,   122
+Rx_Data_Pkts:   61748,   244
+Unique_RX_Pkts: 26926,   122
+Rx_Data_Pkts2:   59284,   366
+Unique_RX_Pkts2: 26679,   122
+Rx_Data_Pkts3:   31810,   244
+Unique_RX_Pkts3: 26331,   122
+NORMAL BUSTED!
+NORMAL BUSTED!
+Now:223
+Tx_Data_Pkts:   27221,   122
+Rx_Data_Pkts:   61992,   244
+Unique_RX_Pkts: 27048,   122
+Rx_Data_Pkts2:   59651,   367
+Unique_RX_Pkts2: 26802,   123
+Rx_Data_Pkts3:   32054,   244
+Unique_RX_Pkts3: 26453,   122
+Upper:11.0125
+BS_count:6,LowerBound:10.6683
+CHAIN:
+10.1.0.173(193.77),
+10.1.0.160(499.695),
+10.1.0.151(809.825),
+CR DONE
+miscalculation on FORWARDER Car:10.1.0.122
+Upper:10.8371
+BS_count:6,LowerBound:10.4984
+CHAIN:
+10.1.0.136(147.221),
+10.1.0.126(475.448),
+10.1.0.116(790.774),
+CR DONE
+NORMAL BUSTED!
+Now:224
+Tx_Data_Pkts:   27343,   122
+Rx_Data_Pkts:   62238,   246
+Unique_RX_Pkts: 27169,   121
+Rx_Data_Pkts2:   59944,   293
+Unique_RX_Pkts2: 26919,   117
+Rx_Data_Pkts3:   32200,   146
+Unique_RX_Pkts3: 26570,   117
+NORMAL BUSTED!
+Now:225
+Tx_Data_Pkts:   27465,   122
+Rx_Data_Pkts:   62482,   244
+Unique_RX_Pkts: 27291,   122
+Rx_Data_Pkts2:   60188,   244
+Unique_RX_Pkts2: 27041,   122
+Rx_Data_Pkts3:   32322,   122
+Unique_RX_Pkts3: 26692,   122
+NORMAL BUSTED!
+Now:226
+Tx_Data_Pkts:   27587,   122
+Rx_Data_Pkts:   62726,   244
+Unique_RX_Pkts: 27413,   122
+Rx_Data_Pkts2:   60433,   245
+Unique_RX_Pkts2: 27163,   122
+Rx_Data_Pkts3:   32444,   122
+Unique_RX_Pkts3: 26814,   122
+NORMAL BUSTED!
+Now:227
+Tx_Data_Pkts:   27709,   122
+Rx_Data_Pkts:   63021,   295
+Unique_RX_Pkts: 27535,   122
+Rx_Data_Pkts2:   60677,   244
+Unique_RX_Pkts2: 27285,   122
+Rx_Data_Pkts3:   32566,   122
+Unique_RX_Pkts3: 26936,   122
+NORMAL BUSTED!
+NORMAL BUSTED!
+Now:228
+Tx_Data_Pkts:   27832,   123
+Rx_Data_Pkts:   63387,   366
+Unique_RX_Pkts: 27657,   122
+Rx_Data_Pkts2:   60921,   244
+Unique_RX_Pkts2: 27407,   122
+Rx_Data_Pkts3:   32688,   122
+Unique_RX_Pkts3: 27058,   122
+NORMAL BUSTED!
+Now:229
+Tx_Data_Pkts:   27954,   122
+Rx_Data_Pkts:   63753,   366
+Unique_RX_Pkts: 27779,   122
+Rx_Data_Pkts2:   61165,   244
+Unique_RX_Pkts2: 27529,   122
+Rx_Data_Pkts3:   32811,   123
+Unique_RX_Pkts3: 27181,   123
+Upper:71.5626
+BS_count:9,LowerBound:9.78395
+CHAIN:
+10.1.0.218(6.79071),
+10.1.0.210(212.827),
+10.1.0.198(537.566),
+10.1.0.188(851.368),
+CR DONE
+NORMAL BUSTED!
+Now:230
+Tx_Data_Pkts:   28076,   122
+Rx_Data_Pkts:   64114,   361
+Unique_RX_Pkts: 27901,   122
+Rx_Data_Pkts2:   61409,   244
+Unique_RX_Pkts2: 27651,   122
+Rx_Data_Pkts3:   32933,   122
+Unique_RX_Pkts3: 27303,   122
+NORMAL BUSTED!
+NORMAL BUSTED!
+NORMAL BUSTED!
+Now:231
+Tx_Data_Pkts:   28198,   122
+Rx_Data_Pkts:   64358,   244
+Unique_RX_Pkts: 28023,   122
+Rx_Data_Pkts2:   61675,   266
+Unique_RX_Pkts2: 27773,   122
+Rx_Data_Pkts3:   33055,   122
+Unique_RX_Pkts3: 27425,   122
+NORMAL BUSTED!
+Now:232
+Tx_Data_Pkts:   28320,   122
+Rx_Data_Pkts:   64602,   244
+Unique_RX_Pkts: 28145,   122
+Rx_Data_Pkts2:   62041,   366
+Unique_RX_Pkts2: 27895,   122
+Rx_Data_Pkts3:   33197,   142
+Unique_RX_Pkts3: 27547,   122
+NORMAL BUSTED!
+NORMAL BUSTED!
+Now:233
+Tx_Data_Pkts:   28442,   122
+Rx_Data_Pkts:   64846,   244
+Unique_RX_Pkts: 28267,   122
+Rx_Data_Pkts2:   62407,   366
+Unique_RX_Pkts2: 28017,   122
+Rx_Data_Pkts3:   33441,   244
+Unique_RX_Pkts3: 27669,   122
+Upper:12.6111
+BS_count:6,LowerBound:11.4288
+CHAIN:
+10.1.0.143(139.377),
+10.1.0.132(478.214),
+10.1.0.121(819.314),
+CR DONE
+Upper:13.5994
+BS_count:6,LowerBound:9.77457
+CHAIN:
+10.1.0.180(138.991),
+10.1.0.166(497.49),
+10.1.0.155(850.125),
+CR DONE
+NORMAL BUSTED!
+Now:234
+Tx_Data_Pkts:   28564,   122
+Rx_Data_Pkts:   65095,   249
+Unique_RX_Pkts: 28389,   122
+Rx_Data_Pkts2:   62791,   384
+Unique_RX_Pkts2: 28130,   113
+Rx_Data_Pkts3:   33651,   210
+Unique_RX_Pkts3: 27782,   113
+NORMAL BUSTED!
+NORMAL BUSTED!
+NORMAL BUSTED!
+Now:235
+Tx_Data_Pkts:   28686,   122
+Rx_Data_Pkts:   65360,   265
+Unique_RX_Pkts: 28512,   123
+Rx_Data_Pkts2:   63035,   244
+Unique_RX_Pkts2: 28252,   122
+Rx_Data_Pkts3:   33773,   122
+Unique_RX_Pkts3: 27904,   122
+miscalculation on FORWARDER Car:10.1.0.218
+Upper:35.4619
+BS_count:8,LowerBound:13.2982
+CHAIN:
+10.1.0.216(120.523),
+10.1.0.202(455.165),
+10.1.0.191(812.126),
+CR DONE
+NORMAL BUSTED!
+Now:236
+Tx_Data_Pkts:   28808,   122
+Rx_Data_Pkts:   65651,   291
+Unique_RX_Pkts: 28634,   122
+Rx_Data_Pkts2:   63279,   244
+Unique_RX_Pkts2: 28374,   122
+Rx_Data_Pkts3:   33895,   122
+Unique_RX_Pkts3: 28026,   122
+NORMAL BUSTED!
+NORMAL BUSTED!
+Now:237
+Tx_Data_Pkts:   28930,   122
+Rx_Data_Pkts:   65895,   244
+Unique_RX_Pkts: 28756,   122
+Rx_Data_Pkts2:   63523,   244
+Unique_RX_Pkts2: 28496,   122
+Rx_Data_Pkts3:   34017,   122
+Unique_RX_Pkts3: 28148,   122
+Now:238
+Tx_Data_Pkts:   29052,   122
+Rx_Data_Pkts:   66139,   244
+Unique_RX_Pkts: 28878,   122
+Rx_Data_Pkts2:   63767,   244
+Unique_RX_Pkts2: 28618,   122
+Rx_Data_Pkts3:   34139,   122
+Unique_RX_Pkts3: 28270,   122
+NORMAL BUSTED!
+NORMAL BUSTED!
+Now:239
+Tx_Data_Pkts:   29174,   122
+Rx_Data_Pkts:   66383,   244
+Unique_RX_Pkts: 29000,   122
+Rx_Data_Pkts2:   64012,   245
+Unique_RX_Pkts2: 28741,   123
+Rx_Data_Pkts3:   34261,   122
+Unique_RX_Pkts3: 28392,   122
+NORMAL BUSTED!
+Now:240
+Tx_Data_Pkts:   29296,   122
+Rx_Data_Pkts:   66627,   244
+Unique_RX_Pkts: 29122,   122
+Rx_Data_Pkts2:   64257,   245
+Unique_RX_Pkts2: 28863,   122
+Rx_Data_Pkts3:   34383,   122
+Unique_RX_Pkts3: 28514,   122
+NORMAL BUSTED!
+Now:241
+Tx_Data_Pkts:   29418,   122
+Rx_Data_Pkts:   66871,   244
+Unique_RX_Pkts: 29244,   122
+Rx_Data_Pkts2:   64535,   278
+Unique_RX_Pkts2: 28985,   122
+Rx_Data_Pkts3:   34505,   122
+Unique_RX_Pkts3: 28636,   122
+NORMAL BUSTED!
+NORMAL BUSTED!
+Now:242
+Tx_Data_Pkts:   29541,   123
+Rx_Data_Pkts:   67115,   244
+Unique_RX_Pkts: 29366,   122
+Rx_Data_Pkts2:   64901,   366
+Unique_RX_Pkts2: 29107,   122
+Rx_Data_Pkts3:   34627,   122
+Unique_RX_Pkts3: 28758,   122
+NORMAL BUSTED!
+Now:243
+Tx_Data_Pkts:   29663,   122
+Rx_Data_Pkts:   67359,   244
+Unique_RX_Pkts: 29488,   122
+Rx_Data_Pkts2:   65267,   366
+Unique_RX_Pkts2: 29229,   122
+Rx_Data_Pkts3:   34837,   210
+Unique_RX_Pkts3: 28881,   123
+Upper:12.1368
+BS_count:6,LowerBound:11.7576
+CHAIN:
+10.1.0.186(123.322),
+10.1.0.173(485.793),
+10.1.0.160(801.407),
+CR DONE
+NORMAL BUSTED!
+NORMAL BUSTED!
+Now:244
+Tx_Data_Pkts:   29785,   122
+Rx_Data_Pkts:   67632,   273
+Unique_RX_Pkts: 29610,   122
+Rx_Data_Pkts2:   65596,   329
+Unique_RX_Pkts2: 29351,   122
+Rx_Data_Pkts3:   35081,   244
+Unique_RX_Pkts3: 29003,   122
+NORMAL BUSTED!
+Now:245
+Tx_Data_Pkts:   29907,   122
+Rx_Data_Pkts:   67954,   322
+Unique_RX_Pkts: 29732,   122
+Rx_Data_Pkts2:   65840,   244
+Unique_RX_Pkts2: 29473,   122
+Rx_Data_Pkts3:   35325,   244
+Unique_RX_Pkts3: 29125,   122
+Upper:11.8315
+BS_count:6,LowerBound:11.4618
+CHAIN:
+10.1.0.151(109.832),
+10.1.0.136(450.907),
+10.1.0.126(799.723),
+CR DONE
+FORWARDER--------------BUSTED!
+NORMAL BUSTED!
+Now:246
+Tx_Data_Pkts:   30029,   122
+Rx_Data_Pkts:   68320,   366
+Unique_RX_Pkts: 29854,   122
+Rx_Data_Pkts2:   66100,   260
+Unique_RX_Pkts2: 29595,   122
+Rx_Data_Pkts3:   35447,   122
+Unique_RX_Pkts3: 29247,   122
+NORMAL BUSTED!
+Now:247
+Tx_Data_Pkts:   30151,   122
+Rx_Data_Pkts:   68687,   367
+Unique_RX_Pkts: 29977,   123
+Rx_Data_Pkts2:   66344,   244
+Unique_RX_Pkts2: 29717,   122
+Rx_Data_Pkts3:   35569,   122
+Unique_RX_Pkts3: 29369,   122
+Now:248
+Tx_Data_Pkts:   30273,   122
+Rx_Data_Pkts:   69054,   367
+Unique_RX_Pkts: 30099,   122
+Rx_Data_Pkts2:   66588,   244
+Unique_RX_Pkts2: 29839,   122
+Rx_Data_Pkts3:   35691,   122
+Unique_RX_Pkts3: 29491,   122
+!IsInMyArea192.168.0.191,Pos:1000.01,-2.67389,0 Start:0,0;End:1000,-10
+Upper:22.1337
+BS_count:7,LowerBound:12.4502
+CHAIN:
+10.1.0.222(118.467),
+10.1.0.210(475.018),
+10.1.0.197(820.384),
+CR DONE
+NORMAL BUSTED!
+NORMAL BUSTED!
+NORMAL BUSTED!
+Now:249
+Tx_Data_Pkts:   30395,   122
+Rx_Data_Pkts:   69284,   230
+Unique_RX_Pkts: 30221,   122
+Rx_Data_Pkts2:   66746,   158
+Unique_RX_Pkts2: 29918,   79
+Rx_Data_Pkts3:   35770,   79
+Unique_RX_Pkts3: 29570,   79
+miscalculation on FORWARDER Car:10.1.0.160
+Upper:11.7867
+BS_count:6,LowerBound:11.4183
+CHAIN:
+10.1.0.187(143.617),
+10.1.0.175(479.994),
+10.1.0.162(819.045),
+CR DONE
+Now:250
+Tx_Data_Pkts:   30517,   122
+Rx_Data_Pkts:   69538,   254
+Unique_RX_Pkts: 30343,   122
+Rx_Data_Pkts2:   66990,   244
+Unique_RX_Pkts2: 30040,   122
+Rx_Data_Pkts3:   35892,   122
+Unique_RX_Pkts3: 29692,   122
+NORMAL BUSTED!
+NORMAL BUSTED!
+NORMAL BUSTED!
+Now:251
+Tx_Data_Pkts:   30639,   122
+Rx_Data_Pkts:   69782,   244
+Unique_RX_Pkts: 30465,   122
+Rx_Data_Pkts2:   67234,   244
+Unique_RX_Pkts2: 30162,   122
+Rx_Data_Pkts3:   36014,   122
+Unique_RX_Pkts3: 29814,   122
+Now:252
+Tx_Data_Pkts:   30761,   122
+Rx_Data_Pkts:   70026,   244
+Unique_RX_Pkts: 30587,   122
+Rx_Data_Pkts2:   67478,   244
+Unique_RX_Pkts2: 30284,   122
+Rx_Data_Pkts3:   36136,   122
+Unique_RX_Pkts3: 29936,   122
+miscalculation on FORWARDER Car:10.1.0.136
+Upper:11.9547
+BS_count:6,LowerBound:11.5811
+CHAIN:
+10.1.0.155(102.849),
+10.1.0.140(455.414),
+10.1.0.128(795.542),
+CR DONE
+NORMAL BUSTED!
+Now:253
+Tx_Data_Pkts:   30883,   122
+Rx_Data_Pkts:   70270,   244
+Unique_RX_Pkts: 30709,   122
+Rx_Data_Pkts2:   67743,   265
+Unique_RX_Pkts2: 30407,   123
+Rx_Data_Pkts3:   36258,   122
+Unique_RX_Pkts3: 30058,   122
+NORMAL BUSTED!
+Now:254
+Tx_Data_Pkts:   31005,   122
+Rx_Data_Pkts:   70514,   244
+Unique_RX_Pkts: 30831,   122
+Rx_Data_Pkts2:   67988,   245
+Unique_RX_Pkts2: 30529,   122
+Rx_Data_Pkts3:   36380,   122
+Unique_RX_Pkts3: 30180,   122
+NORMAL BUSTED!
+NORMAL BUSTED!
+Now:255
+Tx_Data_Pkts:   31127,   122
+Rx_Data_Pkts:   70758,   244
+Unique_RX_Pkts: 30953,   122
+Rx_Data_Pkts2:   68232,   244
+Unique_RX_Pkts2: 30651,   122
+Rx_Data_Pkts3:   36502,   122
+Unique_RX_Pkts3: 30302,   122
+Now:256
+Tx_Data_Pkts:   31250,   123
+Rx_Data_Pkts:   71002,   244
+Unique_RX_Pkts: 31075,   122
+Rx_Data_Pkts2:   68476,   244
+Unique_RX_Pkts2: 30773,   122
+Rx_Data_Pkts3:   36624,   122
+Unique_RX_Pkts3: 30424,   122
+NORMAL BUSTED!
+NORMAL BUSTED!
+NORMAL BUSTED!
+Now:257
+Tx_Data_Pkts:   31372,   122
+Rx_Data_Pkts:   71331,   329
+Unique_RX_Pkts: 31197,   122
+Rx_Data_Pkts2:   68720,   244
+Unique_RX_Pkts2: 30895,   122
+Rx_Data_Pkts3:   36747,   123
+Unique_RX_Pkts3: 30547,   123
+Now:258
+Tx_Data_Pkts:   31494,   122
+Rx_Data_Pkts:   71697,   366
+Unique_RX_Pkts: 31319,   122
+Rx_Data_Pkts2:   68964,   244
+Unique_RX_Pkts2: 31017,   122
+Rx_Data_Pkts3:   36869,   122
+Unique_RX_Pkts3: 30669,   122
+NORMAL BUSTED!
+NORMAL BUSTED!
+Now:259
+Tx_Data_Pkts:   31616,   122
+Rx_Data_Pkts:   72063,   366
+Unique_RX_Pkts: 31441,   122
+Rx_Data_Pkts2:   69294,   330
+Unique_RX_Pkts2: 31139,   122
+Rx_Data_Pkts3:   36991,   122
+Unique_RX_Pkts3: 30791,   122
+miscalculation on FORWARDER Car:10.1.0.140
+Upper:12.6908
+BS_count:6,LowerBound:11.1044
+CHAIN:
+10.1.0.156(162.432),
+10.1.0.142(527.751),
+10.1.0.131(828.511),
+CR DONE
+NORMAL BUSTED!
+Now:260
+Tx_Data_Pkts:   31738,   122
+Rx_Data_Pkts:   72429,   366
+Unique_RX_Pkts: 31563,   122
+Rx_Data_Pkts2:   69666,   372
+Unique_RX_Pkts2: 31261,   122
+Rx_Data_Pkts3:   37113,   122
+Unique_RX_Pkts3: 30913,   122
+miscalculation on FORWARDER Car:10.1.0.210
+Upper:35.6983
+BS_count:8,LowerBound:11.9924
+CHAIN:
+10.1.0.227(178.37),
+10.1.0.216(486.72),
+10.1.0.202(826.45),
+CR DONE
+Upper:12.2153
+BS_count:6,LowerBound:11.8336
+CHAIN:
+10.1.0.193(108.147),
+10.1.0.182(472.78),
+10.1.0.169(812.14),
+CR DONE
+NORMAL BUSTED!
+NORMAL BUSTED!
+Now:261
+Tx_Data_Pkts:   31860,   122
+Rx_Data_Pkts:   72731,   302
+Unique_RX_Pkts: 31685,   122
+Rx_Data_Pkts2:   69989,   323
+Unique_RX_Pkts2: 31383,   122
+Rx_Data_Pkts3:   37235,   122
+Unique_RX_Pkts3: 31035,   122
+Now:262
+Tx_Data_Pkts:   31982,   122
+Rx_Data_Pkts:   72976,   245
+Unique_RX_Pkts: 31808,   123
+Rx_Data_Pkts2:   70233,   244
+Unique_RX_Pkts2: 31505,   122
+Rx_Data_Pkts3:   37357,   122
+Unique_RX_Pkts3: 31157,   122
+miscalculation on FORWARDER Car:10.1.0.169
+Upper:10.7311
+BS_count:6,LowerBound:10.3958
+CHAIN:
+10.1.0.193(131.231),
+10.1.0.182(495.147),
+10.1.0.170(809.068),
+CR DONE
+NORMAL BUSTED!
+NORMAL BUSTED!
+NORMAL BUSTED!
+Now:263
+Tx_Data_Pkts:   32104,   122
+Rx_Data_Pkts:   73220,   244
+Unique_RX_Pkts: 31930,   122
+Rx_Data_Pkts2:   70477,   244
+Unique_RX_Pkts2: 31627,   122
+Rx_Data_Pkts3:   37479,   122
+Unique_RX_Pkts3: 31279,   122
+Now:264
+Tx_Data_Pkts:   32226,   122
+Rx_Data_Pkts:   73465,   245
+Unique_RX_Pkts: 32052,   122
+Rx_Data_Pkts2:   70721,   244
+Unique_RX_Pkts2: 31749,   122
+Rx_Data_Pkts3:   37653,   174
+Unique_RX_Pkts3: 31401,   122
+NORMAL BUSTED!
+NORMAL BUSTED!
+Now:265
+Tx_Data_Pkts:   32348,   122
+Rx_Data_Pkts:   73709,   244
+Unique_RX_Pkts: 32174,   122
+Rx_Data_Pkts2:   70965,   244
+Unique_RX_Pkts2: 31871,   122
+Rx_Data_Pkts3:   37897,   244
+Unique_RX_Pkts3: 31523,   122
+Now:266
+Tx_Data_Pkts:   32470,   122
+Rx_Data_Pkts:   73953,   244
+Unique_RX_Pkts: 32296,   122
+Rx_Data_Pkts2:   71209,   244
+Unique_RX_Pkts2: 31993,   122
+Rx_Data_Pkts3:   38141,   244
+Unique_RX_Pkts3: 31645,   122
+NORMAL BUSTED!
+NORMAL BUSTED!
+NORMAL BUSTED!
+Now:267
+Tx_Data_Pkts:   32592,   122
+Rx_Data_Pkts:   74197,   244
+Unique_RX_Pkts: 32418,   122
+Rx_Data_Pkts2:   71454,   245
+Unique_RX_Pkts2: 32116,   123
+Rx_Data_Pkts3:   38385,   244
+Unique_RX_Pkts3: 31767,   122
+NORMAL BUSTED!
+Now:268
+Tx_Data_Pkts:   32714,   122
+Rx_Data_Pkts:   74441,   244
+Unique_RX_Pkts: 32540,   122
+Rx_Data_Pkts2:   71698,   244
+Unique_RX_Pkts2: 32238,   122
+Rx_Data_Pkts3:   38629,   244
+Unique_RX_Pkts3: 31889,   122
+NORMAL BUSTED!
+NORMAL BUSTED!
+NORMAL BUSTED!
+Now:269
+Tx_Data_Pkts:   32836,   122
+Rx_Data_Pkts:   74721,   280
+Unique_RX_Pkts: 32662,   122
+Rx_Data_Pkts2:   71943,   245
+Unique_RX_Pkts2: 32360,   122
+Rx_Data_Pkts3:   38873,   244
+Unique_RX_Pkts3: 32011,   122
+Now:270
+Tx_Data_Pkts:   32958,   122
+Rx_Data_Pkts:   75087,   366
+Unique_RX_Pkts: 32784,   122
+Rx_Data_Pkts2:   72250,   307
+Unique_RX_Pkts2: 32482,   122
+Rx_Data_Pkts3:   39118,   245
+Unique_RX_Pkts3: 32134,   123
+Upper:12.7611
+BS_count:6,LowerBound:12.3623
+CHAIN:
+10.1.0.161(146.019),
+10.1.0.151(480.778),
+10.1.0.138(793.323),
+CR DONE
+FORWARDER--------------BUSTED!
+NORMAL BUSTED!
+NORMAL BUSTED!
+NORMAL BUSTED!
+NORMAL BUSTED!
+Now:271
+Tx_Data_Pkts:   33081,   123
+Rx_Data_Pkts:   75453,   366
+Unique_RX_Pkts: 32906,   122
+Rx_Data_Pkts2:   72620,   370
+Unique_RX_Pkts2: 32604,   122
+Rx_Data_Pkts3:   39240,   122
+Unique_RX_Pkts3: 32255,   121
+Now:272
+Tx_Data_Pkts:   33203,   122
+Rx_Data_Pkts:   75819,   366
+Unique_RX_Pkts: 33028,   122
+Rx_Data_Pkts2:   72986,   366
+Unique_RX_Pkts2: 32726,   122
+Rx_Data_Pkts3:   39363,   123
+Unique_RX_Pkts3: 32378,   123
+Upper:63.1628
+BS_count:8,LowerBound:11.3496
+CHAIN:
+10.1.0.233(169.122),
+10.1.0.221(513.716),
+10.1.0.210(828.924),
+CR DONE
+Upper:12.4973
+BS_count:6,LowerBound:11.7162
+CHAIN:
+10.1.0.196(194.473),
+10.1.0.186(552.759),
+10.1.0.175(823.81),
+CR DONE
+NORMAL BUSTED!
+NORMAL BUSTED!
+Now:273
+Tx_Data_Pkts:   33325,   122
+Rx_Data_Pkts:   76099,   280
+Unique_RX_Pkts: 33150,   122
+Rx_Data_Pkts2:   73314,   328
+Unique_RX_Pkts2: 32848,   122
+Rx_Data_Pkts3:   39485,   122
+Unique_RX_Pkts3: 32500,   122
+NORMAL BUSTED!
+Now:274
+Tx_Data_Pkts:   33447,   122
+Rx_Data_Pkts:   76343,   244
+Unique_RX_Pkts: 33272,   122
+Rx_Data_Pkts2:   73558,   244
+Unique_RX_Pkts2: 32970,   122
+Rx_Data_Pkts3:   39607,   122
+Unique_RX_Pkts3: 32622,   122
+NORMAL BUSTED!
+NORMAL BUSTED!
+NORMAL BUSTED!
+Now:275
+Tx_Data_Pkts:   33569,   122
+Rx_Data_Pkts:   76587,   244
+Unique_RX_Pkts: 33394,   122
+Rx_Data_Pkts2:   73802,   244
+Unique_RX_Pkts2: 33092,   122
+Rx_Data_Pkts3:   39729,   122
+Unique_RX_Pkts3: 32744,   122
+NORMAL BUSTED!
+Now:276
+Tx_Data_Pkts:   33691,   122
+Rx_Data_Pkts:   76831,   244
+Unique_RX_Pkts: 33516,   122
+Rx_Data_Pkts2:   74046,   244
+Unique_RX_Pkts2: 33214,   122
+Rx_Data_Pkts3:   39851,   122
+Unique_RX_Pkts3: 32866,   122
+NORMAL BUSTED!
+NORMAL BUSTED!
+NORMAL BUSTED!
+Now:277
+Tx_Data_Pkts:   33813,   122
+Rx_Data_Pkts:   77076,   245
+Unique_RX_Pkts: 33639,   123
+Rx_Data_Pkts2:   74290,   244
+Unique_RX_Pkts2: 33336,   122
+Rx_Data_Pkts3:   39973,   122
+Unique_RX_Pkts3: 32988,   122
+NORMAL BUSTED!
+Now:278
+Tx_Data_Pkts:   33935,   122
+Rx_Data_Pkts:   77321,   245
+Unique_RX_Pkts: 33761,   122
+Rx_Data_Pkts2:   74645,   355
+Unique_RX_Pkts2: 33458,   122
+Rx_Data_Pkts3:   40107,   134
+Unique_RX_Pkts3: 33110,   122
+NORMAL BUSTED!
+Now:279
+Tx_Data_Pkts:   34057,   122
+Rx_Data_Pkts:   77614,   293
+Unique_RX_Pkts: 33883,   122
+Rx_Data_Pkts2:   75011,   366
+Unique_RX_Pkts2: 33580,   122
+Rx_Data_Pkts3:   40351,   244
+Unique_RX_Pkts3: 33232,   122
+NORMAL BUSTED!
+Now:280
+Tx_Data_Pkts:   34179,   122
+Rx_Data_Pkts:   77980,   366
+Unique_RX_Pkts: 34005,   122
+Rx_Data_Pkts2:   75378,   367
+Unique_RX_Pkts2: 33703,   123
+Rx_Data_Pkts3:   40595,   244
+Unique_RX_Pkts3: 33354,   122
+miscalculation on FORWARDER Car:10.1.0.175
+Upper:12.6184
+BS_count:6,LowerBound:12.2241
+CHAIN:
+10.1.0.201(129.146),
+10.1.0.191(467.771),
+10.1.0.179(812.216),
+CR DONE
+NORMAL BUSTED!
+Now:281
+Tx_Data_Pkts:   34301,   122
+Rx_Data_Pkts:   78369,   389
+Unique_RX_Pkts: 34127,   122
+Rx_Data_Pkts2:   75641,   263
+Unique_RX_Pkts2: 33825,   122
+Rx_Data_Pkts3:   40839,   244
+Unique_RX_Pkts3: 33476,   122
+NORMAL BUSTED!
+Now:282
+Tx_Data_Pkts:   34423,   122
+Rx_Data_Pkts:   78735,   366
+Unique_RX_Pkts: 34249,   122
+Rx_Data_Pkts2:   75885,   244
+Unique_RX_Pkts2: 33947,   122
+Rx_Data_Pkts3:   41083,   244
+Unique_RX_Pkts3: 33598,   122
+Upper:10.4394
+BS_count:6,LowerBound:10.1131
+CHAIN:
+10.1.0.167(170.835),
+10.1.0.156(509.832),
+10.1.0.143(840.615),
+CR DONE
+NORMAL BUSTED!
+NORMAL BUSTED!
+Now:283
+Tx_Data_Pkts:   34545,   122
+Rx_Data_Pkts:   79101,   366
+Unique_RX_Pkts: 34371,   122
+Rx_Data_Pkts2:   76156,   271
+Unique_RX_Pkts2: 34069,   122
+Rx_Data_Pkts3:   41297,   214
+Unique_RX_Pkts3: 33720,   122
+Upper:97.008
+BS_count:9,LowerBound:11.3681
+CHAIN:
+10.1.0.239(117.675),
+10.1.0.228(475.642),
+10.1.0.216(828.912),
+CR DONE
+NORMAL BUSTED!
+NORMAL BUSTED!
+Now:284
+Tx_Data_Pkts:   34667,   122
+Rx_Data_Pkts:   79418,   317
+Unique_RX_Pkts: 34493,   122
+Rx_Data_Pkts2:   76400,   244
+Unique_RX_Pkts2: 34191,   122
+Rx_Data_Pkts3:   41419,   122
+Unique_RX_Pkts3: 33842,   122
+NORMAL BUSTED!
+Now:285
+Tx_Data_Pkts:   34790,   123
+Rx_Data_Pkts:   79662,   244
+Unique_RX_Pkts: 34615,   122
+Rx_Data_Pkts2:   76644,   244
+Unique_RX_Pkts2: 34313,   122
+Rx_Data_Pkts3:   41541,   122
+Unique_RX_Pkts3: 33964,   122
+NORMAL BUSTED!
+NORMAL BUSTED!
+NORMAL BUSTED!
+Now:286
+Tx_Data_Pkts:   34912,   122
+Rx_Data_Pkts:   79906,   244
+Unique_RX_Pkts: 34737,   122
+Rx_Data_Pkts2:   76888,   244
+Unique_RX_Pkts2: 34435,   122
+Rx_Data_Pkts3:   41664,   123
+Unique_RX_Pkts3: 34087,   123
+NORMAL BUSTED!
+NORMAL BUSTED!
+Now:287
+Tx_Data_Pkts:   35034,   122
+Rx_Data_Pkts:   80150,   244
+Unique_RX_Pkts: 34859,   122
+Rx_Data_Pkts2:   77132,   244
+Unique_RX_Pkts2: 34557,   122
+Rx_Data_Pkts3:   41786,   122
+Unique_RX_Pkts3: 34209,   122
+NORMAL BUSTED!
+NORMAL BUSTED!
+Now:288
+Tx_Data_Pkts:   35156,   122
+Rx_Data_Pkts:   80394,   244
+Unique_RX_Pkts: 34981,   122
+Rx_Data_Pkts2:   77376,   244
+Unique_RX_Pkts2: 34679,   122
+Rx_Data_Pkts3:   41908,   122
+Unique_RX_Pkts3: 34331,   122
+NORMAL BUSTED!
+NORMAL BUSTED!
+Now:289
+Tx_Data_Pkts:   35278,   122
+Rx_Data_Pkts:   80638,   244
+Unique_RX_Pkts: 35103,   122
+Rx_Data_Pkts2:   77620,   244
+Unique_RX_Pkts2: 34801,   122
+Rx_Data_Pkts3:   42030,   122
+Unique_RX_Pkts3: 34453,   122
+miscalculation on FORWARDER Car:10.1.0.179
+Upper:12.1825
+BS_count:6,LowerBound:11.8017
+CHAIN:
+10.1.0.207(110.538),
+10.1.0.195(457.456),
+10.1.0.185(811.394),
+CR DONE
+NORMAL BUSTED!
+Now:290
+Tx_Data_Pkts:   35400,   122
+Rx_Data_Pkts:   80895,   257
+Unique_RX_Pkts: 35225,   122
+Rx_Data_Pkts2:   77864,   244
+Unique_RX_Pkts2: 34923,   122
+Rx_Data_Pkts3:   42258,   228
+Unique_RX_Pkts3: 34575,   122
+NORMAL BUSTED!
+NORMAL BUSTED!
+Now:291
+Tx_Data_Pkts:   35522,   122
+Rx_Data_Pkts:   81140,   245
+Unique_RX_Pkts: 35348,   123
+Rx_Data_Pkts2:   78108,   244
+Unique_RX_Pkts2: 35045,   122
+Rx_Data_Pkts3:   42502,   244
+Unique_RX_Pkts3: 34697,   122
+NORMAL BUSTED!
+Now:292
+Tx_Data_Pkts:   35644,   122
+Rx_Data_Pkts:   81406,   266
+Unique_RX_Pkts: 35470,   122
+Rx_Data_Pkts2:   78352,   244
+Unique_RX_Pkts2: 35167,   122
+Rx_Data_Pkts3:   42746,   244
+Unique_RX_Pkts3: 34819,   122
+Upper:11.8779
+BS_count:6,LowerBound:11.5067
+CHAIN:
+10.1.0.174(135.963),
+10.1.0.161(480.741),
+10.1.0.151(809.359),
+CR DONE
+NORMAL BUSTED!
+Now:293
+Tx_Data_Pkts:   35766,   122
+Rx_Data_Pkts:   81772,   366
+Unique_RX_Pkts: 35592,   122
+Rx_Data_Pkts2:   78607,   255
+Unique_RX_Pkts2: 35289,   122
+Rx_Data_Pkts3:   42971,   225
+Unique_RX_Pkts3: 34941,   122
+NORMAL BUSTED!
+NORMAL BUSTED!
+Now:294
+Tx_Data_Pkts:   35888,   122
+Rx_Data_Pkts:   82138,   366
+Unique_RX_Pkts: 35714,   122
+Rx_Data_Pkts2:   78851,   244
+Unique_RX_Pkts2: 35411,   122
+Rx_Data_Pkts3:   43093,   122
+Unique_RX_Pkts3: 35063,   122
+Upper:76.662
+BS_count:9,LowerBound:11.0801
+CHAIN:
+10.1.0.246(136.072),
+10.1.0.234(483.136),
+10.1.0.220(844.497),
+CR DONE
+NORMAL BUSTED!
+Now:295
+Tx_Data_Pkts:   36010,   122
+Rx_Data_Pkts:   82491,   353
+Unique_RX_Pkts: 35836,   122
+Rx_Data_Pkts2:   79096,   245
+Unique_RX_Pkts2: 35534,   123
+Rx_Data_Pkts3:   43215,   122
+Unique_RX_Pkts3: 35185,   122
+NORMAL BUSTED!
+Now:296
+Tx_Data_Pkts:   36132,   122
+Rx_Data_Pkts:   82735,   244
+Unique_RX_Pkts: 35958,   122
+Rx_Data_Pkts2:   79340,   244
+Unique_RX_Pkts2: 35656,   122
+Rx_Data_Pkts3:   43337,   122
+Unique_RX_Pkts3: 35307,   122
+NORMAL BUSTED!
+NORMAL BUSTED!
+Now:297
+Tx_Data_Pkts:   36254,   122
+Rx_Data_Pkts:   82979,   244
+Unique_RX_Pkts: 36080,   122
+Rx_Data_Pkts2:   79585,   245
+Unique_RX_Pkts2: 35778,   122
+Rx_Data_Pkts3:   43459,   122
+Unique_RX_Pkts3: 35429,   122
+NORMAL BUSTED!
+NORMAL BUSTED!
+Now:298
+Tx_Data_Pkts:   36376,   122
+Rx_Data_Pkts:   83223,   244
+Unique_RX_Pkts: 36202,   122
+Rx_Data_Pkts2:   79829,   244
+Unique_RX_Pkts2: 35900,   122
+Rx_Data_Pkts3:   43581,   122
+Unique_RX_Pkts3: 35551,   122
+NORMAL BUSTED!
+Now:299
+Tx_Data_Pkts:   36499,   123
+Rx_Data_Pkts:   83467,   244
+Unique_RX_Pkts: 36324,   122
+Rx_Data_Pkts2:   80117,   288
+Unique_RX_Pkts2: 36022,   122
+Rx_Data_Pkts3:   43703,   122
+Unique_RX_Pkts3: 35673,   122
+NORMAL BUSTED!
+Now:300
+Tx_Data_Pkts:   36621,   122
+Rx_Data_Pkts:   83711,   244
+Unique_RX_Pkts: 36446,   122
+Rx_Data_Pkts2:   80483,   366
+Unique_RX_Pkts2: 36144,   122
+Rx_Data_Pkts3:   43826,   123
+Unique_RX_Pkts3: 35796,   123
+Upper:12.2546
+BS_count:6,LowerBound:11.8716
+CHAIN:
+10.1.0.214(137.929),
+10.1.0.200(481.296),
+10.1.0.189(825.025),
+CR DONE
+NORMAL BUSTED!
+NORMAL BUSTED!
+Now:301
+Tx_Data_Pkts:   36743,   122
+Rx_Data_Pkts:   83968,   257
+Unique_RX_Pkts: 36568,   122
+Rx_Data_Pkts2:   80841,   358
+Unique_RX_Pkts2: 36266,   122
+Rx_Data_Pkts3:   43949,   123
+Unique_RX_Pkts3: 35918,   122
+miscalculation on FORWARDER Car:10.1.0.161
+Upper:10.5934
+BS_count:6,LowerBound:10.2624
+CHAIN:
+10.1.0.179(131.649),
+10.1.0.166(455.422),
+10.1.0.155(799.26),
+CR DONE
+NORMAL BUSTED!
+NORMAL BUSTED!
+Now:302
+Tx_Data_Pkts:   36865,   122
+Rx_Data_Pkts:   84219,   251
+Unique_RX_Pkts: 36690,   122
+Rx_Data_Pkts2:   81098,   257
+Unique_RX_Pkts2: 36388,   122
+Rx_Data_Pkts3:   44071,   122
+Unique_RX_Pkts3: 36040,   122
+NORMAL BUSTED!
+NORMAL BUSTED!
+Now:303
+Tx_Data_Pkts:   36987,   122
+Rx_Data_Pkts:   84463,   244
+Unique_RX_Pkts: 36812,   122
+Rx_Data_Pkts2:   81342,   244
+Unique_RX_Pkts2: 36510,   122
+Rx_Data_Pkts3:   44193,   122
+Unique_RX_Pkts3: 36162,   122
+NORMAL BUSTED!
+NORMAL BUSTED!
+Now:304
+Tx_Data_Pkts:   37109,   122
+Rx_Data_Pkts:   84707,   244
+Unique_RX_Pkts: 36934,   122
+Rx_Data_Pkts2:   81586,   244
+Unique_RX_Pkts2: 36632,   122
+Rx_Data_Pkts3:   44315,   122
+Unique_RX_Pkts3: 36284,   122
+NORMAL BUSTED!
+Now:305
+Tx_Data_Pkts:   37231,   122
+Rx_Data_Pkts:   85058,   351
+Unique_RX_Pkts: 37057,   123
+Rx_Data_Pkts2:   81830,   244
+Unique_RX_Pkts2: 36754,   122
+Rx_Data_Pkts3:   44437,   122
+Unique_RX_Pkts3: 36406,   122
+!IsInMyArea192.168.0.220,Pos:1000.01,-4.62587,0 Start:0,0;End:1000,-10
+Upper:134.346
+BS_count:10,LowerBound:11.2829
+CHAIN:
+10.1.0.254(26.7651),
+10.1.0.248(246.648),
+10.1.0.237(535.407),
+10.1.0.227(835.862),
+CR DONE
+NORMAL BUSTED!
+NORMAL BUSTED!
+NORMAL BUSTED!
+Now:306
+Tx_Data_Pkts:   37353,   122
+Rx_Data_Pkts:   85265,   207
+Unique_RX_Pkts: 37179,   122
+Rx_Data_Pkts2:   81916,   86
+Unique_RX_Pkts2: 36797,   43
+Rx_Data_Pkts3:   44480,   43
+Unique_RX_Pkts3: 36449,   43
+NORMAL BUSTED!
+Now:307
+Tx_Data_Pkts:   37475,   122
+Rx_Data_Pkts:   85500,   235
+Unique_RX_Pkts: 37301,   122
+Rx_Data_Pkts2:   82140,   224
+Unique_RX_Pkts2: 36909,   112
+Rx_Data_Pkts3:   44592,   112
+Unique_RX_Pkts3: 36561,   112
+miscalculation on FORWARDER Car:10.1.0.254
+Upper:133.314
+BS_count:10,LowerBound:13.2793
+CHAIN:
+10.1.0.253(93.0519),
+10.1.0.239(453.056),
+10.1.0.228(810.365),
+CR DONE
+Now:308
+Tx_Data_Pkts:   37597,   122
+Rx_Data_Pkts:   85746,   246
+Unique_RX_Pkts: 37423,   122
+Rx_Data_Pkts2:   82386,   246
+Unique_RX_Pkts2: 37031,   122
+Rx_Data_Pkts3:   44715,   123
+Unique_RX_Pkts3: 36683,   122
+NORMAL BUSTED!
+NORMAL BUSTED!
+Now:309
+Tx_Data_Pkts:   37719,   122
+Rx_Data_Pkts:   85990,   244
+Unique_RX_Pkts: 37545,   122
+Rx_Data_Pkts2:   82630,   244
+Unique_RX_Pkts2: 37153,   122
+Rx_Data_Pkts3:   44837,   122
+Unique_RX_Pkts3: 36805,   122
+NORMAL BUSTED!
+Now:310
+Tx_Data_Pkts:   37841,   122
+Rx_Data_Pkts:   86234,   244
+Unique_RX_Pkts: 37667,   122
+Rx_Data_Pkts2:   82875,   245
+Unique_RX_Pkts2: 37276,   123
+Rx_Data_Pkts3:   44959,   122
+Unique_RX_Pkts3: 36927,   122
+NORMAL BUSTED!
+NORMAL BUSTED!
+Now:311
+Tx_Data_Pkts:   37963,   122
+Rx_Data_Pkts:   86478,   244
+Unique_RX_Pkts: 37789,   122
+Rx_Data_Pkts2:   83233,   358
+Unique_RX_Pkts2: 37398,   122
+Rx_Data_Pkts3:   45195,   236
+Unique_RX_Pkts3: 37049,   122
+Upper:12.8476
+BS_count:6,LowerBound:12.4461
+CHAIN:
+10.1.0.186(89.0991),
+10.1.0.173(456.938),
+10.1.0.159(798.709),
+CR DONE
+NORMAL BUSTED!
+NORMAL BUSTED!
+Now:312
+Tx_Data_Pkts:   38085,   122
+Rx_Data_Pkts:   86720,   242
+Unique_RX_Pkts: 37911,   122
+Rx_Data_Pkts2:   83607,   374
+Unique_RX_Pkts2: 37518,   120
+Rx_Data_Pkts3:   45356,   161
+Unique_RX_Pkts3: 37169,   120
+Upper:12.7548
+BS_count:6,LowerBound:11.9576
+CHAIN:
+10.1.0.218(143.795),
+10.1.0.206(491.575),
+10.1.0.194(825.532),
+CR DONE
+NORMAL BUSTED!
+NORMAL BUSTED!
+Now:313
+Tx_Data_Pkts:   38208,   123
+Rx_Data_Pkts:   86980,   260
+Unique_RX_Pkts: 38033,   122
+Rx_Data_Pkts2:   83957,   350
+Unique_RX_Pkts2: 37640,   122
+Rx_Data_Pkts3:   45478,   122
+Unique_RX_Pkts3: 37291,   122
+NORMAL BUSTED!
+Now:314
+Tx_Data_Pkts:   38330,   122
+Rx_Data_Pkts:   87237,   257
+Unique_RX_Pkts: 38155,   122
+Rx_Data_Pkts2:   84201,   244
+Unique_RX_Pkts2: 37762,   122
+Rx_Data_Pkts3:   45601,   123
+Unique_RX_Pkts3: 37414,   123
+NORMAL BUSTED!
+Now:315
+Tx_Data_Pkts:   38452,   122
+Rx_Data_Pkts:   87481,   244
+Unique_RX_Pkts: 38277,   122
+Rx_Data_Pkts2:   84445,   244
+Unique_RX_Pkts2: 37884,   122
+Rx_Data_Pkts3:   45723,   122
+Unique_RX_Pkts3: 37536,   122
+NORMAL BUSTED!
+NORMAL BUSTED!
+Now:316
+Tx_Data_Pkts:   38574,   122
+Rx_Data_Pkts:   87725,   244
+Unique_RX_Pkts: 38399,   122
+Rx_Data_Pkts2:   84689,   244
+Unique_RX_Pkts2: 38006,   122
+Rx_Data_Pkts3:   45845,   122
+Unique_RX_Pkts3: 37658,   122
+NORMAL BUSTED!
+Now:317
+Tx_Data_Pkts:   38696,   122
+Rx_Data_Pkts:   87976,   251
+Unique_RX_Pkts: 38521,   122
+Rx_Data_Pkts2:   84933,   244
+Unique_RX_Pkts2: 38128,   122
+Rx_Data_Pkts3:   45967,   122
+Unique_RX_Pkts3: 37780,   122
+NORMAL BUSTED!
+Now:318
+Tx_Data_Pkts:   38818,   122
+Rx_Data_Pkts:   88343,   367
+Unique_RX_Pkts: 38644,   123
+Rx_Data_Pkts2:   85177,   244
+Unique_RX_Pkts2: 38250,   122
+Rx_Data_Pkts3:   46089,   122
+Unique_RX_Pkts3: 37902,   122
+NORMAL BUSTED!
+Now:319
+Tx_Data_Pkts:   38940,   122
+Rx_Data_Pkts:   88710,   367
+Unique_RX_Pkts: 38766,   122
+Rx_Data_Pkts2:   85421,   244
+Unique_RX_Pkts2: 38372,   122
+Rx_Data_Pkts3:   46211,   122
+Unique_RX_Pkts3: 38024,   122
+!IsInMyArea192.168.0.228,Pos:1000.02,-6.88478,0 Start:0,0;End:1000,-10
+NORMAL BUSTED!
+NORMAL BUSTED!
+Now:320
+Tx_Data_Pkts:   39062,   122
+Rx_Data_Pkts:   88985,   275
+Unique_RX_Pkts: 38888,   122
+Rx_Data_Pkts2:   85575,   154
+Unique_RX_Pkts2: 38449,   77
+Rx_Data_Pkts3:   46288,   77
+Unique_RX_Pkts3: 38101,   77
+Upper:12.3874
+BS_count:6,LowerBound:12.0003
+CHAIN:
+10.1.1.3(124.251),
+10.1.0.248(461.013),
+10.1.0.235(803.923),
+CR DONE
+Now:321
+Tx_Data_Pkts:   39184,   122
+Rx_Data_Pkts:   89189,   204
+Unique_RX_Pkts: 39010,   122
+Rx_Data_Pkts2:   85818,   243
+Unique_RX_Pkts2: 38530,   81
+Rx_Data_Pkts3:   46450,   162
+Unique_RX_Pkts3: 38182,   81
+NORMAL BUSTED!
+NORMAL BUSTED!
+Now:322
+Tx_Data_Pkts:   39306,   122
+Rx_Data_Pkts:   89433,   244
+Unique_RX_Pkts: 39132,   122
+Rx_Data_Pkts2:   86185,   367
+Unique_RX_Pkts2: 38653,   123
+Rx_Data_Pkts3:   46694,   244
+Unique_RX_Pkts3: 38304,   122
+NORMAL BUSTED!
+NORMAL BUSTED!
+Now:323
+Tx_Data_Pkts:   39428,   122
+Rx_Data_Pkts:   89677,   244
+Unique_RX_Pkts: 39254,   122
+Rx_Data_Pkts2:   86551,   366
+Unique_RX_Pkts2: 38775,   122
+Rx_Data_Pkts3:   46938,   244
+Unique_RX_Pkts3: 38426,   122
+Upper:12.4035
+BS_count:6,LowerBound:12.0159
+CHAIN:
+10.1.0.190(110.65),
+10.1.0.178(460.636),
+10.1.0.165(798.14),
+CR DONE
+NORMAL BUSTED!
+Now:324
+Tx_Data_Pkts:   39550,   122
+Rx_Data_Pkts:   89913,   236
+Unique_RX_Pkts: 39376,   122
+Rx_Data_Pkts2:   86981,   430
+Unique_RX_Pkts2: 38883,   108
+Rx_Data_Pkts3:   47172,   234
+Unique_RX_Pkts3: 38534,   108
+!IsInMyArea192.168.0.194,Pos:1010.06,991.399,0 Start:1000,0;End:1010,1000
+Upper:12.1863
+BS_count:6,LowerBound:11.8055
+CHAIN:
+10.1.0.225(168.834),
+10.1.0.214(491.014),
+10.1.0.200(812.433),
+CR DONE
+NORMAL BUSTED!
+NORMAL BUSTED!
+Now:325
+Tx_Data_Pkts:   39672,   122
+Rx_Data_Pkts:   90173,   260
+Unique_RX_Pkts: 39498,   122
+Rx_Data_Pkts2:   87148,   167
+Unique_RX_Pkts2: 39005,   122
+Rx_Data_Pkts3:   47202,   30
+Unique_RX_Pkts3: 38564,   30
+NORMAL BUSTED!
+Now:326
+Tx_Data_Pkts:   39794,   122
+Rx_Data_Pkts:   90421,   248
+Unique_RX_Pkts: 39620,   122
+Rx_Data_Pkts2:   87392,   244
+Unique_RX_Pkts2: 39127,   122
+Rx_Data_Pkts3:   47324,   122
+Unique_RX_Pkts3: 38686,   122
+NORMAL BUSTED!
+Now:327
+Tx_Data_Pkts:   39916,   122
+Rx_Data_Pkts:   90665,   244
+Unique_RX_Pkts: 39742,   122
+Rx_Data_Pkts2:   87636,   244
+Unique_RX_Pkts2: 39249,   122
+Rx_Data_Pkts3:   47446,   122
+Unique_RX_Pkts3: 38808,   122
+miscalculation on FORWARDER Car:10.1.0.178
+Upper:10.9425
+BS_count:6,LowerBound:10.6006
+CHAIN:
+10.1.0.192(85.9151),
+10.1.0.181(444.609),
+10.1.0.167(803.578),
+CR DONE
+NORMAL BUSTED!
+Now:328
+Tx_Data_Pkts:   40039,   123
+Rx_Data_Pkts:   90909,   244
+Unique_RX_Pkts: 39864,   122
+Rx_Data_Pkts2:   87884,   248
+Unique_RX_Pkts2: 39371,   122
+Rx_Data_Pkts3:   47569,   123
+Unique_RX_Pkts3: 38931,   123
+NORMAL BUSTED!
+NORMAL BUSTED!
+Now:329
+Tx_Data_Pkts:   40161,   122
+Rx_Data_Pkts:   91153,   244
+Unique_RX_Pkts: 39986,   122
+Rx_Data_Pkts2:   88128,   244
+Unique_RX_Pkts2: 39493,   122
+Rx_Data_Pkts3:   47691,   122
+Unique_RX_Pkts3: 39053,   122
+NORMAL BUSTED!
+NORMAL BUSTED!
+Now:330
+Tx_Data_Pkts:   40283,   122
+Rx_Data_Pkts:   91397,   244
+Unique_RX_Pkts: 40108,   122
+Rx_Data_Pkts2:   88372,   244
+Unique_RX_Pkts2: 39615,   122
+Rx_Data_Pkts3:   47813,   122
+Unique_RX_Pkts3: 39175,   122
+Now:331
+Tx_Data_Pkts:   40405,   122
+Rx_Data_Pkts:   91669,   272
+Unique_RX_Pkts: 40230,   122
+Rx_Data_Pkts2:   88616,   244
+Unique_RX_Pkts2: 39737,   122
+Rx_Data_Pkts3:   47935,   122
+Unique_RX_Pkts3: 39297,   122
+NORMAL BUSTED!
+NORMAL BUSTED!
+NORMAL BUSTED!
+Now:332
+Tx_Data_Pkts:   40527,   122
+Rx_Data_Pkts:   92036,   367
+Unique_RX_Pkts: 40353,   123
+Rx_Data_Pkts2:   88860,   244
+Unique_RX_Pkts2: 39859,   122
+Rx_Data_Pkts3:   48057,   122
+Unique_RX_Pkts3: 39419,   122
+Upper:76.9204
+BS_count:9,LowerBound:12.9202
+CHAIN:
+10.1.1.9(134.633),
+10.1.0.253(465.913),
+10.1.0.239(813.783),
+CR DONE
+Now:333
+Tx_Data_Pkts:   40649,   122
+Rx_Data_Pkts:   92317,   281
+Unique_RX_Pkts: 40474,   121
+Rx_Data_Pkts2:   89104,   244
+Unique_RX_Pkts2: 39981,   122
+Rx_Data_Pkts3:   48179,   122
+Unique_RX_Pkts3: 39541,   122
+NORMAL BUSTED!
+NORMAL BUSTED!
+NORMAL BUSTED!
+Now:334
+Tx_Data_Pkts:   40771,   122
+Rx_Data_Pkts:   92562,   245
+Unique_RX_Pkts: 40597,   123
+Rx_Data_Pkts2:   89406,   302
+Unique_RX_Pkts2: 40103,   122
+Rx_Data_Pkts3:   48301,   122
+Unique_RX_Pkts3: 39663,   122
+Now:335
+Tx_Data_Pkts:   40893,   122
+Rx_Data_Pkts:   92807,   245
+Unique_RX_Pkts: 40719,   122
+Rx_Data_Pkts2:   89772,   366
+Unique_RX_Pkts2: 40225,   122
+Rx_Data_Pkts3:   48423,   122
+Unique_RX_Pkts3: 39785,   122
+Now:336
+Tx_Data_Pkts:   41015,   122
+Rx_Data_Pkts:   93051,   244
+Unique_RX_Pkts: 40841,   122
+Rx_Data_Pkts2:   90138,   366
+Unique_RX_Pkts2: 40347,   122
+Rx_Data_Pkts3:   48545,   122
+Unique_RX_Pkts3: 39907,   122
+Upper:11.441
+BS_count:6,LowerBound:11.0834
+CHAIN:
+10.1.0.231(157.523),
+10.1.0.218(479.639),
+10.1.0.206(832.785),
+CR DONE
+NORMAL BUSTED!
+NORMAL BUSTED!
+NORMAL BUSTED!
+Now:337
+Tx_Data_Pkts:   41137,   122
+Rx_Data_Pkts:   93315,   264
+Unique_RX_Pkts: 40963,   122
+Rx_Data_Pkts2:   90453,   315
+Unique_RX_Pkts2: 40469,   122
+Rx_Data_Pkts3:   48705,   160
+Unique_RX_Pkts3: 40029,   122
+Upper:13.1761
+BS_count:6,LowerBound:11.1173
+CHAIN:
+10.1.0.196(132.424),
+10.1.0.186(482.452),
+10.1.0.173(831.848),
+CR DONE
+NORMAL BUSTED!
+NORMAL BUSTED!
+NORMAL BUSTED!
+Now:338
+Tx_Data_Pkts:   41259,   122
+Rx_Data_Pkts:   93559,   244
+Unique_RX_Pkts: 41085,   122
+Rx_Data_Pkts2:   90710,   257
+Unique_RX_Pkts2: 40592,   123
+Rx_Data_Pkts3:   48909,   204
+Unique_RX_Pkts3: 40151,   122
+Now:339
+Tx_Data_Pkts:   41381,   122
+Rx_Data_Pkts:   93803,   244
+Unique_RX_Pkts: 41207,   122
+Rx_Data_Pkts2:   90954,   244
+Unique_RX_Pkts2: 40714,   122
+Rx_Data_Pkts3:   49031,   122
+Unique_RX_Pkts3: 40273,   122
+NORMAL BUSTED!
+NORMAL BUSTED!
+NORMAL BUSTED!
+Now:340
+Tx_Data_Pkts:   41503,   122
+Rx_Data_Pkts:   94047,   244
+Unique_RX_Pkts: 41329,   122
+Rx_Data_Pkts2:   91199,   245
+Unique_RX_Pkts2: 40836,   122
+Rx_Data_Pkts3:   49153,   122
+Unique_RX_Pkts3: 40395,   122
+NORMAL BUSTED!
+Now:341
+Tx_Data_Pkts:   41625,   122
+Rx_Data_Pkts:   94291,   244
+Unique_RX_Pkts: 41451,   122
+Rx_Data_Pkts2:   91443,   244
+Unique_RX_Pkts2: 40958,   122
+Rx_Data_Pkts3:   49275,   122
+Unique_RX_Pkts3: 40517,   122
+NORMAL BUSTED!
+Now:342
+Tx_Data_Pkts:   41748,   123
+Rx_Data_Pkts:   94535,   244
+Unique_RX_Pkts: 41573,   122
+Rx_Data_Pkts2:   91687,   244
+Unique_RX_Pkts2: 41080,   122
+Rx_Data_Pkts3:   49397,   122
+Unique_RX_Pkts3: 40639,   122
+NORMAL BUSTED!
+NORMAL BUSTED!
+Now:343
+Tx_Data_Pkts:   41870,   122
+Rx_Data_Pkts:   94883,   348
+Unique_RX_Pkts: 41695,   122
+Rx_Data_Pkts2:   91931,   244
+Unique_RX_Pkts2: 41202,   122
+Rx_Data_Pkts3:   49520,   123
+Unique_RX_Pkts3: 40762,   123
+NORMAL BUSTED!
+NORMAL BUSTED!
+Now:344
+Tx_Data_Pkts:   41992,   122
+Rx_Data_Pkts:   95249,   366
+Unique_RX_Pkts: 41817,   122
+Rx_Data_Pkts2:   92175,   244
+Unique_RX_Pkts2: 41324,   122
+Rx_Data_Pkts3:   49642,   122
+Unique_RX_Pkts3: 40884,   122
+!IsInMyArea192.168.0.239,Pos:1000.01,-7.93262,0 Start:0,0;End:1000,-10
+NORMAL BUSTED!
+NORMAL BUSTED!
+Now:345
+Tx_Data_Pkts:   42114,   122
+Rx_Data_Pkts:   95571,   322
+Unique_RX_Pkts: 41939,   122
+Rx_Data_Pkts2:   92447,   272
+Unique_RX_Pkts2: 41424,   100
+Rx_Data_Pkts3:   49742,   100
+Unique_RX_Pkts3: 40984,   100
+Upper:39.9999
+BS_count:8,LowerBound:13.75
+CHAIN:
+10.1.1.14(134.963),
+10.1.1.3(484.343),
+10.1.0.248(804.07),
+CR DONE
+NORMAL BUSTED!
+Now:346
+Tx_Data_Pkts:   42236,   122
+Rx_Data_Pkts:   95759,   188
+Unique_RX_Pkts: 42061,   122
+Rx_Data_Pkts2:   92645,   198
+Unique_RX_Pkts2: 41490,   66
+Rx_Data_Pkts3:   49808,   66
+Unique_RX_Pkts3: 41050,   66
+NORMAL BUSTED!
+NORMAL BUSTED!
+Now:347
+Tx_Data_Pkts:   42358,   122
+Rx_Data_Pkts:   96003,   244
+Unique_RX_Pkts: 42183,   122
+Rx_Data_Pkts2:   93011,   366
+Unique_RX_Pkts2: 41612,   122
+Rx_Data_Pkts3:   50025,   217
+Unique_RX_Pkts3: 41172,   122
+Upper:11.4598
+BS_count:6,LowerBound:11.1017
+CHAIN:
+10.1.0.236(144.272),
+10.1.0.224(490.555),
+10.1.0.214(801.74),
+CR DONE
+FORWARDER--------------BUSTED!
+NORMAL BUSTED!
+NORMAL BUSTED!
+Now:348
+Tx_Data_Pkts:   42480,   122
+Rx_Data_Pkts:   96265,   262
+Unique_RX_Pkts: 42306,   123
+Rx_Data_Pkts2:   93338,   327
+Unique_RX_Pkts2: 41734,   122
+Rx_Data_Pkts3:   50147,   122
+Unique_RX_Pkts3: 41294,   122
+Upper:12.8475
+BS_count:6,LowerBound:12.446
+CHAIN:
+10.1.0.201(120.135),
+10.1.0.191(452.625),
+10.1.0.180(798.111),
+CR DONE
+Now:349
+Tx_Data_Pkts:   42602,   122
+Rx_Data_Pkts:   96510,   245
+Unique_RX_Pkts: 42428,   122
+Rx_Data_Pkts2:   93588,   250
+Unique_RX_Pkts2: 41856,   122
+Rx_Data_Pkts3:   50269,   122
+Unique_RX_Pkts3: 41416,   122
+NORMAL BUSTED!
+NORMAL BUSTED!
+Now:350
+Tx_Data_Pkts:   42724,   122
+Rx_Data_Pkts:   96754,   244
+Unique_RX_Pkts: 42550,   122
+Rx_Data_Pkts2:   93832,   244
+Unique_RX_Pkts2: 41978,   122
+Rx_Data_Pkts3:   50391,   122
+Unique_RX_Pkts3: 41538,   122
+NORMAL BUSTED!
+Now:351
+Tx_Data_Pkts:   42846,   122
+Rx_Data_Pkts:   96998,   244
+Unique_RX_Pkts: 42672,   122
+Rx_Data_Pkts2:   94076,   244
+Unique_RX_Pkts2: 42100,   122
+Rx_Data_Pkts3:   50513,   122
+Unique_RX_Pkts3: 41660,   122
+NORMAL BUSTED!
+NORMAL BUSTED!
+Now:352
+Tx_Data_Pkts:   42968,   122
+Rx_Data_Pkts:   97242,   244
+Unique_RX_Pkts: 42794,   122
+Rx_Data_Pkts2:   94321,   245
+Unique_RX_Pkts2: 42223,   123
+Rx_Data_Pkts3:   50635,   122
+Unique_RX_Pkts3: 41782,   122
+NORMAL BUSTED!
+NORMAL BUSTED!
+Now:353
+Tx_Data_Pkts:   43090,   122
+Rx_Data_Pkts:   97486,   244
+Unique_RX_Pkts: 42916,   122
+Rx_Data_Pkts2:   94565,   244
+Unique_RX_Pkts2: 42345,   122
+Rx_Data_Pkts3:   50757,   122
+Unique_RX_Pkts3: 41904,   122
+NORMAL BUSTED!
+NORMAL BUSTED!
+Now:354
+Tx_Data_Pkts:   43212,   122
+Rx_Data_Pkts:   97814,   328
+Unique_RX_Pkts: 43038,   122
+Rx_Data_Pkts2:   94810,   245
+Unique_RX_Pkts2: 42467,   122
+Rx_Data_Pkts3:   50879,   122
+Unique_RX_Pkts3: 42026,   122
+NORMAL BUSTED!
+NORMAL BUSTED!
+NORMAL BUSTED!
+Now:355
+Tx_Data_Pkts:   43334,   122
+Rx_Data_Pkts:   98180,   366
+Unique_RX_Pkts: 43160,   122
+Rx_Data_Pkts2:   95155,   345
+Unique_RX_Pkts2: 42589,   122
+Rx_Data_Pkts3:   51001,   122
+Unique_RX_Pkts3: 42148,   122
+miscalculation on FORWARDER Car:10.1.0.224
+Upper:11.7214
+BS_count:6,LowerBound:11.3551
+CHAIN:
+10.1.0.240(107.011),
+10.1.0.230(452.35),
+10.1.0.217(807.768),
+CR DONE
+NORMAL BUSTED!
+Now:356
+Tx_Data_Pkts:   43457,   123
+Rx_Data_Pkts:   98570,   390
+Unique_RX_Pkts: 43277,   117
+Rx_Data_Pkts2:   95437,   282
+Unique_RX_Pkts2: 42706,   117
+Rx_Data_Pkts3:   51127,   126
+Unique_RX_Pkts3: 42265,   117
+NORMAL BUSTED!
+NORMAL BUSTED!
+NORMAL BUSTED!
+Now:357
+Tx_Data_Pkts:   43579,   122
+Rx_Data_Pkts:   98936,   366
+Unique_RX_Pkts: 43399,   122
+Rx_Data_Pkts2:   95681,   244
+Unique_RX_Pkts2: 42828,   122
+Rx_Data_Pkts3:   51250,   123
+Unique_RX_Pkts3: 42388,   123
+NORMAL BUSTED!
+Now:358
+Tx_Data_Pkts:   43701,   122
+Rx_Data_Pkts:   99302,   366
+Unique_RX_Pkts: 43521,   122
+Rx_Data_Pkts2:   95925,   244
+Unique_RX_Pkts2: 42950,   122
+Rx_Data_Pkts3:   51372,   122
+Unique_RX_Pkts3: 42510,   122
+!IsInMyArea192.168.0.248,Pos:1000.03,-5.05444,0 Start:0,0;End:1000,-10
+Upper:32.3193
+BS_count:8,LowerBound:13.3822
+CHAIN:
+10.1.1.20(140.357),
+10.1.1.10(472.275),
+10.1.0.254(803.779),
+CR DONE
+NORMAL BUSTED!
+Now:359
+Tx_Data_Pkts:   43823,   122
+Rx_Data_Pkts:   99546,   244
+Unique_RX_Pkts: 43643,   122
+Rx_Data_Pkts2:   96047,   122
+Unique_RX_Pkts2: 43011,   61
+Rx_Data_Pkts3:   51433,   61
+Unique_RX_Pkts3: 42571,   61
+NORMAL BUSTED!
+NORMAL BUSTED!
+Now:360
+Tx_Data_Pkts:   43945,   122
+Rx_Data_Pkts:   99781,   235
+Unique_RX_Pkts: 43765,   122
+Rx_Data_Pkts2:   96273,   226
+Unique_RX_Pkts2: 43124,   113
+Rx_Data_Pkts3:   51621,   188
+Unique_RX_Pkts3: 42684,   113
+NORMAL BUSTED!
+Now:361
+Tx_Data_Pkts:   44067,   122
+Rx_Data_Pkts:   100025,   244
+Unique_RX_Pkts: 43887,   122
+Rx_Data_Pkts2:   96517,   244
+Unique_RX_Pkts2: 43246,   122
+Rx_Data_Pkts3:   51865,   244
+Unique_RX_Pkts3: 42806,   122
+Upper:12.5404
+BS_count:6,LowerBound:12.1485
+CHAIN:
+10.1.0.209(116.301),
+10.1.0.197(443.229),
+10.1.0.186(802.176),
+CR DONE
+NORMAL BUSTED!
+Now:362
+Tx_Data_Pkts:   44189,   122
+Rx_Data_Pkts:   100270,   245
+Unique_RX_Pkts: 44010,   123
+Rx_Data_Pkts2:   96789,   272
+Unique_RX_Pkts2: 43368,   122
+Rx_Data_Pkts3:   52015,   150
+Unique_RX_Pkts3: 42928,   122
+NORMAL BUSTED!
+Now:363
+Tx_Data_Pkts:   44311,   122
+Rx_Data_Pkts:   100514,   244
+Unique_RX_Pkts: 44132,   122
+Rx_Data_Pkts2:   97033,   244
+Unique_RX_Pkts2: 43490,   122
+Rx_Data_Pkts3:   52137,   122
+Unique_RX_Pkts3: 43050,   122
+NORMAL BUSTED!
+Now:364
+Tx_Data_Pkts:   44433,   122
+Rx_Data_Pkts:   100759,   245
+Unique_RX_Pkts: 44254,   122
+Rx_Data_Pkts2:   97277,   244
+Unique_RX_Pkts2: 43612,   122
+Rx_Data_Pkts3:   52259,   122
+Unique_RX_Pkts3: 43172,   122
+NORMAL BUSTED!
+NORMAL BUSTED!
+NORMAL BUSTED!
+Now:365
+Tx_Data_Pkts:   44555,   122
+Rx_Data_Pkts:   101003,   244
+Unique_RX_Pkts: 44376,   122
+Rx_Data_Pkts2:   97521,   244
+Unique_RX_Pkts2: 43734,   122
+Rx_Data_Pkts3:   52381,   122
+Unique_RX_Pkts3: 43294,   122
+NORMAL BUSTED!
+Now:366
+Tx_Data_Pkts:   44677,   122
+Rx_Data_Pkts:   101247,   244
+Unique_RX_Pkts: 44498,   122
+Rx_Data_Pkts2:   97765,   244
+Unique_RX_Pkts2: 43856,   122
+Rx_Data_Pkts3:   52503,   122
+Unique_RX_Pkts3: 43416,   122
+Upper:12.2251
+BS_count:6,LowerBound:11.8431
+CHAIN:
+10.1.0.246(156.437),
+10.1.0.235(475.131),
+10.1.0.222(803.883),
+CR DONE
+NORMAL BUSTED!
+NORMAL BUSTED!
+Now:367
+Tx_Data_Pkts:   44799,   122
+Rx_Data_Pkts:   101507,   260
+Unique_RX_Pkts: 44620,   122
+Rx_Data_Pkts2:   98069,   304
+Unique_RX_Pkts2: 43979,   123
+Rx_Data_Pkts3:   52625,   122
+Unique_RX_Pkts3: 43538,   122
+Now:368
+Tx_Data_Pkts:   44921,   122
+Rx_Data_Pkts:   101751,   244
+Unique_RX_Pkts: 44742,   122
+Rx_Data_Pkts2:   98314,   245
+Unique_RX_Pkts2: 44101,   122
+Rx_Data_Pkts3:   52747,   122
+Unique_RX_Pkts3: 43660,   122
+NORMAL BUSTED!
+Now:369
+Tx_Data_Pkts:   45043,   122
+Rx_Data_Pkts:   102115,   364
+Unique_RX_Pkts: 44864,   122
+Rx_Data_Pkts2:   98558,   244
+Unique_RX_Pkts2: 44223,   122
+Rx_Data_Pkts3:   52869,   122
+Unique_RX_Pkts3: 43782,   122
+NORMAL BUSTED!
+NORMAL BUSTED!
+NORMAL BUSTED!
+Now:370
+Tx_Data_Pkts:   45166,   123
+Rx_Data_Pkts:   102481,   366
+Unique_RX_Pkts: 44986,   122
+Rx_Data_Pkts2:   98802,   244
+Unique_RX_Pkts2: 44345,   122
+Rx_Data_Pkts3:   52991,   122
+Unique_RX_Pkts3: 43904,   122
+NORMAL BUSTED!
+Now:371
+Tx_Data_Pkts:   45288,   122
+Rx_Data_Pkts:   102847,   366
+Unique_RX_Pkts: 45108,   122
+Rx_Data_Pkts2:   99046,   244
+Unique_RX_Pkts2: 44467,   122
+Rx_Data_Pkts3:   53114,   123
+Unique_RX_Pkts3: 44027,   123
+NORMAL BUSTED!
+NORMAL BUSTED!
+Now:372
+Tx_Data_Pkts:   45410,   122
+Rx_Data_Pkts:   103213,   366
+Unique_RX_Pkts: 45230,   122
+Rx_Data_Pkts2:   99290,   244
+Unique_RX_Pkts2: 44589,   122
+Rx_Data_Pkts3:   53236,   122
+Unique_RX_Pkts3: 44149,   122
+Upper:35.93
+BS_count:8,LowerBound:12.0702
+CHAIN:
+10.1.1.26(141.904),
+10.1.1.15(493.161),
+10.1.1.5(824.471),
+CR DONE
+NORMAL BUSTED!
+Now:373
+Tx_Data_Pkts:   45532,   122
+Rx_Data_Pkts:   103507,   294
+Unique_RX_Pkts: 45352,   122
+Rx_Data_Pkts2:   99534,   244
+Unique_RX_Pkts2: 44711,   122
+Rx_Data_Pkts3:   53477,   241
+Unique_RX_Pkts3: 44271,   122
+Upper:12.4764
+BS_count:6,LowerBound:10.9168
+CHAIN:
+10.1.0.215(135.646),
+10.1.0.201(487.118),
+10.1.0.189(834.461),
+CR DONE
+NORMAL BUSTED!
+Now:374
+Tx_Data_Pkts:   45654,   122
+Rx_Data_Pkts:   103751,   244
+Unique_RX_Pkts: 45474,   122
+Rx_Data_Pkts2:   99808,   274
+Unique_RX_Pkts2: 44833,   122
+Rx_Data_Pkts3:   53644,   167
+Unique_RX_Pkts3: 44393,   122
+miscalculation on FORWARDER Car:10.1.0.189
+Upper:11.8413
+BS_count:6,LowerBound:11.4713
+CHAIN:
+10.1.0.216(108.766),
+10.1.0.202(453.144),
+10.1.0.191(793.051),
+CR DONE
+NORMAL BUSTED!
+Now:375
+Tx_Data_Pkts:   45776,   122
+Rx_Data_Pkts:   103995,   244
+Unique_RX_Pkts: 45596,   122
+Rx_Data_Pkts2:   100075,   267
+Unique_RX_Pkts2: 44955,   122
+Rx_Data_Pkts3:   53767,   123
+Unique_RX_Pkts3: 44515,   122
+NORMAL BUSTED!
+NORMAL BUSTED!
+Now:376
+Tx_Data_Pkts:   45898,   122
+Rx_Data_Pkts:   104240,   245
+Unique_RX_Pkts: 45719,   123
+Rx_Data_Pkts2:   100319,   244
+Unique_RX_Pkts2: 45077,   122
+Rx_Data_Pkts3:   53889,   122
+Unique_RX_Pkts3: 44637,   122
+NORMAL BUSTED!
+NORMAL BUSTED!
+Now:377
+Tx_Data_Pkts:   46020,   122
+Rx_Data_Pkts:   104484,   244
+Unique_RX_Pkts: 45841,   122
+Rx_Data_Pkts2:   100679,   360
+Unique_RX_Pkts2: 45199,   122
+Rx_Data_Pkts3:   54011,   122
+Unique_RX_Pkts3: 44759,   122
+NORMAL BUSTED!
+NORMAL BUSTED!
+Now:378
+Tx_Data_Pkts:   46142,   122
+Rx_Data_Pkts:   104729,   245
+Unique_RX_Pkts: 45963,   122
+Rx_Data_Pkts2:   101045,   366
+Unique_RX_Pkts2: 45321,   122
+Rx_Data_Pkts3:   54133,   122
+Unique_RX_Pkts3: 44881,   122
+Upper:11.9571
+BS_count:6,LowerBound:11.5834
+CHAIN:
+10.1.0.251(170.053),
+10.1.0.239(485.96),
+10.1.0.228(833.301),
+CR DONE
+Now:379
+Tx_Data_Pkts:   46264,   122
+Rx_Data_Pkts:   104977,   248
+Unique_RX_Pkts: 46085,   122
+Rx_Data_Pkts2:   101353,   308
+Unique_RX_Pkts2: 45443,   122
+Rx_Data_Pkts3:   54255,   122
+Unique_RX_Pkts3: 45003,   122
+NORMAL BUSTED!
+NORMAL BUSTED!
+NORMAL BUSTED!
+Now:380
+Tx_Data_Pkts:   46386,   122
+Rx_Data_Pkts:   105238,   261
+Unique_RX_Pkts: 46207,   122
+Rx_Data_Pkts2:   101597,   244
+Unique_RX_Pkts2: 45565,   122
+Rx_Data_Pkts3:   54377,   122
+Unique_RX_Pkts3: 45125,   122
+Now:381
+Tx_Data_Pkts:   46508,   122
+Rx_Data_Pkts:   105604,   366
+Unique_RX_Pkts: 46329,   122
+Rx_Data_Pkts2:   101842,   245
+Unique_RX_Pkts2: 45688,   123
+Rx_Data_Pkts3:   54499,   122
+Unique_RX_Pkts3: 45247,   122
+NORMAL BUSTED!
+NORMAL BUSTED!
+Now:382
+Tx_Data_Pkts:   46630,   122
+Rx_Data_Pkts:   105970,   366
+Unique_RX_Pkts: 46451,   122
+Rx_Data_Pkts2:   102087,   245
+Unique_RX_Pkts2: 45810,   122
+Rx_Data_Pkts3:   54621,   122
+Unique_RX_Pkts3: 45369,   122
+NORMAL BUSTED!
+NORMAL BUSTED!
+Now:383
+Tx_Data_Pkts:   46752,   122
+Rx_Data_Pkts:   106336,   366
+Unique_RX_Pkts: 46573,   122
+Rx_Data_Pkts2:   102331,   244
+Unique_RX_Pkts2: 45932,   122
+Rx_Data_Pkts3:   54743,   122
+Unique_RX_Pkts3: 45491,   122
+NORMAL BUSTED!
+NORMAL BUSTED!
+Now:384
+Tx_Data_Pkts:   46875,   123
+Rx_Data_Pkts:   106702,   366
+Unique_RX_Pkts: 46695,   122
+Rx_Data_Pkts2:   102575,   244
+Unique_RX_Pkts2: 46054,   122
+Rx_Data_Pkts3:   54922,   179
+Unique_RX_Pkts3: 45614,   123
+Upper:33.1548
+BS_count:8,LowerBound:13.2101
+CHAIN:
+10.1.1.35(109.965),
+10.1.1.21(464.903),
+10.1.1.11(808.701),
+CR DONE
+NORMAL BUSTED!
+Now:385
+Tx_Data_Pkts:   46997,   122
+Rx_Data_Pkts:   106997,   295
+Unique_RX_Pkts: 46817,   122
+Rx_Data_Pkts2:   102819,   244
+Unique_RX_Pkts2: 46176,   122
+Rx_Data_Pkts3:   55167,   245
+Unique_RX_Pkts3: 45736,   122
+Upper:11.8386
+BS_count:6,LowerBound:11.4687
+CHAIN:
+10.1.0.221(132.436),
+10.1.0.209(479.966),
+10.1.0.197(802.223),
+CR DONE
+NORMAL BUSTED!
+NORMAL BUSTED!
+Now:386
+Tx_Data_Pkts:   47119,   122
+Rx_Data_Pkts:   107241,   244
+Unique_RX_Pkts: 46939,   122
+Rx_Data_Pkts2:   103083,   264
+Unique_RX_Pkts2: 46298,   122
+Rx_Data_Pkts3:   55365,   198
+Unique_RX_Pkts3: 45858,   122
+NORMAL BUSTED!
+Now:387
+Tx_Data_Pkts:   47241,   122
+Rx_Data_Pkts:   107485,   244
+Unique_RX_Pkts: 47061,   122
+Rx_Data_Pkts2:   103327,   244
+Unique_RX_Pkts2: 46420,   122
+Rx_Data_Pkts3:   55487,   122
+Unique_RX_Pkts3: 45980,   122
+NORMAL BUSTED!
+NORMAL BUSTED!
+Now:388
+Tx_Data_Pkts:   47363,   122
+Rx_Data_Pkts:   107729,   244
+Unique_RX_Pkts: 47183,   122
+Rx_Data_Pkts2:   103657,   330
+Unique_RX_Pkts2: 46542,   122
+Rx_Data_Pkts3:   55609,   122
+Unique_RX_Pkts3: 46102,   122
+NORMAL BUSTED!
+Now:389
+Tx_Data_Pkts:   47485,   122
+Rx_Data_Pkts:   107973,   244
+Unique_RX_Pkts: 47305,   122
+Rx_Data_Pkts2:   104023,   366
+Unique_RX_Pkts2: 46664,   122
+Rx_Data_Pkts3:   55731,   122
+Unique_RX_Pkts3: 46224,   122
+!IsInMyArea192.168.0.228,Pos:1010,989.906,0 Start:1000,0;End:1010,1000
+Upper:12.8164
+BS_count:6,LowerBound:12.0154
+CHAIN:
+10.1.1.3(118.635),
+10.1.0.247(473.671),
+10.1.0.235(821.364),
+CR DONE
+NORMAL BUSTED!
+Now:390
+Tx_Data_Pkts:   47607,   122
+Rx_Data_Pkts:   108218,   245
+Unique_RX_Pkts: 47428,   123
+Rx_Data_Pkts2:   104331,   308
+Unique_RX_Pkts2: 46786,   122
+Rx_Data_Pkts3:   55824,   93
+Unique_RX_Pkts3: 46317,   93
+NORMAL BUSTED!
+NORMAL BUSTED!
+Now:391
+Tx_Data_Pkts:   47729,   122
+Rx_Data_Pkts:   108491,   273
+Unique_RX_Pkts: 47550,   122
+Rx_Data_Pkts2:   104568,   237
+Unique_RX_Pkts2: 46908,   122
+Rx_Data_Pkts3:   55938,   114
+Unique_RX_Pkts3: 46431,   114
+miscalculation on FORWARDER Car:10.1.0.197
+Upper:13.3032
+BS_count:6,LowerBound:12.056
+CHAIN:
+10.1.0.224(127.389),
+10.1.0.211(482.738),
+10.1.0.198(822.552),
+CR DONE
+NORMAL BUSTED!
+Now:392
+Tx_Data_Pkts:   47851,   122
+Rx_Data_Pkts:   108736,   245
+Unique_RX_Pkts: 47672,   122
+Rx_Data_Pkts2:   104842,   274
+Unique_RX_Pkts2: 47030,   122
+Rx_Data_Pkts3:   56060,   122
+Unique_RX_Pkts3: 46553,   122
+NORMAL BUSTED!
+NORMAL BUSTED!
+Now:393
+Tx_Data_Pkts:   47973,   122
+Rx_Data_Pkts:   108980,   244
+Unique_RX_Pkts: 47794,   122
+Rx_Data_Pkts2:   105086,   244
+Unique_RX_Pkts2: 47152,   122
+Rx_Data_Pkts3:   56182,   122
+Unique_RX_Pkts3: 46675,   122
+miscalculation on FORWARDER Car:10.1.0.235
+Upper:12.3988
+BS_count:6,LowerBound:10.4615
+CHAIN:
+10.1.1.3(163.113),
+10.1.0.247(518.504),
+10.1.0.235(842.065),
+CR DONE
+NORMAL BUSTED!
+NORMAL BUSTED!
+Now:394
+Tx_Data_Pkts:   48095,   122
+Rx_Data_Pkts:   109246,   266
+Unique_RX_Pkts: 47916,   122
+Rx_Data_Pkts2:   105330,   244
+Unique_RX_Pkts2: 47274,   122
+Rx_Data_Pkts3:   56304,   122
+Unique_RX_Pkts3: 46797,   122
+NORMAL BUSTED!
+Now:395
+Tx_Data_Pkts:   48217,   122
+Rx_Data_Pkts:   109612,   366
+Unique_RX_Pkts: 48038,   122
+Rx_Data_Pkts2:   105575,   245
+Unique_RX_Pkts2: 47397,   123
+Rx_Data_Pkts3:   56426,   122
+Unique_RX_Pkts3: 46919,   122
+NORMAL BUSTED!
+NORMAL BUSTED!
+Now:396
+Tx_Data_Pkts:   48339,   122
+Rx_Data_Pkts:   109978,   366
+Unique_RX_Pkts: 48160,   122
+Rx_Data_Pkts2:   105819,   244
+Unique_RX_Pkts2: 47519,   122
+Rx_Data_Pkts3:   56548,   122
+Unique_RX_Pkts3: 47041,   122
+Now:397
+Tx_Data_Pkts:   48461,   122
+Rx_Data_Pkts:   110344,   366
+Unique_RX_Pkts: 48282,   122
+Rx_Data_Pkts2:   106064,   245
+Unique_RX_Pkts2: 47641,   122
+Rx_Data_Pkts3:   56670,   122
+Unique_RX_Pkts3: 47163,   122
+Upper:49.4786
+BS_count:8,LowerBound:11.9831
+CHAIN:
+10.1.1.40(184.512),
+10.1.1.26(510.99),
+10.1.1.16(818.48),
+CR DONE
+NORMAL BUSTED!
+NORMAL BUSTED!
+Now:398
+Tx_Data_Pkts:   48583,   122
+Rx_Data_Pkts:   110670,   326
+Unique_RX_Pkts: 48404,   122
+Rx_Data_Pkts2:   106308,   244
+Unique_RX_Pkts2: 47763,   122
+Rx_Data_Pkts3:   56792,   122
+Unique_RX_Pkts3: 47285,   122
+NORMAL BUSTED!
+Now:399
+Tx_Data_Pkts:   48706,   123
+Rx_Data_Pkts:   110914,   244
+Unique_RX_Pkts: 48526,   122
+Rx_Data_Pkts2:   106572,   264
+Unique_RX_Pkts2: 47885,   122
+Rx_Data_Pkts3:   56976,   184
+Unique_RX_Pkts3: 47408,   123
+NORMAL BUSTED!
+Now:400
+Tx_Data_Pkts:   48828,   122
+Rx_Data_Pkts:   111158,   244
+Unique_RX_Pkts: 48648,   122
+Rx_Data_Pkts2:   106938,   366
+Unique_RX_Pkts2: 48007,   122
+Rx_Data_Pkts3:   57221,   245
+Unique_RX_Pkts3: 47530,   122
+NORMAL BUSTED!
+Now:401
+Tx_Data_Pkts:   48950,   122
+Rx_Data_Pkts:   111402,   244
+Unique_RX_Pkts: 48770,   122
+Rx_Data_Pkts2:   107304,   366
+Unique_RX_Pkts2: 48129,   122
+Rx_Data_Pkts3:   57465,   244
+Unique_RX_Pkts3: 47652,   122
+NORMAL BUSTED!
+Now:402
+Tx_Data_Pkts:   49072,   122
+Rx_Data_Pkts:   111646,   244
+Unique_RX_Pkts: 48892,   122
+Rx_Data_Pkts2:   107670,   366
+Unique_RX_Pkts2: 48251,   122
+Rx_Data_Pkts3:   57709,   244
+Unique_RX_Pkts3: 47774,   122
+FORWARDER--------------BUSTED!
+NORMAL BUSTED!
+Now:403
+Tx_Data_Pkts:   49194,   122
+Rx_Data_Pkts:   111890,   244
+Unique_RX_Pkts: 49014,   122
+Rx_Data_Pkts2:   108036,   366
+Unique_RX_Pkts2: 48373,   122
+Rx_Data_Pkts3:   57831,   122
+Unique_RX_Pkts3: 47896,   122
+Upper:13.6219
+BS_count:6,LowerBound:11.4935
+CHAIN:
+10.1.0.230(135.613),
+10.1.0.217(481.623),
+10.1.0.205(814.313),
+CR DONE
+Upper:12.4841
+BS_count:6,LowerBound:12.094
+CHAIN:
+10.1.1.9(155.304),
+10.1.0.252(471.408),
+10.1.0.239(823.6),
+CR DONE
+NORMAL BUSTED!
+NORMAL BUSTED!
+Now:404
+Tx_Data_Pkts:   49316,   122
+Rx_Data_Pkts:   112139,   249
+Unique_RX_Pkts: 49136,   122
+Rx_Data_Pkts2:   108349,   313
+Unique_RX_Pkts2: 48494,   121
+Rx_Data_Pkts3:   57955,   124
+Unique_RX_Pkts3: 48017,   121
+Now:405
+Tx_Data_Pkts:   49438,   122
+Rx_Data_Pkts:   112485,   346
+Unique_RX_Pkts: 49259,   123
+Rx_Data_Pkts2:   108593,   244
+Unique_RX_Pkts2: 48616,   122
+Rx_Data_Pkts3:   58077,   122
+Unique_RX_Pkts3: 48139,   122
+NORMAL BUSTED!
+Now:406
+Tx_Data_Pkts:   49560,   122
+Rx_Data_Pkts:   112852,   367
+Unique_RX_Pkts: 49381,   122
+Rx_Data_Pkts2:   108837,   244
+Unique_RX_Pkts2: 48738,   122
+Rx_Data_Pkts3:   58199,   122
+Unique_RX_Pkts3: 48261,   122
+NORMAL BUSTED!
+NORMAL BUSTED!
+Now:407
+Tx_Data_Pkts:   49682,   122
+Rx_Data_Pkts:   113218,   366
+Unique_RX_Pkts: 49503,   122
+Rx_Data_Pkts2:   109081,   244
+Unique_RX_Pkts2: 48860,   122
+Rx_Data_Pkts3:   58321,   122
+Unique_RX_Pkts3: 48383,   122
+NORMAL BUSTED!
+NORMAL BUSTED!
+Now:408
+Tx_Data_Pkts:   49804,   122
+Rx_Data_Pkts:   113584,   366
+Unique_RX_Pkts: 49625,   122
+Rx_Data_Pkts2:   109325,   244
+Unique_RX_Pkts2: 48982,   122
+Rx_Data_Pkts3:   58443,   122
+Unique_RX_Pkts3: 48505,   122
+Now:409
+Tx_Data_Pkts:   49926,   122
+Rx_Data_Pkts:   113950,   366
+Unique_RX_Pkts: 49747,   122
+Rx_Data_Pkts2:   109570,   245
+Unique_RX_Pkts2: 49105,   123
+Rx_Data_Pkts3:   58565,   122
+Unique_RX_Pkts3: 48627,   122
+miscalculation on FORWARDER Car:10.1.0.252
+Upper:13.0093
+BS_count:6,LowerBound:12.6028
+CHAIN:
+10.1.1.13(74.2025),
+10.1.1.2(430.974),
+10.1.0.244(800.378),
+CR DONE
+Upper:41.0664
+BS_count:8,LowerBound:11.2291
+CHAIN:
+10.1.1.47(115.451),
+10.1.1.34(484.381),
+10.1.1.21(833.447),
+CR DONE
+NORMAL BUSTED!
+NORMAL BUSTED!
+Now:410
+Tx_Data_Pkts:   50048,   122
+Rx_Data_Pkts:   114396,   446
+Unique_RX_Pkts: 49845,   98
+Rx_Data_Pkts2:   109875,   305
+Unique_RX_Pkts2: 49203,   98
+Rx_Data_Pkts3:   58711,   146
+Unique_RX_Pkts3: 48725,   98
+NORMAL BUSTED!
+Now:411
+Tx_Data_Pkts:   50170,   122
+Rx_Data_Pkts:   114640,   244
+Unique_RX_Pkts: 49967,   122
+Rx_Data_Pkts2:   110120,   245
+Unique_RX_Pkts2: 49325,   122
+Rx_Data_Pkts3:   58899,   188
+Unique_RX_Pkts3: 48847,   122
+NORMAL BUSTED!
+Now:412
+Tx_Data_Pkts:   50292,   122
+Rx_Data_Pkts:   114884,   244
+Unique_RX_Pkts: 50089,   122
+Rx_Data_Pkts2:   110364,   244
+Unique_RX_Pkts2: 49447,   122
+Rx_Data_Pkts3:   59144,   245
+Unique_RX_Pkts3: 48970,   123
+NORMAL BUSTED!
+NORMAL BUSTED!
+Now:413
+Tx_Data_Pkts:   50415,   123
+Rx_Data_Pkts:   115128,   244
+Unique_RX_Pkts: 50211,   122
+Rx_Data_Pkts2:   110608,   244
+Unique_RX_Pkts2: 49569,   122
+Rx_Data_Pkts3:   59388,   244
+Unique_RX_Pkts3: 49092,   122
+NORMAL BUSTED!
+Now:414
+Tx_Data_Pkts:   50537,   122
+Rx_Data_Pkts:   115372,   244
+Unique_RX_Pkts: 50333,   122
+Rx_Data_Pkts2:   110852,   244
+Unique_RX_Pkts2: 49691,   122
+Rx_Data_Pkts3:   59633,   245
+Unique_RX_Pkts3: 49214,   122
+Upper:11.7523
+BS_count:6,LowerBound:11.3851
+CHAIN:
+10.1.0.235(151.031),
+10.1.0.223(479.691),
+10.1.0.211(822.546),
+CR DONE
+NORMAL BUSTED!
+Now:415
+Tx_Data_Pkts:   50659,   122
+Rx_Data_Pkts:   115616,   244
+Unique_RX_Pkts: 50455,   122
+Rx_Data_Pkts2:   111103,   251
+Unique_RX_Pkts2: 49813,   122
+Rx_Data_Pkts3:   59854,   221
+Unique_RX_Pkts3: 49336,   122
+NORMAL BUSTED!
+NORMAL BUSTED!
+NORMAL BUSTED!
+NORMAL BUSTED!
+Now:416
+Tx_Data_Pkts:   50781,   122
+Rx_Data_Pkts:   115860,   244
+Unique_RX_Pkts: 50577,   122
+Rx_Data_Pkts2:   111347,   244
+Unique_RX_Pkts2: 49935,   122
+Rx_Data_Pkts3:   59976,   122
+Unique_RX_Pkts3: 49458,   122
+miscalculation on FORWARDER Car:10.1.0.244
+Upper:13.0587
+BS_count:6,LowerBound:12.6506
+CHAIN:
+10.1.1.15(109.969),
+10.1.1.4(460.587),
+10.1.0.248(817.779),
+CR DONE
+miscalculation on FORWARDER Car:10.1.1.34
+Upper:71.1962
+BS_count:9,LowerBound:12.2369
+CHAIN:
+10.1.1.48(177.362),
+10.1.1.40(458.253),
+10.1.1.24(825.208),
+CR DONE
+Now:417
+Tx_Data_Pkts:   50903,   122
+Rx_Data_Pkts:   116135,   275
+Unique_RX_Pkts: 50699,   122
+Rx_Data_Pkts2:   111591,   244
+Unique_RX_Pkts2: 50057,   122
+Rx_Data_Pkts3:   60098,   122
+Unique_RX_Pkts3: 49580,   122
+NORMAL BUSTED!
+NORMAL BUSTED!
+Now:418
+Tx_Data_Pkts:   51025,   122
+Rx_Data_Pkts:   116379,   244
+Unique_RX_Pkts: 50821,   122
+Rx_Data_Pkts2:   111835,   244
+Unique_RX_Pkts2: 50179,   122
+Rx_Data_Pkts3:   60220,   122
+Unique_RX_Pkts3: 49702,   122
+NORMAL BUSTED!
+Now:419
+Tx_Data_Pkts:   51147,   122
+Rx_Data_Pkts:   116624,   245
+Unique_RX_Pkts: 50944,   123
+Rx_Data_Pkts2:   112079,   244
+Unique_RX_Pkts2: 50301,   122
+Rx_Data_Pkts3:   60342,   122
+Unique_RX_Pkts3: 49824,   122
+!IsInMyArea192.168.1.24,Pos:-14259,-62.2227,-54.0173 Start:0,0;End:1000,-10
+!IsInMyArea192.168.1.4,Pos:-13054.1,449.846,-54.0649 Start:1000,0;End:1010,1000
+Tx_Data_Pkts:   51269
+Rx_Data_Pkts3:   60342
+Unique_RX_Pkts3: 49824
+Best delay:   7817us
+Worst delay:   9721us
+Avg delay: 8502.99us
+

@@ -1,0 +1,10 @@
+prefix=/usr/local
+libdir=/usr/local/lib
+includedir=/usr/local/include/ns3.25
+
+Name: libns3-distancebased
+Description: ns-3 module ns3-distancebased
+Version: 3.25
+Libs: -L${libdir} -Wl,-Bdynamic -lns3.25-distancebased-debug
+Cflags: -I${includedir}
+Requires: libns3.25-internet-debug libns3.25-config-store-debug libns3.25-point-to-point-debug libns3.25-wifi-debug libns3.25-applications-debug

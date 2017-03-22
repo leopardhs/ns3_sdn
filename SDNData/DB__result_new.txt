@@ -1,0 +1,9 @@
+Mode:  DBDataSet:  
+Starting simulation for 153 s ...
+Now:  0Tx_Data_Pkts:   0Rx_Data_Pkts:   0
+Now:  1Tx_Data_Pkts:   122Rx_Data_Pkts:   96
+Now:  2Tx_Data_Pkts:   244Rx_Data_Pkts:   186
+Now:  3Tx_Data_Pkts:   366Rx_Data_Pkts:   278
+Now:  4Tx_Data_Pkts:   488Rx_Data_Pkts:   359
+Now:  5Tx_Data_Pkts:   610Rx_Data_Pkts:   433
+Now:  6Tx_Data_Pkts:   732Rx_Data_Pkts:   511

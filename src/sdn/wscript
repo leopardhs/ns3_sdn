@@ -1,0 +1,26 @@
+## -*- Mode: python; py-indent-offset: 4; indent-tabs-mode: nil; coding: utf-8; -*-
+
+def build(bld):
+    module = bld.create_ns3_module('sdn', ['internet', 'config-store', 'point-to-point', 'wifi', 'applications'])
+    module.includes = '.'
+    module.source = [
+        'model/sdn-header.cc',
+        'model/sdn-routing-protocol.cc',
+        'model/sdn-duplicate-detection.cc',
+        'helper/sdn-helper.cc',
+        ]
+
+
+
+    headers = bld(features='ns3header')
+    headers.module = 'sdn'
+    headers.source = [
+        'model/sdn-routing-protocol.h',
+        'model/sdn-header.h',
+        'model/sdn-duplicate-detection.h',
+        'helper/sdn-helper.h',
+        ]
+
+
+
+

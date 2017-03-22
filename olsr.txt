@@ -1,0 +1,3379 @@
+Waf: Entering directory `/host/chl/sdn/2s/build'
+Waf: Leaving directory `/host/chl/sdn/2s/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (16.115s)
+Mode: OLSR-N
+SumoMobility::Install
+mobility.Install
+0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80,81,82,83,84,85,86,87,88,89,90,91,92,93,94,95,96,97,98,99,100,101,102,103,104,105,106,107,108,109,110,111,112,113,114,115,116,117,118,119,120,121,122,123,124,125,126,127,128,129,130,131,132,133,134,135,136,137,138,139,140,141,142,143,144,145,146,147,148,149,150,151,152,153,154,155,156,157,158,159,160,161,162,163,164,165,166,167,168,169,170,171,172,173,174,175,176,177,178,179,180,181,182,183,184,185,186,187,188,189,190,191,192,193,194,195,196,197,198,199,200,201,202,203,204,205,206,207,208,209,210,211,212,213,214,215,216,217,218,219,220,221,222,223,224,225,226,227,228,229,230,231,232,233,234,235,236,237,238,239,240,241,242,243,244,245,246,247,248,249,250,251,252,253,254,255,256,257,258,259,260,261,262,263,264,265,266,267,268,269,270,271,272,273,274,275,276,277,278,279,280,281,282,283,284,285,286,287,288,289,290,291,292,293,294,295,296,297,298,299,300,301,302,303,304,305,306,307,308,309,310,311,
+Max time in fcdoutput.xml is 419
+Now?0
+OLSR
+internet.Install Done
+IPV4S Assigned
+Starting simulation for 420 s ...
+Now:0
+Tx_Data_Pkts:   0,   0
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:1
+Tx_Data_Pkts:   122,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:2
+Tx_Data_Pkts:   244,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:3
+Tx_Data_Pkts:   366,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:4
+Tx_Data_Pkts:   488,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:5
+Tx_Data_Pkts:   610,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:6
+Tx_Data_Pkts:   732,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:7
+Tx_Data_Pkts:   854,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:8
+Tx_Data_Pkts:   976,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:9
+Tx_Data_Pkts:   1098,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:10
+Tx_Data_Pkts:   1220,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:11
+Tx_Data_Pkts:   1342,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:12
+Tx_Data_Pkts:   1464,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:13
+Tx_Data_Pkts:   1586,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:14
+Tx_Data_Pkts:   1708,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:15
+Tx_Data_Pkts:   1831,   123
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:16
+Tx_Data_Pkts:   1953,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:17
+Tx_Data_Pkts:   2075,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:18
+Tx_Data_Pkts:   2197,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:19
+Tx_Data_Pkts:   2319,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:20
+Tx_Data_Pkts:   2441,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:21
+Tx_Data_Pkts:   2563,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:22
+Tx_Data_Pkts:   2685,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:23
+Tx_Data_Pkts:   2807,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:24
+Tx_Data_Pkts:   2929,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:25
+Tx_Data_Pkts:   3051,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:26
+Tx_Data_Pkts:   3173,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:27
+Tx_Data_Pkts:   3295,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:28
+Tx_Data_Pkts:   3417,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:29
+Tx_Data_Pkts:   3540,   123
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:30
+Tx_Data_Pkts:   3662,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:31
+Tx_Data_Pkts:   3784,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:32
+Tx_Data_Pkts:   3906,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:33
+Tx_Data_Pkts:   4028,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:34
+Tx_Data_Pkts:   4150,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:35
+Tx_Data_Pkts:   4272,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:36
+Tx_Data_Pkts:   4394,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:37
+Tx_Data_Pkts:   4516,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:38
+Tx_Data_Pkts:   4638,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:39
+Tx_Data_Pkts:   4760,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:40
+Tx_Data_Pkts:   4882,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:41
+Tx_Data_Pkts:   5004,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:42
+Tx_Data_Pkts:   5126,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:43
+Tx_Data_Pkts:   5249,   123
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:44
+Tx_Data_Pkts:   5371,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:45
+Tx_Data_Pkts:   5493,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:46
+Tx_Data_Pkts:   5615,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:47
+Tx_Data_Pkts:   5737,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:48
+Tx_Data_Pkts:   5859,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:49
+Tx_Data_Pkts:   5981,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:50
+Tx_Data_Pkts:   6103,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:51
+Tx_Data_Pkts:   6225,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:52
+Tx_Data_Pkts:   6347,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:53
+Tx_Data_Pkts:   6469,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:54
+Tx_Data_Pkts:   6591,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:55
+Tx_Data_Pkts:   6713,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:56
+Tx_Data_Pkts:   6835,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:57
+Tx_Data_Pkts:   6958,   123
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:58
+Tx_Data_Pkts:   7080,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:59
+Tx_Data_Pkts:   7202,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:60
+Tx_Data_Pkts:   7324,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:61
+Tx_Data_Pkts:   7446,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:62
+Tx_Data_Pkts:   7568,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:63
+Tx_Data_Pkts:   7690,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:64
+Tx_Data_Pkts:   7812,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:65
+Tx_Data_Pkts:   7934,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:66
+Tx_Data_Pkts:   8056,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:67
+Tx_Data_Pkts:   8178,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:68
+Tx_Data_Pkts:   8300,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:69
+Tx_Data_Pkts:   8422,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:70
+Tx_Data_Pkts:   8544,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:71
+Tx_Data_Pkts:   8666,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:72
+Tx_Data_Pkts:   8789,   123
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:73
+Tx_Data_Pkts:   8911,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:74
+Tx_Data_Pkts:   9033,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:75
+Tx_Data_Pkts:   9155,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:76
+Tx_Data_Pkts:   9277,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:77
+Tx_Data_Pkts:   9399,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:78
+Tx_Data_Pkts:   9521,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:79
+Tx_Data_Pkts:   9643,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:80
+Tx_Data_Pkts:   9765,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:81
+Tx_Data_Pkts:   9887,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:82
+Tx_Data_Pkts:   10009,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:83
+Tx_Data_Pkts:   10131,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:84
+Tx_Data_Pkts:   10253,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:85
+Tx_Data_Pkts:   10375,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:86
+Tx_Data_Pkts:   10498,   123
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:87
+Tx_Data_Pkts:   10620,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:88
+Tx_Data_Pkts:   10742,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:89
+Tx_Data_Pkts:   10864,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:90
+Tx_Data_Pkts:   10986,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:91
+Tx_Data_Pkts:   11108,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:92
+Tx_Data_Pkts:   11230,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:93
+Tx_Data_Pkts:   11352,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:94
+Tx_Data_Pkts:   11474,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:95
+Tx_Data_Pkts:   11596,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:96
+Tx_Data_Pkts:   11718,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:97
+Tx_Data_Pkts:   11840,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:98
+Tx_Data_Pkts:   11962,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:99
+Tx_Data_Pkts:   12084,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:100
+Tx_Data_Pkts:   12207,   123
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:101
+Tx_Data_Pkts:   12329,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:102
+Tx_Data_Pkts:   12451,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:103
+Tx_Data_Pkts:   12573,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:104
+Tx_Data_Pkts:   12695,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:105
+Tx_Data_Pkts:   12817,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:106
+Tx_Data_Pkts:   12939,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:107
+Tx_Data_Pkts:   13061,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:108
+Tx_Data_Pkts:   13183,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:109
+Tx_Data_Pkts:   13305,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:110
+Tx_Data_Pkts:   13427,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:111
+Tx_Data_Pkts:   13549,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:112
+Tx_Data_Pkts:   13671,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:113
+Tx_Data_Pkts:   13793,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:114
+Tx_Data_Pkts:   13916,   123
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:115
+Tx_Data_Pkts:   14038,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:116
+Tx_Data_Pkts:   14160,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:117
+Tx_Data_Pkts:   14282,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:118
+Tx_Data_Pkts:   14404,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:119
+Tx_Data_Pkts:   14526,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:120
+Tx_Data_Pkts:   14648,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:121
+Tx_Data_Pkts:   14770,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:122
+Tx_Data_Pkts:   14892,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:123
+Tx_Data_Pkts:   15014,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:124
+Tx_Data_Pkts:   15136,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:125
+Tx_Data_Pkts:   15258,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:126
+Tx_Data_Pkts:   15380,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:127
+Tx_Data_Pkts:   15502,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:128
+Tx_Data_Pkts:   15625,   123
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:129
+Tx_Data_Pkts:   15747,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:130
+Tx_Data_Pkts:   15869,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:131
+Tx_Data_Pkts:   15991,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:132
+Tx_Data_Pkts:   16113,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:133
+Tx_Data_Pkts:   16235,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:134
+Tx_Data_Pkts:   16357,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:135
+Tx_Data_Pkts:   16479,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:136
+Tx_Data_Pkts:   16601,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:137
+Tx_Data_Pkts:   16723,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:138
+Tx_Data_Pkts:   16845,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:139
+Tx_Data_Pkts:   16967,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:140
+Tx_Data_Pkts:   17089,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:141
+Tx_Data_Pkts:   17211,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:142
+Tx_Data_Pkts:   17333,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:143
+Tx_Data_Pkts:   17456,   123
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:144
+Tx_Data_Pkts:   17578,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:145
+Tx_Data_Pkts:   17700,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:146
+Tx_Data_Pkts:   17822,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:147
+Tx_Data_Pkts:   17944,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:148
+Tx_Data_Pkts:   18066,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:149
+Tx_Data_Pkts:   18188,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:150
+Tx_Data_Pkts:   18310,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:151
+Tx_Data_Pkts:   18432,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:152
+Tx_Data_Pkts:   18554,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:153
+Tx_Data_Pkts:   18676,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:154
+Tx_Data_Pkts:   18798,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:155
+Tx_Data_Pkts:   18920,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:156
+Tx_Data_Pkts:   19042,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:157
+Tx_Data_Pkts:   19165,   123
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:158
+Tx_Data_Pkts:   19287,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:159
+Tx_Data_Pkts:   19409,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:160
+Tx_Data_Pkts:   19531,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:161
+Tx_Data_Pkts:   19653,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:162
+Tx_Data_Pkts:   19775,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:163
+Tx_Data_Pkts:   19897,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:164
+Tx_Data_Pkts:   20019,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:165
+Tx_Data_Pkts:   20141,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:166
+Tx_Data_Pkts:   20263,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:167
+Tx_Data_Pkts:   20385,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:168
+Tx_Data_Pkts:   20507,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:169
+Tx_Data_Pkts:   20629,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:170
+Tx_Data_Pkts:   20751,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:171
+Tx_Data_Pkts:   20874,   123
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:172
+Tx_Data_Pkts:   20996,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:173
+Tx_Data_Pkts:   21118,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:174
+Tx_Data_Pkts:   21240,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:175
+Tx_Data_Pkts:   21362,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:176
+Tx_Data_Pkts:   21484,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:177
+Tx_Data_Pkts:   21606,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:178
+Tx_Data_Pkts:   21728,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:179
+Tx_Data_Pkts:   21850,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:180
+Tx_Data_Pkts:   21972,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:181
+Tx_Data_Pkts:   22094,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:182
+Tx_Data_Pkts:   22216,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:183
+Tx_Data_Pkts:   22338,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:184
+Tx_Data_Pkts:   22460,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:185
+Tx_Data_Pkts:   22583,   123
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:186
+Tx_Data_Pkts:   22705,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:187
+Tx_Data_Pkts:   22827,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:188
+Tx_Data_Pkts:   22949,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:189
+Tx_Data_Pkts:   23071,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:190
+Tx_Data_Pkts:   23193,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:191
+Tx_Data_Pkts:   23315,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:192
+Tx_Data_Pkts:   23437,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:193
+Tx_Data_Pkts:   23559,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:194
+Tx_Data_Pkts:   23681,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:195
+Tx_Data_Pkts:   23803,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:196
+Tx_Data_Pkts:   23925,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:197
+Tx_Data_Pkts:   24047,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:198
+Tx_Data_Pkts:   24169,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:199
+Tx_Data_Pkts:   24291,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:200
+Tx_Data_Pkts:   24414,   123
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:201
+Tx_Data_Pkts:   24536,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:202
+Tx_Data_Pkts:   24658,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:203
+Tx_Data_Pkts:   24780,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:204
+Tx_Data_Pkts:   24902,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:205
+Tx_Data_Pkts:   25024,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:206
+Tx_Data_Pkts:   25146,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:207
+Tx_Data_Pkts:   25268,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:208
+Tx_Data_Pkts:   25390,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:209
+Tx_Data_Pkts:   25512,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:210
+Tx_Data_Pkts:   25634,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:211
+Tx_Data_Pkts:   25756,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:212
+Tx_Data_Pkts:   25878,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:213
+Tx_Data_Pkts:   26000,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:214
+Tx_Data_Pkts:   26123,   123
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:215
+Tx_Data_Pkts:   26245,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:216
+Tx_Data_Pkts:   26367,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:217
+Tx_Data_Pkts:   26489,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:218
+Tx_Data_Pkts:   26611,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:219
+Tx_Data_Pkts:   26733,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:220
+Tx_Data_Pkts:   26855,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:221
+Tx_Data_Pkts:   26977,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:222
+Tx_Data_Pkts:   27099,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:223
+Tx_Data_Pkts:   27221,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:224
+Tx_Data_Pkts:   27343,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:225
+Tx_Data_Pkts:   27465,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:226
+Tx_Data_Pkts:   27587,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:227
+Tx_Data_Pkts:   27709,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:228
+Tx_Data_Pkts:   27832,   123
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:229
+Tx_Data_Pkts:   27954,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:230
+Tx_Data_Pkts:   28076,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:231
+Tx_Data_Pkts:   28198,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:232
+Tx_Data_Pkts:   28320,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:233
+Tx_Data_Pkts:   28442,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:234
+Tx_Data_Pkts:   28564,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:235
+Tx_Data_Pkts:   28686,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:236
+Tx_Data_Pkts:   28808,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:237
+Tx_Data_Pkts:   28930,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:238
+Tx_Data_Pkts:   29052,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:239
+Tx_Data_Pkts:   29174,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:240
+Tx_Data_Pkts:   29296,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:241
+Tx_Data_Pkts:   29418,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:242
+Tx_Data_Pkts:   29541,   123
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:243
+Tx_Data_Pkts:   29663,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:244
+Tx_Data_Pkts:   29785,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:245
+Tx_Data_Pkts:   29907,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:246
+Tx_Data_Pkts:   30029,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:247
+Tx_Data_Pkts:   30151,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:248
+Tx_Data_Pkts:   30273,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:249
+Tx_Data_Pkts:   30395,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:250
+Tx_Data_Pkts:   30517,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:251
+Tx_Data_Pkts:   30639,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:252
+Tx_Data_Pkts:   30761,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:253
+Tx_Data_Pkts:   30883,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:254
+Tx_Data_Pkts:   31005,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:255
+Tx_Data_Pkts:   31127,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:256
+Tx_Data_Pkts:   31250,   123
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:257
+Tx_Data_Pkts:   31372,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:258
+Tx_Data_Pkts:   31494,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:259
+Tx_Data_Pkts:   31616,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:260
+Tx_Data_Pkts:   31738,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:261
+Tx_Data_Pkts:   31860,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:262
+Tx_Data_Pkts:   31982,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:263
+Tx_Data_Pkts:   32104,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:264
+Tx_Data_Pkts:   32226,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:265
+Tx_Data_Pkts:   32348,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:266
+Tx_Data_Pkts:   32470,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:267
+Tx_Data_Pkts:   32592,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:268
+Tx_Data_Pkts:   32714,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:269
+Tx_Data_Pkts:   32836,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:270
+Tx_Data_Pkts:   32958,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:271
+Tx_Data_Pkts:   33081,   123
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:272
+Tx_Data_Pkts:   33203,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:273
+Tx_Data_Pkts:   33325,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:274
+Tx_Data_Pkts:   33447,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:275
+Tx_Data_Pkts:   33569,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:276
+Tx_Data_Pkts:   33691,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:277
+Tx_Data_Pkts:   33813,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:278
+Tx_Data_Pkts:   33935,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:279
+Tx_Data_Pkts:   34057,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:280
+Tx_Data_Pkts:   34179,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:281
+Tx_Data_Pkts:   34301,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:282
+Tx_Data_Pkts:   34423,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:283
+Tx_Data_Pkts:   34545,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:284
+Tx_Data_Pkts:   34667,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:285
+Tx_Data_Pkts:   34790,   123
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:286
+Tx_Data_Pkts:   34912,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:287
+Tx_Data_Pkts:   35034,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:288
+Tx_Data_Pkts:   35156,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:289
+Tx_Data_Pkts:   35278,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:290
+Tx_Data_Pkts:   35400,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:291
+Tx_Data_Pkts:   35522,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:292
+Tx_Data_Pkts:   35644,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:293
+Tx_Data_Pkts:   35766,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:294
+Tx_Data_Pkts:   35888,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:295
+Tx_Data_Pkts:   36010,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:296
+Tx_Data_Pkts:   36132,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:297
+Tx_Data_Pkts:   36254,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:298
+Tx_Data_Pkts:   36376,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:299
+Tx_Data_Pkts:   36499,   123
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:300
+Tx_Data_Pkts:   36621,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:301
+Tx_Data_Pkts:   36743,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:302
+Tx_Data_Pkts:   36865,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:303
+Tx_Data_Pkts:   36987,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:304
+Tx_Data_Pkts:   37109,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:305
+Tx_Data_Pkts:   37231,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:306
+Tx_Data_Pkts:   37353,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:307
+Tx_Data_Pkts:   37475,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:308
+Tx_Data_Pkts:   37597,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:309
+Tx_Data_Pkts:   37719,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:310
+Tx_Data_Pkts:   37841,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:311
+Tx_Data_Pkts:   37963,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:312
+Tx_Data_Pkts:   38085,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:313
+Tx_Data_Pkts:   38208,   123
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:314
+Tx_Data_Pkts:   38330,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:315
+Tx_Data_Pkts:   38452,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:316
+Tx_Data_Pkts:   38574,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:317
+Tx_Data_Pkts:   38696,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:318
+Tx_Data_Pkts:   38818,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:319
+Tx_Data_Pkts:   38940,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:320
+Tx_Data_Pkts:   39062,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:321
+Tx_Data_Pkts:   39184,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:322
+Tx_Data_Pkts:   39306,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:323
+Tx_Data_Pkts:   39428,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:324
+Tx_Data_Pkts:   39550,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:325
+Tx_Data_Pkts:   39672,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:326
+Tx_Data_Pkts:   39794,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:327
+Tx_Data_Pkts:   39916,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:328
+Tx_Data_Pkts:   40039,   123
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:329
+Tx_Data_Pkts:   40161,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:330
+Tx_Data_Pkts:   40283,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:331
+Tx_Data_Pkts:   40405,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:332
+Tx_Data_Pkts:   40527,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:333
+Tx_Data_Pkts:   40649,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:334
+Tx_Data_Pkts:   40771,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:335
+Tx_Data_Pkts:   40893,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:336
+Tx_Data_Pkts:   41015,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:337
+Tx_Data_Pkts:   41137,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:338
+Tx_Data_Pkts:   41259,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:339
+Tx_Data_Pkts:   41381,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:340
+Tx_Data_Pkts:   41503,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:341
+Tx_Data_Pkts:   41625,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:342
+Tx_Data_Pkts:   41748,   123
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:343
+Tx_Data_Pkts:   41870,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:344
+Tx_Data_Pkts:   41992,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:345
+Tx_Data_Pkts:   42114,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:346
+Tx_Data_Pkts:   42236,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:347
+Tx_Data_Pkts:   42358,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:348
+Tx_Data_Pkts:   42480,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:349
+Tx_Data_Pkts:   42602,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:350
+Tx_Data_Pkts:   42724,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:351
+Tx_Data_Pkts:   42846,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:352
+Tx_Data_Pkts:   42968,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:353
+Tx_Data_Pkts:   43090,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:354
+Tx_Data_Pkts:   43212,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:355
+Tx_Data_Pkts:   43334,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:356
+Tx_Data_Pkts:   43457,   123
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:357
+Tx_Data_Pkts:   43579,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:358
+Tx_Data_Pkts:   43701,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:359
+Tx_Data_Pkts:   43823,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:360
+Tx_Data_Pkts:   43945,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:361
+Tx_Data_Pkts:   44067,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:362
+Tx_Data_Pkts:   44189,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:363
+Tx_Data_Pkts:   44311,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:364
+Tx_Data_Pkts:   44433,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:365
+Tx_Data_Pkts:   44555,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:366
+Tx_Data_Pkts:   44677,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:367
+Tx_Data_Pkts:   44799,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:368
+Tx_Data_Pkts:   44921,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:369
+Tx_Data_Pkts:   45043,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:370
+Tx_Data_Pkts:   45166,   123
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:371
+Tx_Data_Pkts:   45288,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:372
+Tx_Data_Pkts:   45410,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:373
+Tx_Data_Pkts:   45532,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:374
+Tx_Data_Pkts:   45654,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:375
+Tx_Data_Pkts:   45776,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:376
+Tx_Data_Pkts:   45898,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:377
+Tx_Data_Pkts:   46020,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:378
+Tx_Data_Pkts:   46142,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:379
+Tx_Data_Pkts:   46264,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:380
+Tx_Data_Pkts:   46386,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:381
+Tx_Data_Pkts:   46508,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:382
+Tx_Data_Pkts:   46630,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:383
+Tx_Data_Pkts:   46752,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:384
+Tx_Data_Pkts:   46875,   123
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:385
+Tx_Data_Pkts:   46997,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:386
+Tx_Data_Pkts:   47119,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:387
+Tx_Data_Pkts:   47241,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:388
+Tx_Data_Pkts:   47363,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:389
+Tx_Data_Pkts:   47485,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:390
+Tx_Data_Pkts:   47607,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:391
+Tx_Data_Pkts:   47729,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:392
+Tx_Data_Pkts:   47851,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:393
+Tx_Data_Pkts:   47973,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:394
+Tx_Data_Pkts:   48095,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:395
+Tx_Data_Pkts:   48217,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:396
+Tx_Data_Pkts:   48339,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:397
+Tx_Data_Pkts:   48461,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:398
+Tx_Data_Pkts:   48583,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:399
+Tx_Data_Pkts:   48706,   123
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:400
+Tx_Data_Pkts:   48828,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:401
+Tx_Data_Pkts:   48950,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:402
+Tx_Data_Pkts:   49072,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:403
+Tx_Data_Pkts:   49194,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:404
+Tx_Data_Pkts:   49316,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:405
+Tx_Data_Pkts:   49438,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:406
+Tx_Data_Pkts:   49560,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:407
+Tx_Data_Pkts:   49682,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:408
+Tx_Data_Pkts:   49804,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:409
+Tx_Data_Pkts:   49926,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:410
+Tx_Data_Pkts:   50048,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:411
+Tx_Data_Pkts:   50170,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:412
+Tx_Data_Pkts:   50292,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:413
+Tx_Data_Pkts:   50415,   123
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:414
+Tx_Data_Pkts:   50537,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:415
+Tx_Data_Pkts:   50659,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:416
+Tx_Data_Pkts:   50781,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:417
+Tx_Data_Pkts:   50903,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:418
+Tx_Data_Pkts:   51025,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Now:419
+Tx_Data_Pkts:   51147,   122
+Rx_Data_Pkts:   0,   0
+Unique_RX_Pkts: 0,   0
+Rx_Data_Pkts2:   0,   0
+Unique_RX_Pkts2: 0,   0
+Rx_Data_Pkts3:   0,   0
+Unique_RX_Pkts3: 0,   0
+Tx_Data_Pkts:   51269
+Rx_Data_Pkts3:   0
+Unique_RX_Pkts3: 0
+NO PACKETS WERE RECEIVED.
+

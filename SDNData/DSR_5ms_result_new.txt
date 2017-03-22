@@ -1,0 +1,3 @@
+Mode:  DSRDataSet:  5ms
+Starting simulation for 153 s ...
+Now:  0Tx_Data_Pkts:   0Rx_Data_Pkts:   0

@@ -1,0 +1,9 @@
+#!/bin/bash
+
+echo "Enter Name Of DataSet:"
+read DS
+./waf -j 8 --run  "SDN --mod=0 --ds=$DS"
+./waf -j 8 --run  "SDN --mod=1 --ds=$DS"
+./waf -j 8 --run  "SDN --mod=2 --ds=$DS"
+./waf -j 8 --run  "SDN --mod=3 --ds=$DS"
+./waf -j 8 --run  "SDN --mod=4 --ds=$DS"

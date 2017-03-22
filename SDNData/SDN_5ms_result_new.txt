@@ -1,0 +1,7 @@
+Mode:  SDNDataSet:  5ms
+Starting simulation for 153 s ...
+Now:  0Tx_Data_Pkts:   0Rx_Data_Pkts:   0
+Now:  1Tx_Data_Pkts:   122Rx_Data_Pkts:   0
+Now:  2Tx_Data_Pkts:   244Rx_Data_Pkts:   0
+Now:  3Tx_Data_Pkts:   366Rx_Data_Pkts:   0
+Now:  4Tx_Data_Pkts:   488Rx_Data_Pkts:   0
