@@ -825,7 +825,8 @@ RoutingProtocol::ProcessCRREP(const sdn::MessageHeader &msg)//GC compute route
           route.pop_front();
           for(uint32_t j = 0; j < gc_lc_graph.size(); j++)
           {
-            if(gc_lc_graph[temp.back()][j].size() != 0 && std::find(temp.begin(), temp.end(), j) == temp.end() && lineNoUsed(temp.back(), j))
+            //&& lineNoUsed(temp.back(), j)
+            if(gc_lc_graph[temp.back()][j].size() != 0 && std::find(temp.begin(), temp.end(), j) == temp.end() )
             {
               std::vector<int> temp2 = temp;
               temp2.push_back(j);
