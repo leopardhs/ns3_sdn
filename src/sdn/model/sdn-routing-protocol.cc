@@ -769,7 +769,12 @@ RoutingProtocol::ProcessCRREP(const sdn::MessageHeader &msg)//GC compute route
   std::map<Ipv4Address,CarInfo>::iterator it1 = m_gc_info.find(source);
   std::map<Ipv4Address,CarInfo>::iterator it2 = m_gc_info.find(dest);
   std::vector<int> v;
-  std::deque<std::vector<int> > route; 
+  std::deque<std::vector<int> > route;
+  for(std::map<std::pair<Ipv4Address, Ipv4Address>, std::vector<int>>::iterator it = candidate.begin(); it != candidate.end(); it++)
+  {
+    if(it->first.first == source && it->first.second == dest)
+      return;
+  }
  // std::cout << "dest " << dest << std::endl;
  // std::cout << "source " << source << std::endl;
   // std::cout << "   ";
@@ -810,7 +815,7 @@ RoutingProtocol::ProcessCRREP(const sdn::MessageHeader &msg)//GC compute route
       t.push_back(a);
       route.push_back(t);
       //std::cout << "a=" << a << " b=" << b << std::endl;
-      while(route.size() != 0)
+      while(route.size() != 0 )
       {
         uint32_t size = route.size();
         for(uint32_t i = 0; i < size; i++)
