@@ -167,7 +167,7 @@ private:
 
   Ptr<Ipv4> m_ipv4;
 
-  void Clear ();//implemented
+  void Clear (Ipv4Address &dest);//implemented
   uint32_t GetSize () const { return (m_table.size ()); }
   void RemoveEntry (const Ipv4Address &dest);//implemented
   void AddEntry (const Ipv4Address &dest,

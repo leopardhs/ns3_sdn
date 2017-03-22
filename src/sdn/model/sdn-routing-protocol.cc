@@ -668,7 +668,7 @@ RoutingProtocol::ProcessRm (const sdn::MessageHeader &msg)
 
       NS_ASSERT (rm.GetRoutingMessageSize() >= 0);
 
-      Clear();
+      
 
       SetCCHInterface(m_CCHinterface);
       SetSCHInterface(m_SCHinterface);
@@ -681,6 +681,7 @@ RoutingProtocol::ProcessRm (const sdn::MessageHeader &msg)
             it != rm.routingTables.end();
             ++it)
       {
+        Clear(it->destAddress);
         //std::cout<<"9999 "<<rm.ID.Get ()<<" "<<rm.ID.Get ()%256<<" "<<it->destAddress.Get ()<<" "<<it->destAddress.Get ()%256<<" "<<it->nextHop.Get ()<<" "<<it->nextHop.Get ()%256<<std::endl;
         AddEntry(it->destAddress,
                  it->mask,
@@ -1328,12 +1329,15 @@ RoutingProtocol::ProcessCRINFO (const sdn::MessageHeader &msg)//LC to car and ot
 }
 
 void
-RoutingProtocol::Clear()
+RoutingProtocol::Clear(Ipv4Address &dest)
 {
   //std::cout << "13" << std::endl;
   NS_LOG_FUNCTION_NOARGS();
-  m_table.clear();
-  
+  std::map<Ipv4Address, RoutingTableEntry>::iterator it = m_table.find(dest);
+  if(it != m_table.end())
+  {
+    m_table.erase(it);
+  }
 }
 
 void
