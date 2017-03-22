@@ -1329,7 +1329,7 @@ RoutingProtocol::ProcessCRINFO (const sdn::MessageHeader &msg)//LC to car and ot
 }
 
 void
-RoutingProtocol::Clear(Ipv4Address &dest)
+RoutingProtocol::Clear(const Ipv4Address &dest)
 {
   //std::cout << "13" << std::endl;
   NS_LOG_FUNCTION_NOARGS();
