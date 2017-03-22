@@ -466,7 +466,7 @@ void VanetSim::ConfigApp()
   Ipv4Address bcast = theinterface.GetLocal ().GetSubnetDirectedBroadcast (theinterface.GetMask ());*/
 	Address remote (InetSocketAddress(m_SCHInterfaces.GetAddress(nodeNum+25), m_port));
 	OnOffHelper Source("ns3::UdpSocketFactory",remote);//SendToSink
-	Source.SetConstantRate(DataRate("10kbps"));
+	Source.SetConstantRate(DataRate("8192bps"), 8192);
 	Source.SetAttribute("OffTime",StringValue ("ns3::ConstantRandomVariable[Constant=0.0]"));
 
 
